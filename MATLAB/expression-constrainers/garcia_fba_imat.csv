@@ -1,0 +1,3745 @@
+Subsystems,t0005,t0060,t1440,t2880,Genes
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",-999.8923,-1000,-1000,-999.9001,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"beta-Alanine metabolism",0,0,0.001,0,ABP1,AOC2,AOC3
+"Transport, Extracellular",0,0,0,0,
+"Lysine Metabolism",0,0,0,0,
+"Vitamin D",0,0,0,0,
+"Vitamin D",0,0,0,0,
+"Vitamin D",0,0,0,0,
+"Vitamin D",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Vitamin D",0,0,0,0,CYP24A1
+"Vitamin D",0,0,0,0,CYP24A1
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Mitochondrial",0,1000,1000,1000,
+"Transport, Mitochondrial",0,1000,1000,1000,
+"Transport, Extracellular",-100,100,100,-100,
+"Transport, Extracellular",-100,100,100,-100,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Vitamin D",0,0,0,0,CYP27B1
+"Vitamin D",0,0,0,0,CYP27B1
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,
+"Cysteine Metabolism",0,0,0,0,
+"Lysine Metabolism",-0.03955105,-0.03954152,-0.03949385,-0.03950815,SLC25A21
+"Pyrimidine Catabolism",0,0,0,0,
+"Propanoate Metabolism",-0.07492027,-0.07489739,-0.07478297,-0.0748173,LDHAL6A,LDHA,LDHB,LDHC,UEVLD,LDHAL6B
+"Transport, Extracellular",-0.07492027,-0.07489739,-0.07478297,-0.0748173,SLC16A1,SLC16A3,SLC16A7
+"Transport, Extracellular",-100,-100,-100,-100,SLC4A5,SLC4A4
+"Transport, Extracellular",0,0,0,0,
+"Lysine Metabolism",0.08850616,0.08849567,0.08844323,0.08845896,DLD,DLST,OGDH,PDHX
+"Tryptophan metabolism",0.08850616,0.08849567,0.08844323,0.08845896,SLC25A21
+"Tyrosine metabolism",0,0,0,0,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,COMT
+"Transport, Extracellular",0,0,0,0,SLC16A10
+"Tyrosine metabolism",1000,0,1000,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Tyrosine metabolism",-1000,0,-1000,0,ALDH3A1,ALDH3B1,ALDH3B2
+"Tyrosine metabolism",1000,0,1000,0,ALDH3A1,ALDH1A3,ALDH3B1
+"Tyrosine metabolism",-1000,0,-1000,0,ALDH3B1,ALDH3B2
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Tyrosine metabolism",0.08955105,0.08954152,0.08949385,0.08950815,HPD
+"Transport, Nuclear",0.0619293,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0,0,0,0,ABAT
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Sphingolipid Metabolism",0.002716501,0.00271898,0.002731372,0.002727655,KDSR
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,HAAO
+"Butanoate Metabolism",0,0,0,0,ECHDC2
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,
+"Transport, Extracellular",-100,-100,-100,-100,SLC4A5,SLC4A4
+"Tryptophan metabolism",0,0,0,0,AADAT,CCBL1
+"Tyrosine metabolism",0,0,0,0,DDC
+"beta-Alanine metabolism",0,0,0,0,HIBCH
+"Propanoate Metabolism",0,0,0,0,
+"Tryptophan metabolism",0,0,0,0,DDC
+"Tryptophan metabolism",0,0,0,0,MAOA,MAOB
+"Tyrosine metabolism",0,0,0,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0.2159342,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Tyrosine metabolism",0.0899919,0,1000,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Tyrosine metabolism",-0.0899919,0,-1000,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Tyrosine metabolism",0,0,0,0,MAOA,MAOB
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Transport, Mitochondrial",0,-0.09654769,-0.09653195,0,SLC25A13,SLC25A12
+"Taurine and hypotaurine metabolism",0,0,0,0,GAD1,GAD2,CSAD
+"Taurine and hypotaurine metabolism",0,0,0,0.04826834,
+"Cysteine Metabolism",0.09555083,0,0,0,GOT1
+"Cysteine Metabolism",0,0.09654769,0.09653195,0,GOT2
+"Cysteine Metabolism",0.09555083,0,0,0,
+"Cysteine Metabolism",0,0.09654769,0.09653195,0,
+"Tyrosine metabolism",0,0,0,0,MAOA,MAOB
+"Tyrosine metabolism",0,0,0,0,MAOA,MAOB
+"Tyrosine metabolism",0,0,0,0,ABP1,AOC2,MAOA,MAOB,AOC3
+"Transport, Mitochondrial",0,0,0.001,0.001,
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Arginine and Proline Metabolism",-1000,-1000,-1000,-1000,ALDH4A1
+"Tyrosine metabolism",0,0,0,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Transport, Mitochondrial",0.09579161,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"CYP Metabolism",0,0,0,0,SULT1A2,SULT1A1,SULT1A3
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Steroid Metabolism",0,0,0,0,SULT2A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Heme Biosynthesis",-0.016,-0.016,0,-0.008,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC19A1
+"Tryptophan metabolism",0,0,0,0,DDC
+"Transport, Extracellular",0,0,0,0,
+"Tryptophan metabolism",0,0,0,0,AOX1
+"Tryptophan metabolism",0,0,0,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Tryptophan metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"Tryptophan metabolism",0,0,0,0,MAOA,MAOB
+"Tryptophan metabolism",0,0,0,0,IDO1
+"Transport, Extracellular",0,0,0,0,SLC18A1,SLC18A2
+"Tryptophan metabolism",0,0,0,0,DDC
+"Tryptophan metabolism",0,0,0,0,MAOA,MAOB
+"Transport, Extracellular",-100,-100,-100,-100,FOLR1,FOLR2L,FOLR3
+"Transport, Extracellular",100,100,100,100,SLC19A1
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,A4GALT
+"Sphingolipid Metabolism",0,0,0,0,A4GALT
+"O-Glycan Biosynthesis",0,0,0,0,A4GNT
+"O-Glycan Biosynthesis",0,0,0,0,A4GNT
+"Propanoate Metabolism",1.213281,1.006306,1.108218,-0.1218095,AACS
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,AOC3
+"Transport, Mitochondrial",0,0,0,0,
+"Lysine Metabolism",0,0,0,0,
+"Lysine Metabolism",0,0,0,0,
+"Lysine Metabolism",0.03955105,0.03954152,0.03949385,0.03950815,
+"Lysine Metabolism",0.03955105,0.03954152,0.03949385,0.03950815,AADAT
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Blood Group Biosynthesis",0,0,0,0,ABO
+"Glutamate metabolism",0,0,0.001,0.001,ABAT
+"Pentose and Glucuronate Interconversions",0,0,0,-0.001,
+"Transport, Extracellular",0,0,0,0.001,
+"beta-Alanine metabolism",0,0,0.001,0.001,ALDH9A1
+"Transport, Extracellular",40.64299,-100,-100,-100,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"Transport, Extracellular",100,-100,-100,-100,SLC6A1,SLC6A11,SLC6A12,SLC6A13
+"Cholesterol Metabolism",0,998.9937,0,0,ACAT2
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,ACAT1
+"Tryptophan metabolism",-1.138405,-1000,-1.107218,0.1228095,ACAT2
+"Tryptophan metabolism",1.035224,0.8912473,1.371752,-0.1335642,HADHA,HADHB,ACAT1
+"Cholesterol Metabolism",0,0,0,0,ACAT2
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Fatty Acid Metabolism",0,0,0,0,ACAA1
+"Transport, Extracellular",0,0,0,0,SLC16A1,SLC16A7
+"Transport, Mitochondrial",-1.12373,-0.9167643,-1.018724,0.2113177,SLC16A1
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Fatty Acid Metabolism",1.926318,1.927996,1.936382,1.933866,ACACA,ACACB
+"Fatty Acid Metabolism",0,0,0,0,ACACB
+"Propanoate Metabolism",0,0,0,0,ACSS2
+"Propanoate Metabolism",0,0,0,0,ACSS1
+"Transport, Extracellular",0,0,0,0,SLC33A1
+"Transport, Nuclear",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,SLC33A1
+"Transport, Extracellular",0,0,-0.3789767,-0.1038733,SLC16A1,SLC16A3,SLC16A7
+"Transport, Mitochondrial",0,0,-0.3789767,-0.1038733,SLC16A1
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,RENBP
+"Aminosugar Metabolism ",0,0,0,0,GNPNAT1
+"Aminosugar Metabolism ",0.001,0.004,0,0.001,NAGK
+"Aminosugar Metabolism ",0.001,0.004,0,0.001,PGM3
+"Transport, Lysosomal",0.001,0.004,0,0.001,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGL
+"Urea cycle/amino group metabolism",0,0,0,0,NAGS
+"Glycerophospholipid Metabolism",0,0,0,0,ACHE
+"Transport, Extracellular",0,0,0,0,SLC18A3
+"Transport, Nuclear",0,0,0,0,
+"Citric Acid Cycle",0,0.1912404,0,2.45718,ACLY
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,NANS
+"Aminosugar Metabolism ",0,0,0,0,NANS
+"Aminosugar Metabolism ",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,SLC17A5
+"Transport, Nuclear",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,ACADM,ACADSB
+"Butanoate Metabolism",0,0,0,0,ACAD8,ACAD9,ACADM,ACADS,ACADSB,ACAD10,ACAD11
+"Valine, Leucine, and Isoleucine Metabolism",0.03748831,0.0374769,0.03741982,0.03743694,IVD
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,ACAD8,ACADM
+"Pyruvate Metabolism",0,0,0,0,ACOT12
+"Fatty Acid Metabolism",0.001,6.255056,0.001,0.3576722,ACOX1
+"Fatty Acid Metabolism",0,0,0,0,FASN
+"Urea cycle/amino group metabolism",0,0,0,0,ACY1
+"Citric Acid Cycle",0,0,0,0,IREB2,ACO1
+"Citric Acid Cycle",0,-0.1912404,0,-0.1887768,ACO2
+"Bile Acid Biosynthesis",0.001,0,0,0,ACOX2
+"Bile Acid Biosynthesis",0.001,0,0,0,ACOX2
+"Riboflavin Metabolism",0,0,0,0,ACP1
+"Transport, Mitochondrial",0.001,0.001,0.001,0.001,SLC25A20
+"Glycolysis/Gluconeogenesis",0,0,0,0,ACSS2,AACS
+"Propanoate Metabolism",0,0,0,0,ACSS2,AACS
+"Tryptophan metabolism",0,0,0,0,ASMT
+"Tryptophan metabolism",0,0,0,0,ASMT
+"Glycolysis/Gluconeogenesis",0,0,0,0,ACSS1
+"Pyruvate Metabolism",0,0,0,0,CYP2E1
+"Pyruvate Metabolism",0,0,0,0,CYP2E1
+"Glycolysis/Gluconeogenesis",0,0,0,0,RWDD2A,ACYP1,ACYP2
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Purine Catabolism",0,0,0,0,ADA
+"Nucleotides",0,0,0,0,ADA
+"Propanoate Metabolism",0,0,0.3789767,0.1038733,
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Peroxisomal",0,0,0,0,
+"Nucleotides",1000,1000,1000,1000,AK7,AK1,AK5
+"Nucleotides",-1000,-1000,-1000,-1000,AK2,AK3L1
+"Nucleotides",-503.5295,-998.5965,-998.7721,-1000,AK5
+"Nucleotides",1000,1000,1000,1000,AK3
+"Nucleotides",-0.002558696,-0.007836937,-0.002572704,-0.00485875,AK5
+"Arginine and Proline Metabolism",0,0,0.001,0,AMD1
+"Nucleotides",0,0,0,0,ADCY1,ADCY2,ADCY3,ADCY5,ADCY6,ADCY7,ADCY8,ADCY9,ADCY4,ADCY10
+"Nucleotides",0.05557267,0.06091297,0.05695902,0.05715198,ADK
+"Nucleotides",0,0,0,0,
+"Transport, Extracellular",-100,100,-100,100,SLC29A1,SLC29A2
+"Transport, Extracellular",0,-100,0,-100,SLC28A3,SLC28A2,SLC28A1
+"Transport, Extracellular",100,0,100,0,SLC28A3
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0,0,SLC29A1
+"Nucleotides",0,0,0,0,NUDT5
+"Nucleotides",0,0,0,0,NUDT5
+"Nucleotides",0,0,0.001,0.001,NUDT5
+"Nucleotides",0,0,0,0,NUDT9
+"Transport, Extracellular",0,0,0,0,CD38
+"Salvage Pathway",0,0,0,0.001,APRT
+"Transport, Peroxisomal",-0.337092,-0.3013667,-0.3027403,-0.3023283,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,SLC18A1,SLC18A2
+"Transport, Extracellular",-100,-100,-100,-100,
+"Selenoamino acid metabolism",0,0,0,0,PAPSS2,PAPSS1
+"Nucleotides",0,0,0,0.002,PAPSS2,PAPSS1
+"Nucleotides",0.008814539,0.008822581,0.008862794,0.00885073,ADSL
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,ADSL
+"Nucleotides",0.008814539,0.008822581,0.008862794,0.00885073,ADSSL1,ADSS
+"Transport, Extracellular",0,0,0,0,
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Keratan sulfate biosynthesis",0,0,0,0,B3GNT3,B3GNT2,B3GNT1,,B3GNT8,B3GNT4,B3GNT7
+"Aminosugar Metabolism ",0,0,0,0,AMDHD2
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,AGMAT
+"Triacylglycerol Synthesis",0.112276,0.1123785,0.1128907,0.112737,AGPAT1,AGPAT2,AGPAT6,AGPAT5,AGPAT3,AGPAT4
+"Urea cycle/amino group metabolism",0,0,0,0,ALDH18A1
+"Glycerophospholipid Metabolism",0,0,0,0,AGPS
+"Transport, Peroxisomal",0,0,0,0,
+"Alanine and Aspartate Metabolism",0,0,0,0,AGXT2L1,AGXT2
+"Alanine and Aspartate Metabolism",0,0,0.1193928,0,AGXT
+"Transport, Extracellular",0,0,0,0,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Methionine Metabolism",0.05557267,0.05563706,0.05595902,0.05586243,AHCYL1,AHCY
+"Transport, Nuclear",0,0,0,0,
+"Transport, Endoplasmic Reticular",-0.05557267,0,-0.04151561,0,
+"N-Glycan Degradation",0,0,0,0,HEXA,HEXB
+"N-Glycan Degradation",0,0,0,0,HEXA,HEXB
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,ATIC
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,PAICS
+"Citric Acid Cycle",0.1916586,0,0.1881495,0,DLD,DLST,OGDH,PDHX
+"Transport, Mitochondrial",-1000,996.0115,-3.580868,-2.024006,SLC25A11
+"Transport, Extracellular",0,0,0,0,SLC13A3
+"Transport, Peroxisomal",0,0,0,0,
+"Steroid Metabolism",0,0,0,0,AKR1C1
+"Bile Acid Biosynthesis",0.001,0,0,0,AKR1C4
+"Bile Acid Biosynthesis",0.001,0,0,0,AKR1C4
+"Bile Acid Biosynthesis",0.001,0,0,0,AKR1D1
+"Bile Acid Biosynthesis",0.001,0,0,0,AKR1D1
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,-100,100,SLC1A4,SLC1A5
+"Transport, Extracellular",-100,-70.49941,100,100,SLC7A10,SLC3A2
+"Transport, Extracellular",100,99.95,0,-100,SLC7A10,SLC3A2
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",0.2,-100,-100,-100,SLC7A10,SLC3A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC7A10,SLC3A2
+"Alanine and Aspartate Metabolism",0,0,0,0,PROSC
+"Transport, Extracellular",100,-16.50015,-100,0.05,SLC1A4,SLC1A5
+"Glycine, Serine, and Threonine Metabolism",0.016,0.016,0,0.008,ALAS1,ALAS2,GCAT
+"Glutamate metabolism",-0.03517918,-0.03530252,-0.03591922,-0.03573421,GPT,GPT2
+"Transport, Extracellular",-100,-0.05,100,-100,SLC1A4,SLC1A5
+"Transport, Extracellular",100,100,100,100,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"Transport, Extracellular",-100,100,100,-100,SLC6A14,SLC38A2,SLC38A4,SLC7A1,SLC7A2,SLC38A1,SLC7A3
+"Transport, Extracellular",-100,46.60073,100,100,SLC38A3,SLC38A5
+"Miscellaneous",0,0,-0.03926985,-0.1656046,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Pyruvate Metabolism",1000,0,995.6339,0,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Pyruvate Metabolism",0,0,0,0,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Pyruvate Metabolism",1000,1000,1000,1000,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Pyruvate Metabolism",0,0,0,0,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Glycolysis/Gluconeogenesis",0,0,0,0,ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7,ADHFE1,ZADH2
+"Glycolysis/Gluconeogenesis",0,0,0,0,AKR1A1
+"Phenylalanine metabolism",0,0,0,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Phenylalanine metabolism",0,0,0,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2
+"Tryptophan metabolism",0,0,0,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Tryptophan metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"Fatty Acid Metabolism",0,0,0,0,ALDH3A2
+"Glycolysis/Gluconeogenesis",0,0,0,0,ALDH1A1,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Glycolysis/Gluconeogenesis",0,0,0,0,ALDH2,ALDH1B1
+"Glycolysis/Gluconeogenesis",0,0,0,0,ALDH3A1,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH1A2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,ALPI,ALPL,ALPP,ALPPL2
+"Eicosanoid Metabolism",0,0,0,0,ALOX12
+"Eicosanoid Metabolism",0,0,0,0,ALOX12B
+"Eicosanoid Metabolism",0,0,0,0,ALOX15,ALOX15B
+"Eicosanoid Metabolism",0,0,0,0,ALOX5
+"Eicosanoid Metabolism",0,0,0,0,ALOX5
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,AKR1B1
+"Pyruvate Metabolism",0,0,0,0,AKR1A1,AKR1B1,AKR7A2
+"Pyruvate Metabolism",0,0,0,0,AKR1A1,AKR1B1,AKR7A2
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,
+"Bile Acid Biosynthesis",0.001,0,0,0,AMACR
+"Bile Acid Biosynthesis",0,0,0,0,AMACR
+"Bile Acid Biosynthesis",0.001,0,0,0,AMACR
+"Bile Acid Biosynthesis",0,0,0,0,AMACR
+"Aminosugar Metabolism ",0,0,0,0,GNE,NAGK
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,
+"Transport, Endoplasmic Reticular",0.05557267,0,0.04151561,0,
+"Transport, Mitochondrial",0,0.05563706,0.01444341,0.05586243,SLC25A26
+"Transport, Nuclear",0,0,0,0,
+"Nucleotides",0,0,0,0,AMPD1,AMPD2,AMPD3
+"Glutathione Metabolism",0,0,0,0.001,ANPEP
+"Glutathione Metabolism",0,0,0.001,0,ANPEP
+"Transport, Peroxisomal",-0.002,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Starch and Sucrose Metabolism",0,0,0,0,SLC7A9,AMY1A,AMY1B,AMY1C,AMY2A,AMY2B,SLC3A1,SLC3A2
+"Starch and Sucrose Metabolism",0,0,0,0,SLC7A9,AMY1A,AMY1B,AMY1C,AMY2A,AMY2B,SLC3A1,SLC3A2
+"Transport, Extracellular",0,0,0,0,ABCC1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,
+"Nucleotides",0,0,0,0,NUDT2
+"beta-Alanine metabolism",0.001,0.001,0.001,0,ABAT
+"Transport, Extracellular",0,0,0,0,
+"Biotin Metabolism",495.1363,0,0,0,
+"Biotin Metabolism",0,0,0,0,
+"Biotin Metabolism",495.1363,0,0,0,
+"Biotin Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,MAOA,MAOB
+"Transport, Extracellular",0,0,0,0,
+"Pentose and Glucuronate Interconversions",0,0,0,0,AKR1A1,AKR1B1,AKR7A2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Arginine and Proline Metabolism",0,0,0,0,ADC
+"Transport, Extracellular",-100,-100,-100,0.05,SLC3A2,SLC7A6
+"Urea cycle/amino group metabolism",0.04895511,0.04895415,0.04894938,0.04895081,ARG1
+"Urea cycle/amino group metabolism",0,0,0,0,ARG2
+"Alanine and Aspartate Metabolism",0.001,0.001,0.001,0,ASL
+"Alanine and Aspartate Metabolism",0.001,0.001,0.001,0,ASS1
+"Transport, Extracellular",0.05,100,100,-100,SLC6A14
+"Transport, Extracellular",100,0.05,0.05,100,SLC38A4,SLC7A1,SLC7A2,SLC7A3
+"Transport, Mitochondrial",0,0,0,0,SLC25A15,SLC25A2
+"Sphingolipid Metabolism",0,0,0,0,ARSA
+"R Group Synthesis",0.004350911,0.00435488,0.004374729,0.004368775,
+"R Group Synthesis",0.001420245,0.001421541,0.00142802,0.001426077,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0.007412322,0,0.007435971,
+"R Group Synthesis",0.008463503,0,0.1264211,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0.008463503,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0.1264211,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,6.254056,0,0.3566722,
+"R Group Synthesis",-0.1021202,6.142313,0.1331488,0.2445763,
+"R Group Synthesis",0.001,0.001,0.001,0.001,
+"R Group Synthesis",-0.1118558,-0.1119569,-0.1124627,-0.1123109,
+"R Group Synthesis",0.001,0.001,0.001,0.001,
+"R Group Synthesis",-0.03199742,-0.0320257,-0.03216711,-0.03212469,
+"R Group Synthesis",0.001,0.001,0.001,0.001,
+"Sphingolipid Metabolism",0,0,0,0,ASAH1
+"Ascorbate and Aldarate Metabolism",0,0,0.01229508,0.0001101449,
+"Transport, Extracellular",-100,100,-100,-100,
+"Transport, Extracellular",100,-100,100,100,SLC23A2,SLC23A1
+"Transport, Extracellular",-100,100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-99.95,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Alanine and Aspartate Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,ASRGL1
+"Alanine and Aspartate Metabolism",0,0,0,0,ASNS
+"Transport, Extracellular",-100,0.1,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",100,-100,100,-99.95,SLC6A14,SLC38A2,SLC38A4,SLC38A1
+"Transport, Extracellular",-100,100,-99.95,100,SLC38A3,SLC38A5
+"Transport, Mitochondrial",0.03636114,0.03634869,0.03628647,0.03630514,
+"beta-Alanine metabolism",0.001,0.001,0,0,GAD1
+"Pyrimidine Biosynthesis",0.02194298,0.02196209,0.02105764,0.02102897,CAD
+"Transport, Extracellular",0,0,0,0,SLC1A1,SLC1A2,SLC1A3,SLC1A6,SLC1A7
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Mitochondrial",-999.2137,996.6768,-2.71089,-1.149761,SLC25A13,SLC25A12
+"Alanine and Aspartate Metabolism",0,0,0,0,
+"Alanine and Aspartate Metabolism",-1000,995.9863,-3.403175,-1.936438,GOT1
+"Alanine and Aspartate Metabolism",999.2501,-996.737,2.650644,1.186066,GOT2
+"Transport, Extracellular",0.05,0.05,0.05,0.05,SLC1A1,SLC1A2,SLC1A3,SLC1A6,SLC1A7
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Nucleotides",0,0,0,0,ENTPD1,ENTPD2,ENTPD6,ENTPD3,ENTPD5
+"Nucleotides",0,0,0,0,ENTPD1,ENTPD2,ENTPD6,ENTPD3,ENTPD5
+"Oxidative Phosphorylation",761.4988,1.306845,253.4376,249.0901,ATP5H,ATP5L,NSF,ATP5A1,ATP5B,ATP5C1,ATP5D,ATP5E,ATP5F1,ATP5G1,ATP5G2,ATP5G3,ATP5I,ATP5J,ATP5J2
+"Transport, Lysosomal",0.00025,0.001,0,0.00025,TCIRG1,ATP6V1G3,ATP6V0A2,ATP6V0D2,ATP6V1C2,ATP6V0A4,ATP6V1D,ATP6V1H,ATP6V1A,ATP6V1B1,ATP6V1B2,ATP6V0C,ATP6V1C1,ATP6V1E1,ATP6V0B,ATP6V1G2,ATP6V0A1,ATP6V0E1,ATP6V1E2,ATP6V0D1,ATP6V1F,ATP6V1G1
+"Transport, Mitochondrial",1000,1000,1000,1000,SLC25A4,SLC25A5,SLC25A6
+"Transport, Nuclear",500,0,4.701361,0,
+"Transport, Peroxisomal",0.339092,0.3013667,0.3027403,0.3023283,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"N-Glycan Degradation",0,0,0,0,MAN2C1
+"N-Glycan Degradation",0,0,0,0,MAN2B1
+"Sphingolipid Metabolism",0,0,0,0,B3GALNT1
+"Sphingolipid Metabolism",0,0,0,0,B3GALT4
+"Sphingolipid Metabolism",0,0,0,0,B3GALT4
+"Sphingolipid Metabolism",0,0,0,0,B3GALT4
+"Sphingolipid Metabolism",0,0,0,0,B3GALT4
+"Sphingolipid Metabolism",0,0,0,0,B3GALT5
+"Blood Group Biosynthesis",0,0,0,0,
+"Blood Group Biosynthesis",0,0,0,0,
+"Blood Group Biosynthesis",0,0,0,0,B3GNT2
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Sphingolipid Metabolism",0,0,0,0,B3GNT3
+"Blood Group Biosynthesis",0,0,0,0,B3GNT5
+"Bile Acid Biosynthesis",0,0,0,0,BAAT
+"Bile Acid Biosynthesis",0.001,0,0,0,BAAT
+"Bile Acid Biosynthesis",0.001,0,0,0,BAAT
+"Bile Acid Biosynthesis",0,0,0,0,BAAT
+"Bile Acid Biosynthesis",0,0,0,0,BAAT
+"Biotin Metabolism",495.1363,0,0,0,HLCS
+"Biotin Metabolism",0,0,0,0,HLCS
+"Transport, Extracellular",0,0,0,0,SLC32A1
+"Transport, Mitochondrial",0.001,0.001,0.001,0,
+"beta-Alanine metabolism",0,0,0.001,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"beta-Alanine metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"Lysine Metabolism",0,0,0,0,BBOX1
+"Vitamin A Metabolism",0,0,0,0,BCMO1
+"Stilbene, coumarine and lignin biosynthesis",0,0,0,0,GBA3
+"Butanoate Metabolism",0,0,0,0,BDH1
+"N-Glycan Biosynthesis",0,0,0,0,ALG1
+"N-Glycan Biosynthesis",0,0,0,0,ALG1
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,ALDH9A1
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,BHMT2,BHMT
+"Transport, Extracellular",0.001,-100,-100,-100,SLCO1B1
+"Transport, Extracellular",0.001,-100,-100,-100,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0.001,-100,-100,-100,SLCO1B1,SLCO1B3
+"Transport, Extracellular",0.001,-100,-100,-100,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Heme Degradation",0,0,0,0,BLVRA,BLVRB
+"Transport, Extracellular",0,0,0,0,SLCO1B1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Nuclear",495.1363,0,0,0,
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGB
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGB
+"Nucleotides",0,0,0,0.001,BPNT1
+"Nucleotides",0,0,0,0.001,BPNT1
+"Biotin Metabolism",0,0,0,0,BTD
+"Biotin Metabolism",495.1363,0,0,0,BTD
+"Biotin Metabolism",0,0,0,0,BTD
+"Biotin Metabolism",0,0,0,0,BTD
+"Biotin Metabolism",495.1363,0,0,0,HLCS
+"Biotin Metabolism",0,0,0,0,HLCS
+"Transport, Extracellular",100,100,100,100,SLC16A1
+"Transport, Mitochondrial",0,0,0,0,SLC16A1
+"Transport, Extracellular",0,0,-100,-100,SLC5A6
+"Transport, Extracellular",-100,-100,0,0,SLC19A3
+"Transport, Nuclear",-495.1363,0,0,0,
+"Pyrimidine Catabolism",0,0,0,0,UPB1
+"Transport, Mitochondrial",0,0,0,0,SLC16A1
+"Transport, Extracellular",0,0,0,0,SLC16A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"N-Glycan Degradation",0,0,0,0,MANBA
+"Fatty Acid Metabolism",0,0,0,0,
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,TM7SF2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,
+"Limonene and pinene degradation",0,0,0,0,HADHA,HADHB,AUH
+"Limonene and pinene degradation",0,0,0,0,ECH1,EHHADH
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,NSDHL
+"Cholesterol Metabolism",0,0,0,0,NSDHL
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,HSD17B4
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,SC4MOL
+"Cholesterol Metabolism",0,0.0167426,0.01681891,0.01679601,NSDHL
+"Cholesterol Metabolism",0.01872733,0,0,0,NSDHL,SC4MOL
+"Transport, Extracellular",-100,-100,-100,-100,ATP2B1,ATP2B2,ATP2B3,ATP2B4
+"Transport, Extracellular",0,0,0,0,ABCC5,ABCC4
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Glycolysis/Gluconeogenesis",0,0,0,0,CAT
+"ROS Detoxification",0,0,0,0.1795013,CAT
+"Miscellaneous",0,3.127827,0.07963903,0,CAT
+"Transport, Extracellular",0,100,0,0,SLC8A2,SLC8A1,SLC8A3
+"Vitamin B12 Metabolism",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,MMAA
+"Vitamin B12 Metabolism",0,0,0,0,MMAA
+"Glycolysis/Gluconeogenesis",0,0,0,0,G6PC,G6PC2,G6PC3
+"Pyrimidine Biosynthesis",0.02194298,0.02196209,0.02105764,0.02102897,CAD
+"Glutamate metabolism",0,0,0,0,CPS1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Eicosanoid Metabolism",0,0,0,0,CBR1
+"Eicosanoid Metabolism",0,0,0,0,CBR1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Glycerophospholipid Metabolism",0.003494255,0.003497443,0.003513384,0.003508601,CDIPT
+"Transport, Mitochondrial",0,0,-0.004814469,-0.004807916,
+"Glycerophospholipid Metabolism",0.004788256,0.004792625,0,0,CDS1
+"Glycerophospholipid Metabolism",0,0,0.004814469,0.004807916,CDS2
+"Glycerophospholipid Metabolism",0.0528196,0.0528678,0.05692323,0,CEPT1,CHPT1
+"Glycerophospholipid Metabolism",0,0,0.001,0.05784439,CEPT1
+"Sphingolipid Metabolism",0,0,0,0,CERK
+"Transport, Golgi Apparatus",0,0,0,0,COL4A3BP
+"Transport, Endoplasmic Reticular",0,0,0.001,0.001,COL4A3BP
+"Transport, Golgi Apparatus",0,0,0,0,COL4A3BP
+"Transport, Endoplasmic Reticular",0,0,-0.001,-0.001,COL4A3BP
+"Transport, Extracellular",0,0,0,0.001,SLC15A2
+"Transport, Extracellular",0,0,0,0,ABCC5,ABCC4
+"Bile Acid Biosynthesis",0,0,0,0,CH25H
+"Glycerophospholipid Metabolism",0,0,0,0,CHAT
+"Glycerophospholipid Metabolism",0,0,0,0,CHAT
+"Glycerophospholipid Metabolism",0,0,0,0,PHOSPHO1
+"Glycerophospholipid Metabolism",0.0528196,0.0528678,0.05692323,0,PCYT1A,PCYT1B
+"Transport, Mitochondrial",0,0,-0.004814469,-0.004807916,
+"Transport, Extracellular",-100,-100,0,-100,SLCO1B1,SLCO1A2
+"Transport, Extracellular",100,0,-100,0,SLC10A1,SLC10A2
+"Transport, Extracellular",0,-100,-100,-100,ABCB11,ABCC3
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,CHDH
+"Glycerophospholipid Metabolism",0.0528196,0.0528678,0.05692323,0,CHKA,CHKB
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",-99.995,-99.995,-99.995,100,SLC5A7
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",100,100,100,-99.995,SLC22A2,SLC22A5
+"Steroid Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,ABCA1
+"Transport, Mitochondrial",0,0,0,0,STARD3
+"Transport, Mitochondrial",0.01672733,0.0167426,0.01681891,0.01679601,
+"Transport, Mitochondrial",-0.01672733,-0.0167426,-0.01681891,-0.01679601,
+"Transport, Golgi Apparatus",0,0,0,0,ABCA1
+"Aminosugar Metabolism ",0,0,0,0,CHIT1,MANSC1
+"Aminosugar Metabolism ",0,0,0,0,CHIA
+"Citric Acid Cycle",0,0,0,0,CLYBL
+"C5-Branched dibasic acid metabolism",0,0,0,0,
+"C5-Branched dibasic acid metabolism",0,0,0,0,
+"Transport, Mitochondrial",-1000,-1000,999.9521,-1000,SLC25A15,SLC25A2
+"Transport, Extracellular",100,-100,100,100,SLC13A2
+"Transport, Extracellular",-100,100,-100,-100,SLC13A5
+"Transport, Mitochondrial",0,-0.1912404,0,-2.45718,SLC25A1
+"Transport, Mitochondrial",0,0,0,0,SLC25A1
+"Urea cycle/amino group metabolism",1000,1000,1000,1000,CKMT1B,CKMT2
+"Urea cycle/amino group metabolism",-1000,-1000,-1000,-1000,CKB,CKM
+"Transport, Extracellular",50,50,50,-50,SLC26A4
+"Transport, Extracellular",-100,-100,-100,100,SLC26A6
+"Transport, Extracellular",-100,-100,100,-100,SLC26A6
+"Transport, Extracellular",100,50,-100,100,SLC26A9,SLC26A7,SLC26A8,SLC26A3,SLC26A2,SLC26A4
+"Transport, Extracellular",0,0,0,100,SLC26A4
+"Transport, Extracellular",-100,-100,-100,-100,SLC26A6
+"Transport, Extracellular",49.95111,0,100,0,SLC26A6
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Glycerophospholipid Metabolism",0.0006470007,0.000647591,0.0006505427,0.0006496572,CRLS1
+"Transport, Golgi Apparatus",0,0,0,0,SLC35A1
+"Transport, Nuclear",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,CMAS
+"Aminosugar Metabolism ",0,0,0,0,CMAS
+"Transport, Extracellular",-4.717882,-4.755635,-3.49611,-1.989928,
+"Transport, Endoplasmic Reticular",-0.03745467,-0.03348519,-0.03363782,-0.03359203,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Mitochondrial",-2.015514,-1.406465,-3.121477,0.8732467,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Peroxisomal",-0.112364,-0.1004556,-0.1009134,-0.1007761,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0.03748831,0.1004556,0.09991345,0.09977609,SLC25A16
+"Transport, Nuclear",0,0,0,0,
+"Transport, Peroxisomal",-0.112364,-0.1004556,-0.1009134,-0.1007761,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Alkaloid biosynthesis II",0,0,0,0,CES2
+"Ubiquinone Biosynthesis",0,0,0,0,COQ3
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Ubiquinone Biosynthesis",0,0,0,0,COQ6
+"Ubiquinone Biosynthesis",0,0,0,0,COQ7
+"O-Glycan Biosynthesis",0,0,0,0,GCNT1,GCNT4,GCNT3
+"O-Glycan Biosynthesis",0,0,0,0,B3GNT6
+"O-Glycan Biosynthesis",0,0,0,0,GCNT3
+"O-Glycan Biosynthesis",0,0,0,0,
+"O-Glycan Biosynthesis",0,0,0,0,GCNT1
+"O-Glycan Biosynthesis",0,0,0,0,
+"O-Glycan Biosynthesis",0,0,0,0,
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,PCYT1A,PCYT1B
+"Heme Biosynthesis",0.002,0.002,0,0.001,CPOX
+"Transport, Extracellular",0,0,0,0,SLC6A8,
+"Urea cycle/amino group metabolism",1000,1000,1000,1000,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0.002,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A5
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A4
+"Transport, Mitochondrial",0.015,0.013,0.013,0.013,SLC25A20
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A4
+"Transport, Extracellular",100,100,100,100,SLC22A5
+"Transport, Peroxisomal",0,0,0,0,
+"Urea cycle/amino group metabolism",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Carnitine shuttle",0.002,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,CRAT,CROT
+"Carnitine shuttle",0.002,0,0,0,CRAT
+"Fatty Acid Metabolism",0,0,0,0,CRAT
+"Fatty Acid Metabolism",0.001,0.001,0.001,0.001,
+"Fatty Acid Metabolism",0,0,0,0,CRAT
+"Carnitine shuttle",0.001,0.001,0.001,0.001,
+"Pyrimidine Catabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Citric Acid Cycle",0,0,0,2.268404,CS
+"Nucleotides",0.009415133,0.01042464,0.01634025,0.0114579,CTPS
+"Pyrimidine Biosynthesis",0.001,0,0.001,0,CTPS2
+"Transport, Nuclear",0,0,0,0,
+"Cysteine Metabolism",0,0,0,0,TST
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Oxidative Phosphorylation",3.096465,0.05975489,1.229508,0.01101449,COX6B2,COX4I1,COX5B,COX6A1,COX6A2,COX6B1,COX6C,COX7A1,COX7A2,COX7B,COX7C,COX8A,COX7B2,COX8C,COX1,COX2,COX3,COX4I2,COX7A2L,COX5A
+"Oxidative Phosphorylation",6.097379,0.02296209,0.3283914,0.02202897,UQCR,CYC1,UQCRQ,UCRC,CYTB,UQCRB,UQCRC1,UQCRC2,UQCRFS1,UQCRH
+"Transport, Extracellular",-100,-100,-0.05,-100,SLC1A4,SLC1A5
+"Taurine and hypotaurine metabolism",0.001,0,0,0,
+"Transport, Extracellular",-100,0.05,0.001,0.001,SLC1A5
+"Transport, Extracellular",-0.7,-100,0.001,0.001,SLC1A5
+"Cysteine Metabolism",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,19.49327,SLC7A10,SLC3A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC7A8,SLC3A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC7A10,SLC3A2
+"Cysteine Metabolism",0,0,0,0,
+"Taurine and hypotaurine metabolism",0.09555083,0.09654769,0.09653195,0.09653667,CDO1
+"Transport, Extracellular",-100,-100,-100,-100,SLC1A4,SLC1A5
+"Cysteine Metabolism",0,0,0,0,GOT1
+"Cysteine Metabolism",0,0,0,0,GOT2
+"Cysteine Metabolism",0.04791472,0.04791282,0.0479033,0.04790616,CTH
+"Transport, Extracellular",99.9,100,-0.05,100,SLC7A11,SLC3A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC1A4,SLC1A5
+"Methionine Metabolism",0.04791472,0.04791282,0.0479033,0.04790616,CBS
+"Transport, Extracellular",-99.9,-100,0.05,-100,SLC7A9,SLC3A1
+"Transport, Extracellular",-100,-100,-100,100,SLC6A14
+"Transport, Extracellular",-99.2,-100,-99.899,-100,SLC43A2
+"Pyrimidine Catabolism",0,0,0,0,AICDA,CDA
+"Nucleotides",1000,615.6398,0,681.9822,UCK2,UCK1
+"Nucleotides",0,0,0.004814469,0.004807916,
+"Nucleotides",0,0,0.005145407,0,AICDA
+"Transport, Extracellular",-100,0,100,0,SLC29A1,SLC29A2
+"Transport, Extracellular",100,-100,0,-100,SLC28A3,SLC28A1
+"Transport, Extracellular",0,100,-100,100,SLC28A3
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0.004814469,0.004807916,SLC29A1
+"Transport, Nuclear",0,0,0.005145407,0,
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",-1000,-1000,4.675102,-1000,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",-250,-250,-250,-250,CMPK1
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",762.535,0,-0.001722691,-0.001,CMPK1
+"Nucleotides",-250,-250,-250,-250,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",0,0,0.004814469,0.004807916,
+"Nucleotides",-1000,1000,-1000,-1000,CMPK1
+"Nucleotides",-1000,1000,1000,1000,CMPK1
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",1000,1000,995.4078,1000,AK5
+"Nucleotides",-250,-250,-250,-250,CMPK1
+"Nucleotides",237.465,-1000,-1000,-1000,AK5
+"Nucleotides",-250,-250,-250,-250,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",1000,3.358958,999.9594,1000,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",0.04719273,996.6804,-1000,0.04738649,CMPK1
+"Nucleotides",500,500,500,500,CMPK1
+"Nucleotides",-1000,-999.9922,-1000,-1000,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Pyrimidine Catabolism",0,0,0,0,
+"Nucleotides",0,0,0,0,ADA
+"Nucleotides",0,0,0,0,ADA
+"Nucleotides",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Glycerophospholipid Metabolism",-0.08900205,-0.08908325,-0.09430375,-0.09417539,DGKA,DGKB,DGKG,DGKH,DGKQ,DGKZ,DGKE,DGKD,DGKI
+"Glycerophospholipid Metabolism",0,0,0,0,DGKI
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"D-alanine metabolism",0,0,0,0,DAO
+"Transport, Extracellular",0,-29.45059,-100,0,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"D-alanine metabolism",0,0,0,0,
+"D-arg and D-orn metabolism",0,0,0,0,DAO
+"Ascorbate and Aldarate Metabolism",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0,0,GLRX,GLRX2
+"Alanine and Aspartate Metabolism",0,0,0,0,DDO
+"Transport, Nuclear",0,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,DCI
+"Nucleotides",0,0,0,0,
+"Nucleotides",1000,1000,1000,1000,DCK
+"Nucleotides",-1000,-1000,-1000,-1000,DCK
+"Pyrimidine Catabolism",-0.001713312,-0.001714875,-1000,-0.0007203465,DCTD
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,DCT
+"Transport, Nuclear",0,0,0,0,
+"Pyrimidine Catabolism",0,0,1000,0,AICDA,CDA
+"Nucleotides",0,0,0,0,AICDA
+"Transport, Extracellular",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC22A2
+"Transport, Mitochondrial",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Fatty acid elongation",0.001,0.008412322,0.001,0.008435971,SCD
+"Fatty acid elongation",0,0,0,0,FADS2
+"Fatty acid elongation",0.001,0.001,0.001,0.002,SCD
+"Fatty acid elongation",0.002,0.002,0.1284211,0.001,SCD
+"Fatty acid elongation",0.001,0.001,0.001,0.001,SCD
+"Fatty acid elongation",0,0,0,0.001,FADS2
+"Fatty acid elongation",0.001,0.001,0.1274211,0,FADS2
+"Fatty acid elongation",0,0,0,0,FADS2
+"Fatty acid elongation",0,0,0,0,FADS2
+"Fatty acid elongation",0,0,0,0,FADS1
+"Fatty acid elongation",0,0,0,0,FADS1
+"Fatty acid elongation",0,0,0,0,
+"Fatty acid elongation",0,0,0,0,
+"Fatty acid elongation",0,0,0,0,FADS2
+"Triacylglycerol Synthesis",0.03099742,0.0310257,0.03116711,0.03112469,DGAT2,DGAT1
+"Transport, Extracellular",-0.001,0,0,0,
+"Transport, Peroxisomal",0.001,0,0,0,
+"Nucleotides",-0.002713312,-0.002714875,-0.001722691,-0.001720347,GUK1
+"Nucleotides",0.001,0.001,0,0,
+"Nucleotides",0.001,0.001,0,0,DGUOK
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0.001,0.001,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Pentose and Glucuronate Interconversions",0.001,0.005502557,0,0.001,
+"Transport, Extracellular",0,0,0,0,SLC2A1,SLC2A3,SLC2A4
+"Triacylglycerol Synthesis",0,0,0,0,GNPAT
+"Triacylglycerol Synthesis",0,0,0,0,GNPAT
+"Transport, Peroxisomal",0.001,0,0,0,
+"Cholesterol Metabolism",0,0,0,0,DHCR24
+"Cholesterol Metabolism",0.01872733,0,0,0,DHCR24
+"Cholesterol Metabolism",0,0.0167426,0.01681891,0.01679601,DHCR24
+"Cholesterol Metabolism",0,0.0167426,0.01681891,0.01679601,DHCR7
+"Cholesterol Metabolism",0.01872733,0,0,0,DHCR7
+"Sphingolipid Metabolism",0,0,0,0,DEGS1
+"Sphingolipid Metabolism",0.002716501,0.00271898,0.002731372,0.002727655,DEGS1
+"Ubiquinone Biosynthesis",0,0,0,0,COQ3
+"Steroid Metabolism",0,0,0,0.001,SULT1E1,SULT2A1
+"Transport, Extracellular",0,0,0,0,SLCO1B1,SLCO2B1,SLCO1B3,SLCO1A2
+"Transport, Extracellular",0,0,0,0,
+"Folate Metabolism",0.004558696,0.004561031,0.003572704,0.003569202,DHFR
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Pyrimidine Biosynthesis",0.02194298,0.02196209,0.02105764,0.02102897,DHODH
+"Pyrimidine Biosynthesis",-0.02194298,-0.02196209,-0.02105764,-0.02102897,CAD
+"Pyrimidine Catabolism",0,0,0,0,DPYS,DPYSL2,DPYSL3
+"Pyrimidine Catabolism",0,0,0,0,
+"Tetrahydrobiopterin",0.04581817,0.04581435,0.04579527,0.045801,QDPR
+"Tetrahydrobiopterin",0,0,0,0,
+"Transport, Nuclear",-1000,-1000,-1000,-1000,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Nuclear",1000,1000,1000,1000,
+"Arginine and Proline Metabolism",0,0,0.001,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Cholesterol Metabolism",0,0,0,0,GGPS1
+"Cholesterol Metabolism",0.03745467,0.03348519,0.03363782,0.03359203,FDPS
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DMGDH
+"Transport, Mitochondrial",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.001,0.001,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"NAD Metabolism",0,0,0,0,ENPP1,ENPP2,ENPP3
+"Transport, Nuclear",-500,0,0,0,
+"Selenoamino acid metabolism",0,0,0,0,DNMT1,TRDMT1,DNMT3A,DNMT3B
+"Methionine Metabolism",0,0,0,0,DNMT1,TRDMT1,DNMT3A,DNMT3B
+"Transport, Mitochondrial",0,0,1000,1000,SLC25A19
+"Transport, Mitochondrial",1000,1000,0.2078177,1000,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",999.999,0,1000,0,SLC25A19
+"Transport, Mitochondrial",0.001,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,1000,1000,1000,SLC25A19
+"Transport, Mitochondrial",0,1000,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,1000,0,1000,SLC25A19
+"Transport, Mitochondrial",1000,0,1000,0,SLC25A19
+"Transport, Mitochondrial",0,0,1000,2.388884,SLC25A19
+"Transport, Mitochondrial",1000,0,1000,1000,SLC25A19
+"Transport, Mitochondrial",1000,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,1000,0,2.388884,SLC25A19
+"Transport, Mitochondrial",0,1000,1000,1000,SLC25A19
+"Transport, Mitochondrial",0,1000,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",1000,1000,1000,1000,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,1000,0,SLC25A19
+"Transport, Mitochondrial",1000,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,1000,1000,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,1000,0,0,SLC25A19
+"Transport, Mitochondrial",1000,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,1000,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0.001,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,1000,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",1000,0,0,997.6111,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,1000,SLC25A19
+"Transport, Mitochondrial",0,0,1000,0,SLC25A19
+"Transport, Mitochondrial",0,0,0.2078177,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,999.999,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,0,0,SLC25A19
+"Transport, Mitochondrial",237.4675,0,0,0,SLC25A19
+"Transport, Mitochondrial",0,0,999.7922,0,SLC25A19
+"Transport, Mitochondrial",1000,1000,0,1000,SLC25A19
+"Ascorbate and Aldarate Metabolism",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,DAD1,DDOST,RPN1,RPN2
+"N-Glycan Biosynthesis",0,0,0,0,DAD1,DDOST,RPN1,RPN2
+"N-Glycan Biosynthesis",0,0,0,0,DOLPP1
+"N-Glycan Biosynthesis",0,0,0,0,DOLPP1
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,ALG6
+"N-Glycan Biosynthesis",0,0,0,0,ALG6
+"N-Glycan Biosynthesis",0,0,0,0,ALG8
+"N-Glycan Biosynthesis",0,0,0,0,ALG8
+"N-Glycan Biosynthesis",0,0,0,0,ALG10
+"N-Glycan Biosynthesis",0,0,0,0,ALG10
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,ALG3
+"N-Glycan Biosynthesis",0,0,0,0,ALG3
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,ALG12
+"N-Glycan Biosynthesis",0,0,0,0,ALG12
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,DPM3,DPM1,DPM2
+"N-Glycan Biosynthesis",0,0,0,0,DPM3,DPM1,DPM2
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,DBH,MOXD1
+"Tyrosine metabolism",0,0,0,0,TYR
+"Tyrosine metabolism",0,0,0,0,COMT
+"Tyrosine metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,SULT1A2,SULT1A1,SULT1A3
+"Transport, Extracellular",-66.66667,-66.66667,-66.66667,-66.66667,SLC18A1,SLC18A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC6A2,SLC6A3
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A3,SLC22A2
+"D-arg and D-orn metabolism",0,0,0,0,DAO
+"CoA Biosynthesis",0,0,0,0,COASY
+"CoA Catabolism",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Glycolysis/Gluconeogenesis",0,0,0,0,PGAM1,PGAM2,BPGM
+"Glycolysis/Gluconeogenesis",0,0,0,0,PGAM1,PGAM2,BPGM
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Cholesterol Metabolism",0.112364,0.1004556,0.1009134,0.1007761,MVD
+"Miscellaneous",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,DAO
+"Pentose Phosphate Pathway",0,0,0,0,RBKS
+"Transport, Extracellular",0,0,0,0,
+"Pentose Phosphate Pathway",0,0,0,0,
+"Sphingolipid Metabolism",0.002716501,0.00271898,0.002731372,0.002727655,
+"Transport, Nuclear",1000,1000,1000,1000,
+"Nucleotides",0.001,0.001,0,0,DTYMK
+"Transport, Nuclear",-1000,-1000,-1000,-1000,
+"Transport, Nuclear",0,0,0.002572704,0,
+"Transport, Nuclear",0,0,-0.002572704,0,
+"Pyrimidine Catabolism",0,0,0,0,DPYD
+"Pyrimidine Catabolism",0,0,0,0,DPYD
+"Nucleotides",0,0.005275906,1000,0.002289548,TK1,TK2
+"Nucleotides",0,0,254.4686,0,TK2
+"Nucleotides",0,-0.005275906,0,-0.002289548,UPP2,NP
+"Transport, Extracellular",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Nucleotides",0,0,0,0,DUT
+"Nucleotides",0,0,0.002572704,0,DUT
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC16A8,SLC16A1,SLC16A3,SLC16A7
+"Transport, Mitochondrial",0,0,0,0,SLC16A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,EBP
+"Cholesterol Metabolism",0,0,0,0,EBP
+"Alkaloid biosynthesis II",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,ECHS1,HADHA,HADHB
+"Tryptophan metabolism",-0.08850616,-0.08849567,-0.08844323,-0.08845896,ECHS1,HADHA,HADHB,AUH
+"Tryptophan metabolism",0,0,0,0,ECH1,EHHADH
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,ECHS1,HADHA,HADHB
+"Alkaloid biosynthesis II",0,0,0,0,AADAC
+"Arginine and Proline Metabolism",0,0,0,0,GOT1
+"Arginine and Proline Metabolism",0,0,0,0,GOT2
+"Arginine and Proline Metabolism",0,0,0,0,GOT2
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"N-Glycan Degradation",0,0,0,0,ENGASE
+"N-Glycan Degradation",0,0,0,0,ENGASE
+"N-Glycan Degradation",0,0,0,0,
+"Keratan sulfate degradation",0,0,0,0,
+"N-Glycan Degradation",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Glycolysis/Gluconeogenesis",2.230586,2.00793,2.957046,2.958369,ENO1,ENO2,ENO3,
+"Glycerophospholipid Metabolism",0,0,0,0,PCYT2
+"Transport, Extracellular",-100,-100,-100,-100,SLCO1B1,SLCO4A1,SLCO1B3,SLCO1C1,SLCO1A2
+"Transport, Extracellular",-100,-100,-100,-100,ABCC4
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",999.8107,999.8271,999.8318,1000,
+"Transport, Extracellular",0,0,0,0,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,ABCC3
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",100,-100,100,-100,SLCO1B1,SLCO2B1,SLCO4A1,SLCO3A1,SLCO1B3,SLCO1C1,SLCO1A2
+"Transport, Extracellular",-100,100,-100,100,SLC10A1
+"Transport, Endoplasmic Reticular",-999.8107,-999.8271,-999.8318,-1000,
+"Steroid Metabolism",0,0,0,0,SULT1E1,SULT1A1
+"Fatty acid oxidation",3.459296,0,0.3073338,0,ETFA,ETFB
+"Fatty acid oxidation",3.459296,0,0.3073338,0,ETFDH
+"Glycerophospholipid Metabolism",0,0,0.001,0.05784439,CHKA,ETNK2,ETNK1
+"Glycerophospholipid Metabolism",0,0,0,0,PHOSPHO1
+"Glycolysis/Gluconeogenesis",0,0,0,0,CYP2E1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.07492027,0.07489739,0.07478297,0.0748173,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0.001,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0.3789767,0.1038733,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.005,-0.005,-0.005,-0.005,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",4.717882,4.755635,3.49611,1.989928,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.001,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.002,-0.002,0,-0.001,
+"",0,0,0,0,
+"",-0.001,-0.001,-0.001,-0.001,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-5,-5,-5,-5,
+"",-0.5,-0.5,-0.5,-0.5,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",8.257837,8.381458,7.026404,5.537329,
+"",1.3248,1.145354,1.213321,1.783223,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",-0.002494255,-0.005,-0.002513384,-0.002508601,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0.6401468,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0.03926985,0.1656046,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.001,0.001,0.001,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-3.728883,-3.827292,-2.153637,-0.8737602,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0.002,0.002,0,0.001,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.1223998,-0.1225087,-0.1200535,-0.11989,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0.09653667,
+"",0.09555083,0.09654769,0.09653195,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.001,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.001,0.001,0.001,0.001,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0.04895511,0.04895415,0.04894938,0.04895081,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",-0.05,-0.05,-0.05,-0.05,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"",0,0,0,0,
+"Fructose and Mannose Metabolism",0,0,0,0,FPGT
+"N-Glycan Biosynthesis",0,0,0,0,FUT8
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty Acid Metabolism",0,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,OLAH
+"Fatty acid activation",0,0,0,0,
+"Fatty acid activation",0,0,0,0,ACSL1,ACSL3,,
+"Fatty acid activation",0,0.2738565,0,0,ACSL1,ACSL3,,,ACSL5
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1,ACSL3,,
+"Fatty acid activation",0,0,0,0,ACSL1,ACSL3,,,ACSL5
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1,ACSL3
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,SLC27A2
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,-1000,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,1000,0,ACSL1,ACSL3,ACSL4,,
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,SLC27A2
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",-1000,-1000,0,0,ACSL1
+"Fatty acid activation",1000,1000,0,0,
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSL1
+"Fatty acid activation",0,0,0,0,ACSM1
+"Fatty acid activation",0,0,0,0,ACSL3
+"Riboflavin Metabolism",0.001,0.001,0.001,0.001,ENPP1
+"Transport, Endoplasmic Reticular",0.01872733,0.0167426,0.01681891,0.01679601,
+"Transport, Peroxisomal",0.002,0,0,0,
+"Transport, Endoplasmic Reticular",0.01872733,0.0167426,0.01681891,0.01679601,
+"Transport, Peroxisomal",-0.002,0,0,0,
+"Fatty acid elongation",0,0,0,0,ELOVL4
+"Fatty acid elongation",0,0,0,0,ELOVL4
+"Fatty acid elongation",0,0,0,0,ELOVL4
+"Fatty acid elongation",0,0,0,0,ELOVL4
+"CYP Metabolism",0,0,0,0,CYP4A11
+"CYP Metabolism",0,0,0,0,CYP4A11
+"CYP Metabolism",0,0,0,0,CYP4A11
+"Tyrosine metabolism",0,0,-0.03926985,-0.1656046,ADH5
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Fatty acid oxidation",0,0,0,0,ACADM
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0.005,0.005,0,0.005,ACADM,ACADS
+"Fatty acid oxidation",0,0,0.005,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid activation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0.001,0.001,0.001,0.001,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation",0,0,0,0,ACADM,ACADS
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX1
+"Fatty acid oxidation",0.006,0.006,0.011,0.006,ACADM,ACADS
+"Fatty acid elongation",0.2746169,0.001,0.2760546,0.2756952,FASN
+"Fatty acid elongation",0.2746169,0.001,0.2760546,0.2756952,FASN
+"Fatty acid elongation",0.2746169,0.001,0.2760546,0.2756952,FASN
+"Fatty acid elongation",0.2651534,0,0.1486335,0.2746952,FASN
+"Fatty acid elongation",0.0134635,0.005,0.1314211,0.005,FASN
+"Fatty acid elongation",0.2746169,0.001,0.2760546,0.2756952,FASN
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A4,SLC27A3,SLC27A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5,SLC27A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5,SLC27A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5,SLC27A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC27A5,SLC27A2
+"Glycolysis/Gluconeogenesis",0.9232509,0.7004944,1.653124,1.657344,ALDOA,ALDOB,ALDOC
+"Fructose and Mannose Metabolism",0,0,0,0,ALDOA,ALDOB,ALDOC
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,ALDOA,ALDOB,ALDOC
+"Galactose metabolism",0,0,0,0,ALDOB
+"Glycolysis/Gluconeogenesis",0,0,0,0,FBP1,FBP2
+"Fructose and Mannose Metabolism",0,0,0,0,FBP1,PFKFB1,PFKFB2,PFKFB3,PFKFB4,FBP2
+"Heme Biosynthesis",0.002,0.002,0,0.001,FECH
+"Fatty Acid Metabolism",0,0,0,0,
+"Fatty Acid Metabolism",0.1754304,0,0,0,ALDH1L1
+"Transport, Extracellular",0.002,0.002,0,0.001,
+"Transport, Mitochondrial",0.002,0.002,0,0.001,
+"Heme Biosynthesis",0,0,0,0,CYBRD1
+"Fructose and Mannose Metabolism",0,0,0,0,FUK
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,
+"Riboflavin Metabolism",0.001,0.001,0.001,0.001,FLAD1
+"Folate Metabolism",0.001,0.001,0.001,0.001,DHFR
+"Transport, Extracellular",0.001,0.001,0.001,0.001,SLC19A1
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Mitochondrial",-999.8923,-1000,-1000,-999.9001,
+"Transport, Endoplasmic Reticular",-0.01872733,-0.0167426,-0.01681891,-0.01679601,
+"Transport, Nuclear",0,0,0,0,
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Folate Metabolism",0,0,0,0,FPGS
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Peroxisomal",0.03745467,0.03348519,0.03363782,0.03359203,
+"Cholesterol Metabolism",0,0,0,0,GGPS1
+"Transport, Extracellular",100,-100,-100,100,SLC2A7,SLC2A8,SLC2A2,SLC2A5,SLC2A11
+"Transport, Extracellular",-100,100,100,-100,SLC5A9
+"N-Glycan Biosynthesis",0,0,0,0,
+"Folate Metabolism",0.01764997,0.01762045,0.01747287,0.01751714,FTCD
+"Folate Metabolism",0,0,0,0,MTHFS
+"Folate Metabolism",0,0.1724691,0,0,ALDH1L1
+"Folate Metabolism",-1000,-999.9343,-999.9725,-1000,LOC286297,MTHFD1
+"Folate Metabolism",999.8923,1000,1000,999.9001,MTHFD1L
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Keratan sulfate degradation",0,0,0,0,FUCA2
+"Keratan sulfate degradation",0,0,0,0,FUCA1
+"N-Glycan Degradation",0,0,0,0,FUCA2
+"N-Glycan Degradation",0,0,0,0,FUCA1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Citric Acid Cycle",0.1217288,0.1217477,-999.6069,-999.8041,FH
+"Tyrosine metabolism",0.08955105,0.08954152,0.08949385,0.08950815,FAH
+"Transport, Mitochondrial",1000,1000,1000,-1000,SLC25A10
+"Transport, Mitochondrial",-1000,-1000,-0.2712312,1000,SLC25A10
+"Transport, Mitochondrial",-1000,-1000,-1000,2.318586,SLC25A10
+"Citric Acid Cycle",0.2598379,0.06616304,1000,1000,FH
+"Transport, Mitochondrial",1000,1000,1000,997.6063,SLC25A10
+"Sphingolipid Metabolism",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT1
+"Blood Group Biosynthesis",0,0,0,0,FUT3
+"Blood Group Biosynthesis",0,0,0,0,FUT3
+"Blood Group Biosynthesis",0,0,0,0,FUT3
+"Blood Group Biosynthesis",0,0,0,0,FUT3
+"Blood Group Biosynthesis",0,0,0,0,FUT3
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"Blood Group Biosynthesis",0,0,0,0,FUT9
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,ALG2
+"N-Glycan Biosynthesis",0,0,0,0,ALG2
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"Keratan sulfate biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"N-Glycan Biosynthesis",0,0,0,0,B4GALT1,B4GALT3,B4GALT2,B4GALT5
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Nucleotide Sugar Metabolism",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Glycerophospholipid Metabolism",-3.023208,-6.019196,-0.1135412,-0.1133867,GPD1
+"Glycolysis/Gluconeogenesis",2.910285,5.90617,0,0,GPD2
+"Arginine and Proline Metabolism",0.04895511,0.04895415,0.04794938,0.04795081,
+"Urea cycle/amino group metabolism",0,0,0,0,
+"Urea cycle/amino group metabolism",0,0,0,0,ALDH18A1
+"Aminosugar Metabolism ",0,0,0,0,GNPDA1,GNPDA2
+"Pentose Phosphate Pathway",0.001,0,0,0,H6PD
+"Pentose Phosphate Pathway",0,999.8271,999.8318,0,H6PD
+"Pentose Phosphate Pathway",2.243259,2.905426,0,0,G6PD
+"Pentose Phosphate Pathway",-0.001,-999.8271,-999.8318,0,H6PD
+"Glycolysis/Gluconeogenesis",0,0,0,0,G6PC,G6PC2,G6PC3
+"Transport, Endoplasmic Reticular",0,0,0,0,SLC37A4
+"Transport, Extracellular",46.881,-66.66667,-66.66667,-66.66667,SLC32A1
+"Urea cycle/amino group metabolism",0,0,0,0,GAMT
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,GAL3ST1
+"Sphingolipid Metabolism",0,0,0,0,GAL3ST1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"N-Glycan Degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Sphingolipid Metabolism",0,0,0,0,GALC
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,B4GALNT1
+"Sphingolipid Metabolism",0,0,0,0,B4GALNT1
+"Sphingolipid Metabolism",0,0,0,0,B4GALNT1
+"Sphingolipid Metabolism",0,0,0,0,B4GALNT1
+"Galactose metabolism",0,0,0,0,GALK1,GALK2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CSGALNACT2,CSGALNACT1
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CSGALNACT2,CSGALNACT1,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CSGALNACT2,CSGALNACT1,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CSGALNACT2,CSGALNACT1,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CSGALNACT2,CSGALNACT1,CHPF
+"O-Glycan Biosynthesis",0,0,0,0,GALNT6,GALNT5,GALNT13,GALNTL2,GALNT1,GALNT2,GALNT3,GALNT8,GALNT9,GALNT7,GALNT10,GALNT11,GALNT14,GALNT12,GALNT4
+"Galactose metabolism",0,0,0,0,AKR1A1,AKR1B1
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Galactose metabolism",-996.7009,-996.6949,-996.6828,-996.6863,GALT
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,B3GALT6
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,B4GALT7
+"Galactose metabolism",1000,1000,1000,1000,UGP1,UGP2
+"Transport, Extracellular",-26.55232,100,-100,100,SLC2A8,SLC2A1,SLC2A2,SLC2A3,SLC2A10
+"Transport, Extracellular",26.55232,-100,100,-100,SLC5A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC5A9
+"Transport, Extracellular",100,100,100,100,SLC5A1
+"Transport, Lysosomal",0,0,0,0,
+"Starch and Sucrose Metabolism",0,0,0,0,MGAM
+"Transport, Extracellular",0,0,0,0,SLC2A1,SLC2A2,SLC2A4
+"Sphingolipid Metabolism",0,0,0,0,SLC33A1
+"Sphingolipid Metabolism",0,0,0,0,SLC33A1
+"Sphingolipid Metabolism",0,0,0,0,SLC33A1
+"Sphingolipid Metabolism",0,0,0,0,SLC33A1
+"Glycolysis/Gluconeogenesis",2.466896,2.24349,3.177858,3.186806,GAPDH,GAPDHS
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,GART
+"N-Glycan Degradation",0,0,0,0,AGA
+"Keratan sulfate degradation",0,0,0,0,AGA
+"N-Glycan Degradation",0,0,0,0,AGA
+"Sphingolipid Metabolism",0,0,0.001,0.001,GBA
+"Sphingolipid Metabolism",0,0,0,0,GBA
+"Sphingolipid Metabolism",0,0,0,0,GBGT1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0.1193928,0,ALDH1A1,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH6A1,ALDH18A1,ALDH5A1,ALDH4A1
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,DLD,GCSH,GLDC,AMT
+"Transport, Extracellular",-100,-100,-100,-100,SLCO1B1,SLCO1B3,SLCO1A2
+"Transport, Extracellular",100,100,100,100,SLC10A1,SLC10A2
+"Transport, Extracellular",-100,-100,-100,-100,ABCB11,ABCC3
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Peroxisomal",0,0,0,0,
+"Blood Group Biosynthesis",0,0,0,0,GCNT2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,SLC35C1
+"Transport, Golgi Apparatus",0,0,0,0,
+"Aminosugar Metabolism ",0,0,0,0,GFPT1,GFPT2
+"Fructose and Mannose Metabolism",0,0,0,0,TSTA3
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Folate Metabolism",0,0,0,0,GGH
+"Glutathione Metabolism",0,0,0.001,0.001,
+"Starch and Sucrose Metabolism",0.2998296,0.3001032,0.301471,0.3010606,GYG1,GYS1,GYS2,GYG2
+"Eicosanoid Metabolism",0,0,0,0,GGT5
+"Eicosanoid Metabolism",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Glycine, Serine, and Threonine Metabolism",0.1460411,0.1452045,0.01062842,0.1377762,SHMT1
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,SHMT2
+"Lysine Metabolism",0,0,0,0,SHMT1
+"Lysine Metabolism",0,0,0,0,SHMT2
+"Nucleotides",0.06364261,0.001714875,0.001722691,0.001720347,GUK1
+"Nucleotides",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0,0,ALDH1A1,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH1A2
+"Ascorbate and Aldarate Metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"Transport, Endoplasmic Reticular",-1000,-1000,-1000,-1000,
+"Sphingolipid Metabolism",0,0,0,0,GLA
+"Sphingolipid Metabolism",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Starch and Sucrose Metabolism",0,0,0,0,GBE1
+"Heparan sulfate degradation",0,0,0,0,GUSB
+"Chondroitin sulfate degradation",0,0,0,0,GUSB
+"Chondroitin sulfate degradation",0,0,0,0,GUSB
+"Chondroitin sulfate degradation",0,0,0,0,GUSB
+"Chondroitin sulfate degradation",0,0,0,0,GUSB
+"Hyaluronan Metabolism",0.0005,0.002,0,0.0005,GUSB
+"Hyaluronan Metabolism",0.0005,0.002,0,0.0005,GUSB
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,GLCE
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CHPF2,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CHPF2,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CHPF2,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHSY1,CHSY3,CHPF2,CHPF
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,B3GAT2,B3GAT3,B3GAT1
+"Transport, Extracellular",-100,-100,-100,-100,
+"Heparan sulfate degradation",0,0,0,0,NAGLU
+"Heparan sulfate degradation",0,0,0,0,NAGLU
+"Heparan sulfate degradation",0,0,0,0,NAGLU
+"Heparan sulfate degradation",0,0,0,0,NAGLU
+"Heparan sulfate degradation",0,0,0,0,NAGLU
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,NDST1,NDST4,NDST2,NDST3
+"N-Glycan Biosynthesis",0,0,0,0,DPAGT1
+"N-Glycan Biosynthesis",0,0,0,0,DPAGT1
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXTL2,EXTL3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2,EXTL1,EXTL3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2,EXTL1,EXTL3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2,EXTL1,EXTL3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,EXT1,EXT2,EXTL1,EXTL3
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Transport, Endoplasmic Reticular",0.001,0.005502557,0,0.001,
+"Transport, Lysosomal",-0.001,-0.004,0,-0.001,SLC17A5
+"Transport, Extracellular",-100,-95,-100,-100,SLC2A6,SLC2A14,SLC2A12,SLC2A7,SLC2A8,SLC2A9,SLC2A1,SLC2A2,SLC2A3,SLC2A4,SLC2A11,SLC2A10
+"Transport, Extracellular",-100,100,-95,-95,SLC5A1
+"Transport, Extracellular",-95,-100,-100,-100,SLC5A2
+"Transport, Extracellular",100,-100,100,100,SLC5A10,SLC5A12,SLC5A9,SLC5A2,SLC5A3
+"Transport, Extracellular",100,100,100,100,SLC5A1
+"Transport, Endoplasmic Reticular",-100,-100,-100,-100,
+"Transport, Golgi Apparatus",0,0,0,0,SLC2A1
+"Transport, Lysosomal",0,0,0,0,
+"Starch and Sucrose Metabolism",0,0,0,0,AGL
+"Starch and Sucrose Metabolism",0.2998296,0.3001032,0.301471,0.3010606,GYG1,GYS1,GYS2,GYG2
+"Transport, Extracellular",-100,-69.99941,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Ascorbate and Aldarate Metabolism",-1000,-1000,-1000,-1000,
+"Glutamate metabolism",0.1560469,0.1549529,0.1484832,0.1516242,GLUL,LGSN
+"Transport, Extracellular",-100,-100,-0.001,-0.001,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",100,-100,-100,0.75,SLC6A14,SLC38A2,SLC38A4,SLC38A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC38A3,SLC38A5
+"Transport, Mitochondrial",0.3595376,0.3591749,0.3513617,0.3559056,
+"Starch and Sucrose Metabolism",0,0,0,0,PYGB,PYGL,PYGM
+"Starch and Sucrose Metabolism",0,0,0,0,PYGB,PYGL,PYGM
+"Ascorbate and Aldarate Metabolism",-1000,-1000,-1000,-1000,
+"Urea cycle/amino group metabolism",0,0,0,0,ALDH18A1
+"Glutathione Metabolism",0,0,0.001,0.001,GCLC,GCLM
+"Glutamate metabolism",0,0,0,0,GAD1,GAD2
+"Glutamate metabolism",-1000,-1000,-1000,-1000,GLUD1,GLUD2
+"Glutamate metabolism",999.6041,999.6045,999.6124,999.6078,GLUD1,GLUD2
+"Glutamate metabolism",0.3595376,0.3591749,0.3513617,0.3559056,GLS2,GLS
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,PPAT
+"Tryptophan metabolism",0.08850616,0.08849567,0.08844323,0.08845896,GCDH
+"Transport, Extracellular",-100,-100,-100,-100,SLC17A8,SLC17A7,SLC17A6
+"Transport, Mitochondrial",-0.9338454,-0.812895,-1.01179,-1.020002,SLC25A13,SLC25A22,SLC25A18,SLC25A12
+"Transport, Extracellular",-0.05,0.05,-100,0.05,SLC1A1,SLC1A2,SLC1A3,SLC1A6,SLC1A7
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,LDHAL6A,LDHD,LDHA,LDHB,LDHC,UEVLD,LDHAL6B
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,HAO2,HAO1
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Peroxisomal",4.547474e-13,4.547474e-13,4.547474e-13,0,
+"Urea cycle/amino group metabolism",0,0,0,0,GATM
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,GCAT
+"Transport, Extracellular",0,0,0,0,SLC6A12
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,GRHPR
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,
+"Transport, Peroxisomal",0,0,0.1193928,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0.1193928,0,HAO2,HAO1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,GK,GK2,GK3P
+"Glycerophospholipid Metabolism",0,0,0,0,GK,GK2,GK3P
+"Pyruvate Metabolism",0,0,0,0,HAGH,HAGHL
+"Pyruvate Metabolism",0,0,0,0,HAGH
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,SLC32A1
+"Transport, Extracellular",-100,-100,-100,100,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"Transport, Extracellular",100,-100,-100,-100,SLC6A14,SLC38A2,SLC38A4,SLC38A1
+"Transport, Extracellular",-99.95,100,0.051,-100,SLC6A9
+"Transport, Extracellular",-100,-100,100,-100,SLC6A5
+"Transport, Mitochondrial",0.016,0.016,0,0.008,
+"Transport, Peroxisomal",0.001,0,-0.1193928,0,
+"Fructose and Mannose Metabolism",0,0,0,0,GMDS
+"Nucleotides",0,0,0,0,GMPR,GMPR2
+"Nucleotides",0.01354869,0.01356105,0.01362286,0.01360432,GMPS
+"Transport, Nuclear",-0.0619293,0,0,0,
+"Pentose Phosphate Pathway",2.243259,2.905426,0,0,PGD
+"Pentose Phosphate Pathway",0,0,0,0,
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,GNMT
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Triacylglycerol Synthesis",0.112276,0.1123785,0.1128907,0.112737,GPAM
+"Triacylglycerol Synthesis",0,0,0,0,GPAM
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGW
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PGAP1
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PGAP1
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGX,PIGM
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGX,PIGM
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Cholesterol Metabolism",0,0,0,0,GGPS1
+"Cholesterol Metabolism",0.03745467,0.03348519,0.03363782,0.03359203,FDPS
+"Nucleotides",0,0,0,0,
+"Transport, Extracellular",0,0,100,0,SLC29A1,SLC29A2
+"Transport, Extracellular",-100,100,-100,-100,SLC28A3,SLC28A2
+"Transport, Extracellular",100,-100,0,100,SLC28A3
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0,0,SLC29A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Ascorbate and Aldarate Metabolism",0,0,0.01229508,0.0001101449,
+"Glutamate metabolism",0,0,0,0,GSR
+"Glutamate metabolism",0.03196465,0,0,0,GSR
+"Glutathione Metabolism",0,0,-0.01229508,-0.0001101449,GPX1,GPX2,GPX4,PRDX1,PRDX2
+"Glutathione Metabolism",0,0,0,0,GPX6,GPX3
+"Glutathione Metabolism",0.03196465,0,0,0,PRDX3,GPX4
+"Glutathione Metabolism",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Glutathione Metabolism",0,0,0.001,0.001,GSS
+"Glutathione Metabolism",0,0,0.001,0.001,GGT1,GGT3P
+"Tetrahydrobiopterin",0,0,0,0,GCH1
+"Tetrahydrobiopterin",0,0,0,0,GCH1
+"Transport, Nuclear",0,0,0,0,
+"Nucleotides",0.0619293,0,0,0,GUCY1B2,GUCY1A2,GUCY1A3,GUCY1B3,GUCY2C,GUCY2F,GUCY2D,NPR1,NPR2
+"Purine Catabolism",0,0,0,0,GDA
+"Salvage Pathway",0,0,0,0,HPRT1
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Transport, Endoplasmic Reticular",1000,1000,1000,1000,
+"Pentose and Glucuronate Interconversions",0.001,0.005502557,0,0.001,
+"Pentose and Glucuronate Interconversions",-999.999,-999.9945,-1000,-999.999,
+"Transport, Endoplasmic Reticular",0.001,0.005502557,0,0.001,
+"Pentose and Glucuronate Interconversions",0,0,0,0,
+"Histidine Metabolism",0.01764997,0.01762045,0.01747287,0.01751714,FTCD
+"Miscellaneous",1.948261,1.949958,1.95744,1.954895,CA14,CA13,CA1,CA2,CA3,CA4,CA7,CA9,CA12
+"Miscellaneous",-1.948261,-1.949958,-1.95744,-1.954895,
+"Miscellaneous",999.5454,999.5088,-1000,996.949,
+"Miscellaneous",-999.5454,-999.5088,1000,-996.949,CA5B,CA5A
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGN
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGV
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGV
+"Tyrosine metabolism",0,0,0,0,DUOX2,DUOX1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",0.03196465,-0.0005975489,0,0.3590026,
+"Transport, Nuclear",-0.03096465,0,0,0,
+"Transport, Peroxisomal",-0.001,0.0005975489,0.03888523,-0.3576722,
+"Transport, Extracellular",91.74216,-100,92.9726,-100,SLC5A1
+"Transport, Endoplasmic Reticular",-0.2090007,-0.1841686,-0.184008,-0.1837562,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0.002,0.008,0,0.002,
+"Transport, Mitochondrial",-766.5488,1.462862,1000,1000,AQP8
+"Transport, Nuclear",-995.1982,0,-4.711652,0,
+"Transport, Peroxisomal",-0.006,-6.255654,-0.1592781,0,
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGN
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGB
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGB
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGO
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGN
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGV
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGV
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGO
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGG
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGN
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGG
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGN
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGK,PIGU,PIGT,GPAA1,PIGS
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGZ
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGK,PIGU,PIGT,GPAA1,PIGS
+"Tryptophan metabolism",-0.08850616,-0.08849567,-0.08844323,-0.08845896,HSD17B10,HADHA,HADHB,HADH
+"Tryptophan metabolism",0,0,0,0,EHHADH,HSD17B4
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,HSD17B10
+"Hyaluronan Metabolism",0.0005,0.002,0,0.0005,HAS1,HAS2,HAS3
+"Hyaluronan Metabolism",0.0005,0.002,0,0.0005,HAS1,HAS2,HAS3
+"Transport, Lysosomal",0.0005,0.002,0,0.0005,
+"Ubiquinone Biosynthesis",0,0,0,0,COQ2
+"Urea cycle/amino group metabolism",1000,1000,-999.1697,1000,
+"Transport, Extracellular",-100,-100,-100,-100,SLC4A3,SLC4A1,SLC4A2,SLC4A9
+"Transport, Extracellular",100,100,-100,-100,SLC4A7
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",-0.001,-6.255056,-0.001,-0.3576722,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Glycolysis/Gluconeogenesis",5,5,5.001,5.001,GCK,HK1,HK2,HK3,HKDC1
+"Aminosugar Metabolism ",0,0,0,0,GCK,HK1,HK2,HK3,HKDC1
+"Fructose and Mannose Metabolism",0,0,0,0,GCK,HK1,HK2,HK3,HKDC1
+"Fructose and Mannose Metabolism",0,0,0,0,GCK,HK1,HK2,HK3,HKDC1
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0.08955105,0.08954152,0.08949385,0.08950815,HGD
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,HIBADH
+"Histidine Metabolism",0.01764997,0.01762045,0.01747287,0.01751714,HAL
+"Histidine Metabolism",0,0,0,0,DDC,HDC
+"Histidine Metabolism",0,0,0,0,ABP1,AOC2
+"Transport, Extracellular",-33.33333,-33.33333,-33.33333,-33.33333,SLC18A1,SLC18A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A3,SLC22A2
+"Transport, Extracellular",0.05,0.05,-10.01207,-100,SLC6A14,SLC38A2
+"Transport, Extracellular",-100,-100,-89.93793,0.05,SLC38A3
+"Transport, Extracellular",100,100,100,100,SLC38A4
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,KYNU
+"Transport, Extracellular",-100,-74.87586,-100,-100,ATP4A,ATP4B
+"Heme Biosynthesis",0.002,0.002,0,0.001,HMBS
+"Cholesterol Metabolism",0,0,0,0,HMGCR
+"Cholesterol Metabolism",0.112364,0.1004556,0.1009134,0.1007761,HMGCR
+"Cholesterol Metabolism",0.07487569,0,0.001,0.001,HMGCS1
+"Cholesterol Metabolism",0,0.06297868,0.06249363,0.06233914,HMGCS2
+"Transport, Mitochondrial",-0.03748831,-0.1004556,-0.09991345,-0.09977609,
+"Transport, Peroxisomal",0.112364,0.1004556,0.1009134,0.1007761,
+"Cholesterol Metabolism",0,0,0,0,HMGCL,HMGCLL1
+"Cholesterol Metabolism",0,0,0,0,HMGCL
+"Transport, Extracellular",0,0,0,0,SLC7A1,SLC7A2,SLC7A3
+"Heme Degradation",0,0,0,0,HMOX1,HMOX2
+"Transport, Extracellular",0,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,HYALP1
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,ALDH4A1
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0.1193928,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,LDHAL6A,LDHD,LDHA,LDHB,LDHC,LDHAL6B
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,GRHPR
+"Transport, Peroxisomal",0,0,-0.1193928,0,
+"Transport, Nuclear",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,SGSH
+"Heparan sulfate degradation",0,0,0,0,SGSH
+"Heparan sulfate degradation",0,0,0,0,SGSH
+"Heparan sulfate degradation",0,0,0,0,SGSH
+"Heparan sulfate degradation",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Steroid Metabolism",-0.2100007,1000,1000,1000,HSD11B1
+"Steroid Metabolism",0.2100007,-1000,-1000,-1000,HSD11B2
+"Steroid Metabolism",-999.8107,-999.8271,-999.8318,-1000,HSD17B1,HSD17B8
+"Steroid Metabolism",0,0,0,0,HSD17B2
+"Steroid Metabolism",0,0,0,0,HSD17B3
+"Bile Acid Biosynthesis",0.001,0,0,0,HSD17B4
+"Bile Acid Biosynthesis",0.001,0,0,0,HSD17B4
+"Steroid Metabolism",0,0,0,1000,HSD17B7
+"Steroid Metabolism",999.8107,999.8271,999.8318,0,HSD17B2
+"Steroid Metabolism",0,0,0,0,HSD17B7
+"Steroid Metabolism",-1000,1000,1000,1000,AKR1C4
+"Steroid Metabolism",1000,-1000,-1000,-1000,AKR1C4
+"Steroid Metabolism",0,0,0,0,HSD3B1
+"Steroid Metabolism",0,0,0,0,HSD3B2
+"Steroid Metabolism",0,0,0,0,HSD3B2
+"Steroid Metabolism",0,0,0,0,HSD3B1
+"Steroid Metabolism",0,0,0,0,HSD3B2
+"Steroid Metabolism",0,0,0,0,HSD3B2
+"Steroid Metabolism",0,0,0,0,HSD3B2
+"Bile Acid Biosynthesis",0.002,0,0,0,HSD3B7
+"Bile Acid Biosynthesis",0,0,0,0,HSD3B7
+"Heparan sulfate degradation",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Peroxisomal",0,0,0,0,
+"Salvage Pathway",0,0,0,0,HPRT1
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXP
+"Taurine and hypotaurine metabolism",0.0005,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Transport, Mitochondrial",0,0,0,0,UCP1,UCP2,UCP3,SLC25A14,SLC25A27
+"Transport, Endoplasmic Reticular",-0.07430001,-0.0167426,-0.06033452,0.1501641,
+"Transport, Peroxisomal",0.114364,0.1004556,0.1009134,0.1007761,
+"Citric Acid Cycle",1000,999.8088,1000,999.8112,IDH3A,IDH3B,IDH3G
+"Citric Acid Cycle",0,0,0,0,IDH1
+"Citric Acid Cycle",0,0,0,0,IDH1
+"Citric Acid Cycle",-1000,-1000,-1000,-1000,IDH2
+"Tyrosine metabolism",0,0,0,0,TPO
+"Tyrosine metabolism",0,0,0,0,TPO
+"Tyrosine metabolism",0,0,0,0,TPO
+"Tyrosine metabolism",0,0,0,0,TPO
+"Heparan sulfate degradation",0,0,0,0,IDUA
+"Heparan sulfate degradation",0,0,0,0,IDUA
+"Heparan sulfate degradation",0,0,0,0,IDUA
+"Chondroitin sulfate degradation",0,0,0,0,IDUA
+"Transport, Lysosomal",0,0,0,0,SLC17A5
+"Transport, Nuclear",0,0,-0.002572704,0,
+"Valine, Leucine, and Isoleucine Metabolism",0,0,0,0,BCAT1
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,BCAT2
+"Transport, Extracellular",100,-99.95,-99.95,-99.95,SLC6A14
+"Transport, Mitochondrial",0.04581817,0.04581435,0.04579527,0.045801,
+"Transport, Extracellular",-99.95,100,100,100,SLC43A2,SLC43A1
+"Histidine Metabolism",0,0,0,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Histidine Metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"IMP Biosynthesis",-0.02236323,-0.02238363,-0.02248566,-0.02245505,ATIC
+"Nucleotides",0.01354869,0.01356105,0.01362286,0.01360432,IMPDH1,IMPDH2
+"Inositol Phosphate Metabolism",0,0.001502557,0,0,MIOX
+"Nucleotides",0,0,0,0,
+"Transport, Extracellular",0.002494255,0.005,0.002513384,0.002508601,SLC2A13
+"Transport, Extracellular",-100,-100,100,-100,SLC5A3
+"Transport, Extracellular",100,100,-100,100,SLC5A11
+"Transport, Extracellular",0,100,0,0,SLC29A1,SLC29A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC28A3,SLC28A2
+"Transport, Extracellular",100,0,100,100,SLC28A3
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0,0,SLC29A1
+"Cholesterol Metabolism",0.03745467,0.03348519,0.03363782,0.03359203,IDI1,IDI2
+"C5-Branched dibasic acid metabolism",1.383568,-1000,-1000,-1000,SUCLG2,SUCLG1
+"C5-Branched dibasic acid metabolism",-1.383568,1000,1000,1000,SUCLG1,SUCLA2
+"Transport, Nuclear",0,0,0.002572704,0,
+"Histidine Metabolism",0.01764997,0.01762045,0.01747287,0.01751714,
+"Transport, Extracellular",-100,-100,-100,100,SLC5A8
+"Fatty acid elongation",0,0.2738565,0,0,FASN
+"Transport, Extracellular",0,100,0,0,SLC12A7,SLC12A4,SLC12A6
+"Transport, Extracellular",100,100,50.151,100,SLC12A7,SLC12A5,SLC12A4,SLC12A6
+"Aminosugar Metabolism ",0,0,0,0,
+"Fructose and Mannose Metabolism",0,0,0,0,KHK
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,KHK
+"Galactose metabolism",0,0,0,0,KHK
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Tryptophan metabolism",0,0,0,0,KYNU
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,KMO
+"Tryptophan metabolism",0,0,0,0,AADAT,CCBL1
+"Tryptophan metabolism",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,SLC9A8,SLC9A7
+"Galactose metabolism",0,0,0,0,LCT
+"Galactose metabolism",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Pyruvate Metabolism",-1000,-1.623024,-1000,-1000,GRHPR
+"Pyruvate Metabolism",0,0,0,0,ADH5
+"Pyruvate Metabolism",0,0,0,0,AKR1A1,AKR1B1,AKR7A2
+"Pyruvate Metabolism",0,998.377,0,0,AKR7A2
+"CoA Catabolism",0,0,0,0,ACP2
+"Pyruvate Metabolism",0,0,0,0,ALDH1A1,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Pyruvate Metabolism",0,0,0,0,ALDH1A1,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Pyruvate Metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH6A1,ALDH18A1,ALDH5A1,ALDH4A1
+"Pyruvate Metabolism",0,0,0,0,ALDH2,ALDH1B1,ALDH6A1,ALDH18A1,ALDH5A1,ALDH4A1
+"Fatty Acid Metabolism",0,0,0,0,LCAT
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Cysteine Metabolism",0,0,0,0.09653667,GOT1
+"Cysteine Metabolism",0,0,0,0,GOT2
+"Taurine and hypotaurine metabolism",0,0,0,0,GAD1,GAD2,CSAD
+"Pyruvate Metabolism",0,0,0,0,LDHD
+"Glycolysis/Gluconeogenesis",-1000,998.0274,-2.034092,-0.6401468,LDHAL6A,LDHA,LDHB,LDHC,UEVLD,LDHAL6B
+"Pyruvate Metabolism",1000,-998.0274,0,0,LDHA
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLCO1B1,SLCO1B3
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0.09579161,0,0,0,BCAT1
+"Valine, Leucine, and Isoleucine Metabolism",-0.05830329,0.0374769,0.03741982,0.03743694,BCAT2
+"Transport, Extracellular",100,-100,-100,-100,SLC6A14,SLC38A4,SLC3A2,SLC7A1,SLC7A2,SLC38A1,SLC7A3
+"Transport, Mitochondrial",-0.05830329,0.0374769,0.03741982,0.03743694,
+"Transport, Extracellular",-99.9,100,0.05,100,SLC43A2,SLC43A1
+"Tryptophan metabolism",0,0,0,0,KYNU
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",-100,-100,-100,-100,
+"Pyruvate Metabolism",0,0,0,0,GLO1
+"Transport, Extracellular",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC5A6
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Cholesterol Metabolism",0,0,0,0,CYP4F8
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,CYP51A1
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,LSS
+"Glycerophospholipid Metabolism",0,0,0,0,CLC,LGALS13,PLA2G4A
+"Lysine Metabolism",0,0,0,0,PIPOX
+"Triacylglycerol Synthesis",0,0,0,0,LPL
+"Triacylglycerol Synthesis",0.004350911,0.00435488,0.004374729,0.004368775,LPL
+"Fatty Acid Metabolism",0,0,0,0,LIPC
+"Triacylglycerol Synthesis",0,0,0,0,MGLL
+"Fatty Acid Metabolism",0,0,0,0,LIPC
+"Triacylglycerol Synthesis",0,0,0,0,PLA2G3
+"Triacylglycerol Synthesis",0,0,0,0,LIPC,PNLIP,PNLIPRP1,PNLIPRP2,LIPF,LIPG
+"Vitamin A Metabolism",0,0,0,0,LRAT
+"Vitamin A Metabolism",0,0.0007107706,0.0007140102,0,
+"Vitamin A Metabolism",0,0.0007107706,0.0007140102,0,
+"Vitamin D",0,0,0,0,
+"Cholesterol Metabolism",0,0.0167426,0.01681891,0.01679601,SC5DL
+"Cholesterol Metabolism",0.01872733,0,0,0,SC5DL
+"Eicosanoid Metabolism",0,0,0,0,LTA4H
+"Eicosanoid Metabolism",0,0,0,0,
+"Eicosanoid Metabolism",0,0,0,0,LTC4S,MGST2,MGST3
+"Eicosanoid Metabolism",0,0,0,0,
+"Tryptophan metabolism",0,0,0,0,DDC
+"Lysine Metabolism",0,0,0,0,EHMT2,SETD8,MLL3,SUV39H1,SUV39H2,EHMT1,SETD7,SETDB2,DOT1L,SETDB1
+"Lysine Metabolism",0,0,0,0,EHMT2,SETD8,MLL3,SUV39H1,SUV39H2,EHMT1,SETD7,SETDB2,DOT1L,SETDB1
+"Lysine Metabolism",0,0,0,0,EHMT2,SETD8,MLL3,SUV39H1,SUV39H2,EHMT1,SETD7,SETDB2,DOT1L,SETDB1
+"Lysine Metabolism",0,0,0,0,
+"Transport, Extracellular",-99.95,83.69985,100,100,SLC6A14,SLC22A5
+"Transport, Extracellular",100,-100,-100,0.1,SLC38A4,SLC7A1,SLC7A2,SLC7A3
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Mitochondrial",0.03955105,0.03954152,0.03949385,0.03950815,SLC25A15,SLC25A2
+"Transport, Nuclear",-495.1363,0,0,0,
+"Pyruvate Metabolism",0,0,2.034092,0,CYB5D1
+"Transport, Extracellular",-100,100,100,99.35985,SLC16A8,SLC16A1,SLC16A3,SLC16A7
+"Transport, Extracellular",100,-100,-100,-100,
+"Transport, Mitochondrial",1000,1.972627,1000,1000,AQP9
+"Transport, Mitochondrial",0,-1000,-1000,-1000,SLC16A1
+"N-Glycan Biosynthesis",0,0,0,0,MAN2A2,MAN2A1
+"N-Glycan Biosynthesis",0,0,0,0,MGAT1
+"N-Glycan Biosynthesis",0,0,0,0,MGAT4B,MGAT4A
+"N-Glycan Biosynthesis",0,0,0,0,MGAT3
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,MGAT5
+"N-Glycan Biosynthesis",0,0,0,0,MGAT2
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGK,PIGU,GPAA1,PIGS
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGG
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGK,PIGU,PIGT,GPAA1,PIGS
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGF,PIGO
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Tyrosine metabolism",0.08955105,0.08954152,0.08949385,0.08950815,GSTZ1
+"Histidine Metabolism",0,0,0,0,ALDH3A1,ALDH1A3,ALDH3B1,ALDH3B2,MAOB
+"Transport, Mitochondrial",-1000,-999.9035,-999.9035,1000,SLC25A10
+"Transport, Mitochondrial",1000,1000,0.2712312,-1000,SLC25A10
+"Starch and Sucrose Metabolism",0,0,0,0,GANC
+"Transport, Mitochondrial",1000,1000,1000,-2.318586,SLC25A10
+"Starch and Sucrose Metabolism",0,0,0,0,MGAM
+"Starch and Sucrose Metabolism",0,0,0,0,GAA
+"Transport, Extracellular",0,0,0,0,SLC2A3
+"Transport, Mitochondrial",-999.8783,-1000,-999.797,-1000,SLC25A10
+"Fructose and Mannose Metabolism",0,0,0,0,GMPPB,GMPPA
+"N-Glycan Biosynthesis",0,0,0,0,MAN1B1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1B1
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"Fructose and Mannose Metabolism",0,0,0,0,MPI
+"Transport, Extracellular",100,-100,100,100,SLC2A1,SLC2A2,SLC2A3
+"Transport, Extracellular",-100,100,-100,-100,SLC5A9
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,MAOA,MAOB
+"Tyrosine metabolism",0,0,0,0,ABP1,AOC2,AOC3
+"Valine, Leucine, and Isoleucine Metabolism",0.03748831,0.0374769,0.03741982,0.03743694,MCCC1,MCCC2
+"Fatty Acid Metabolism",0,0,0,0,MLYCD
+"Fatty Acid Metabolism",0,0,0,0,MLYCD
+"Fatty Acid Metabolism",0,0,0,0,MLYCD
+"Propanoate Metabolism",0,0,0,0,
+"Cysteine Metabolism",0,0,0,0,
+"Cysteine Metabolism",0,0,0,0,LDHAL6A,LDHA,LDHB,LDHC,UEVLD,LDHAL6B
+"Fatty Acid Metabolism",0,0,0,0,FASN
+"Fatty Acid Metabolism",0,0,0,0,MCAT
+"Cysteine Metabolism",0,0,0,0,MPST
+"Citric Acid Cycle",1000,-996.1775,3.403175,-0.5207428,MDH1B,MDH1
+"Citric Acid Cycle",-999.6184,996.3655,-3.39675,-1.885412,MDH2
+"Arginine and Proline Metabolism",0,0,0.001,0,
+"Pyruvate Metabolism",0,0,0,0,ME2
+"Pyruvate Metabolism",0,0,0,2.602075,ME1
+"Pyruvate Metabolism",0,0,0.3866481,0,ME3,ME2
+"C5-Branched dibasic acid metabolism",1000,0,-1000,0,SUCLG1,SUCLA2
+"C5-Branched dibasic acid metabolism",-1000,0,1000,0,SUCLG2,SUCLG1
+"Tryptophan metabolism",0,0,0,0,IDO1
+"Tryptophan metabolism",0,0,0,0,CYP1A1,CYP1A2,CYP1B1,CYP2C19
+"Transport, Extracellular",0,0,-0.03926985,-0.1656046,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"C5-Branched dibasic acid metabolism",0,0,0,0,
+"Methionine Metabolism",0.05557267,0.05563706,0.05695902,0.05586243,MAT2B,MAT1A,MAT2A
+"Transport, Extracellular",0.05,-0.05,-100,-0.05,SLC3A2,SLC7A5
+"Methionine Metabolism",0.007657952,0.007724245,0.008055714,0.007956273,MTR
+"Transport, Extracellular",100,100,100,100,SLC6A14,SLC38A2,SLC22A5,SLC38A1
+"Transport, Extracellular",-100,-99.9,0.05,-99.9,SLC43A2,SLC43A1
+"Cholesterol Metabolism",0.112364,0.1004556,0.1009134,0.1007761,MVK
+"N-Glycan Biosynthesis",0,0,0,0,MOGS
+"N-Glycan Biosynthesis",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,
+"C5-Branched dibasic acid metabolism",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0.03748831,0.0374769,0.03741982,0.03743694,AUH
+"Pyruvate Metabolism",0,0,0,0,
+"Pyruvate Metabolism",0,0,0,0,
+"Histidine Metabolism",0,0,0,0,ABP1,AOC2,AOC3
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,IPMK
+"Inositol Phosphate Metabolism",0,0,0,0,INPP5J,INPP5A,INPP5B,INPP5D,INPPL1,INPP5E,SYNJ1
+"Inositol Phosphate Metabolism",0,0,0,0,IPMK
+"Transport, Nuclear",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,INPP1
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,IPMK
+"Inositol Phosphate Metabolism",0,0,0,0,IPMK
+"Inositol Phosphate Metabolism",0,0,0,0,ITPKA,ITPKB,ITPKC
+"Inositol Phosphate Metabolism",0,0,0,0,IPMK
+"Inositol Phosphate Metabolism",0,0,0,0,INPP5J,INPP5A,INPP5B,INPP5D,INPPL1,INPP5E,SYNJ1
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,INPP1
+"Transport, Nuclear",0,0,0,0,
+"Inositol Phosphate Metabolism",0.001,0,0.001,0.001,IMPA1,IMPA2
+"Inositol Phosphate Metabolism",0.001,0,0.001,0.001,ISYNA1
+"Transport, Nuclear",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,INPP4A,INPP4B
+"Inositol Phosphate Metabolism",0,0,0,0,IMPA1,IMPA2
+"Inositol Phosphate Metabolism",0,0,0,0,IMPA1,IMPA2
+"Propanoate Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Starch and Sucrose Metabolism",0,0,0,0,GANC
+"Starch and Sucrose Metabolism",0,0,0,0,MGAM
+"Starch and Sucrose Metabolism",0,0,0,0,GAA
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1B1
+"N-Glycan Biosynthesis",0,0,0,0,MAN1A2,MAN1A1,MAN1C1
+"Valine, Leucine, and Isoleucine Metabolism",0,0,0,0,MLYCD
+"Valine, Leucine, and Isoleucine Metabolism",0,0,0,0,MLYCD
+"Valine, Leucine, and Isoleucine Metabolism",0,0,0,0,MLYCD
+"Valine, Leucine, and Isoleucine Metabolism",-0.04881817,-0.08216304,-0.04679527,-0.045801,MCEE
+"Valine, Leucine, and Isoleucine Metabolism",0.0841793,0.08216304,0.08208174,0.08210613,MUT
+"Valine, Leucine, and Isoleucine Metabolism",0.001,0.03634869,0.001,0,ALDH6A1
+"Propanoate Metabolism",0.001,0.001,0.001,0,ALDH6A1
+"Valine, Leucine, and Isoleucine Metabolism",0.03536114,0,0.03528647,0.03630514,
+"Triacylglycerol Synthesis",0,0,0,0,MOGAT1,MOGAT2
+"Arginine and Proline Metabolism",0,0,0.001,0,MTAP
+"Folate Metabolism",0.1524744,0.1515396,0.01747287,0.1447679,LOC285216,MTHFD1,
+"Folate Metabolism",0,0,0,0,MTHFD2,MTHFD1L
+"Folate Metabolism",1000,1000,1000,1000,MTHFD1
+"Folate Metabolism",-999.8652,-999.8661,-1000,-999.8727,LOC285216,
+"Folate Metabolism",-0.001,0.001,-0.001,999.6078,MTHFD2
+"Folate Metabolism",0.001,-0.001,0.001,-999.6078,MTHFD2,MTHFD1L
+"Folate Metabolism",0.007657952,0.007724245,0.008055714,0.007956273,MTHFR
+"Transport, Extracellular",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0.001,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"O-Glycan Biosynthesis",0,0,0,0,C1GALT1
+"O-Glycan Biosynthesis",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Arginine and Proline Metabolism",0,0,0,0,ALDH2,ALDH1B1
+"Alanine and Aspartate Metabolism",0,0,0,0,ASPA,ACY3
+"Transport, Mitochondrial",0,0,0,0,
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Hyaluronan Metabolism",0.0005,0.002,0,0.0005,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Chondroitin sulfate degradation",0,0,0,0,HEXA,HEXB
+"Keratan sulfate degradation",0,0,0,0,HEXA,HEXB
+"Transport, Extracellular",0,0,0,0,
+"Oxidative Phosphorylation",2.61614,0.001,0,0.001,NDUFA11,NDUFS7,ND1,ND2,ND3,ND4,ND4L,ND5,ND6,NDUFA1,NDUFA2,NDUFA3,NDUFA4,NDUFA5,NDUFA6,NDUFA7,NDUFA8,NDUFA9,NDUFA10,NDUFAB1,NDUFB1,NDUFB2,NDUFB3,NDUFB4,NDUFB5,NDUFB6,NDUFB7,NDUFB8,NDUFB9,NDUFB10,NDUFC1,NDUFC2,NDUFS1,NDUFS2,NDUFS3,NDUFV1,NDUFS4,NDUFS5,NDUFS6,NDUFS8,NDUFV2,NDUFV3,NDUFA13,NDUFA12,TUSC3
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"NAD Metabolism",0,0,0,0,NADK
+"NAD Metabolism",0,0,0.001,0.001,
+"NAD Metabolism",0,0,0,0,CD38
+"Transport, Endoplasmic Reticular",0,0,0,0.1689601,
+"Transport, Peroxisomal",0.226728,0.2009112,0.2018269,0.2015522,
+"NAD Metabolism",0,0,0,0,
+"NAD Metabolism",0,0,0,0,CD38
+"Transport, Endoplasmic Reticular",0,0,0,0.1689601,
+"Transport, Peroxisomal",0.226728,0.2009112,0.2018269,0.2015522,
+"NAD Metabolism",0,0,0,0,NADSYN1
+"Transport, Nuclear",0,0,4.701361,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Keratan sulfate degradation",0,0,0,0,NAGA
+"Sphingolipid Metabolism",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,NAGA
+"Keratan sulfate degradation",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,SLC4A10,SLC4A8
+"Transport, Extracellular",100,100,100,100,SLC5A5
+"Transport, Extracellular",100,100,100,100,SLC5A1,SLC5A3,SLC5A5
+"Transport, Extracellular",-100,-100,-100,100,SLC9A4,SLC9A1,SLC9A2,SLC9A3,SLC9A5
+"Transport, Golgi Apparatus",0,0,0,0,SLC9A8,SLC9A7
+"Transport, Extracellular",-100,-100,100,-100,SLC9A1,SLC9A2,SLC9A3
+"Transport, Peroxisomal",-0.001,0,0,0,
+"beta-Alanine metabolism",0,0,0,0,CNDP1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",-100,100,-100,-100,SLC12A3
+"Transport, Extracellular",-100,0,-100,-100,SLC24A4,SLC24A2,SLC24A3,SLC24A1
+"Transport, Extracellular",-100,-100,-100,-100,SLC24A2,SLC24A1
+"Nucleotides",0,0,0,0,CANT1
+"Nucleotides",0,0,0,0,CANT1
+"Nucleotides",0,0,0,0,
+"Nucleotides",0,0,0.001,0.001,
+"Nucleotides",0,0,0,0,CANT1
+"Nucleotides",0,0,0,0,ENTPD4
+"Nucleotides",0.005272008,0,0,0.001,DTYMK
+"Nucleotides",0,0,0,0,CANT1
+"Nucleotides",734.0691,-1000,-1000,-1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",1000,1000,1000,1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0,0,0,0,NME4
+"Nucleotides",-1000,-1000,-1000,-1000,NME1,NME2
+"Nucleotides",1000,-1000,0,1000,NME4
+"Nucleotides",500,-500,500,500,NME1,NME2
+"Nucleotides",3.357733,1000,-1000,-996.5637,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0,0,0,0,NME4
+"Nucleotides",-1000,-1000,-1000,-1000,NME1,NME2
+"Nucleotides",1000,-1000,-1000,1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0,0,0.004814469,0.004807916,NME4
+"Nucleotides",500,-500,500,500,NME1,NME2
+"Nucleotides",-1000,0.001,-1000,-1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0.001,-1000,0,0,NME4
+"Nucleotides",1000,1000,1000,1000,NME1,NME2
+"Nucleotides",-1000,-0.001,4.882919,0,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0,-999.999,-0.2078177,-1000,NME4
+"Nucleotides",500,-500,500,500,NME1,NME2
+"Nucleotides",1000,0,1000,1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",-1000,0,-1000,-1000,NME4
+"Nucleotides",0,0,0.002572704,0,NME1,NME2
+"Nucleotides",0,4.828984,0,-2.388884,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",-1000,0,-1000,-997.6111,NME4
+"Nucleotides",-1000,-1000,-1000,-1000,NME1,NME2
+"Nucleotides",-1000,-1000,999.9957,-1000,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",-237.4665,-999.999,-1000,0,NME4
+"Nucleotides",500,-500,500,500,NME1,NME2
+"Nucleotides",0,0,0.002572704,0,NME6,NME7,NME1,NME2,NME3
+"Nucleotides",0,0,0,0,NME4
+"Nucleotides",0,0,-0.002572704,0,NME1,NME2
+"Transport, Extracellular",-100,-100,-100,-100,RHBG,RHAG
+"Transport, Nuclear",0,0,-0.005145407,0,
+"Transport, Peroxisomal",0,0,0,0,
+"NAD Metabolism",0,0,0,0,
+"Transport, Nuclear",500,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",100,0,-100,100,SLC12A1,SLC12A2
+"Transport, Extracellular",100,-25.02414,49.899,-25,SLC12A1,SLC12A2
+"NAD Metabolism",0,0,0,0,NMNAT3
+"NAD Metabolism",0,0,4.701361,0,NMNAT1
+"NAD Metabolism",0,0,-4.700361,0.001,NMNAT2,NMNAT3
+"NAD Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,4.701361,0,
+"Alkaloid biosynthesis II",0,0,0,0,ABP1,AOC2,AOC3
+"NAD Metabolism",0,1000,0,1000,ENPP1,ENPP2,ENPP3
+"NAD Metabolism",0,0,0,0,NMNAT3
+"NAD Metabolism",500,0,0,0,NMNAT1
+"NAD Metabolism",-500,-1000,0,-1000,NMNAT2,NMNAT3
+"NAD Metabolism",0,0,0,0,QPRT
+"NAD Metabolism",0,0,0,0,NNMT
+"Tyrosine metabolism",0,0,0,0,PNMT
+"Arginine and Proline Metabolism",0.001,0.001,0.001,0,NOS1,NOS2,,,NOS3
+"Arginine and Proline Metabolism",0.0005,0.0005,0.0005,0,NOS1,NOS2,,,NOS3
+"Transport, Extracellular",-0.001,-0.001,-0.001,0,
+"NAD Metabolism",0,0,0,0,NP
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,SULT1A3
+"Transport, Extracellular",-66.66667,-66.66667,-66.66667,-66.66667,SLC18A1,SLC18A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC6A2,SLC6A3
+"Transport, Extracellular",-100,-100,-100,-100,SLC22A3,SLC22A2
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",-100,-100,-100,-100,
+"O-Glycan Biosynthesis",0,0,0,0,ST6GALNAC1
+"O-Glycan Biosynthesis",0,0,0,0,ST6GALNAC1
+"NAD Metabolism",0,0,0,0,NT5C2
+"Pyrimidine Catabolism",0,0,0,0,NT5C
+"Nucleotides",0,0,0,0,NT5C2
+"Purine Catabolism",0,0,0,0,NT5C2,NT5C1B
+"Nucleotides",0,0,0,0,NT5C
+"Nucleotides",0,0,254.4686,0,NT5M
+"Pyrimidine Catabolism",0,1000,741.8315,1000,NT5C3
+"Nucleotides",0,0,0,0,NT5E
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Nucleotides",0,0,0,0,NT5M
+"Pyrimidine Catabolism",0,0,1000,0,NT5C,NT5C1B
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Pyrimidine Catabolism",1000,615.6398,0.009959876,681.987,NT5C3
+"Nucleotides",0,0,0,0,NT5E
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Pyrimidine Catabolism",0,0,0,0,NT5C
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Nucleotides",0,1.795617,0,243.7023,NT5M
+"Nucleotides",0,0.005275906,0,0.002289548,NT5C2
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Nucleotides",0,0,0,0,NT5C2,NT5C1B
+"Nucleotides",0,0,0,0,NT5E
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Nucleotides",0.001,0.001,0,0,NT5C2,NT5C
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Nucleotides",0,0,0,0,NT5C2
+"Nucleotides",0,0,0,0,NT5E
+"Nucleic acid degradation",0,0,0,0,ACP2
+"Transport, Nuclear",0,0,0,0,
+"Nucleotides",0,0,0,0,CANT1
+"Nucleotides",0,0,0,0,ITPA
+"Nucleotides",0,0,0,0,ITPA
+"Nucleotides",0,0,0,0,ITPA
+"Transport, Extracellular",-100,-100,-100,-37.45,ATP1B4,ATP1A1,ATP1A2,ATP1A3,ATP1A4,ATP1B1,ATP1B2,ATP1B3
+"Starch and Sucrose Metabolism",0,0,0,0,SI
+"Starch and Sucrose Metabolism",0,0,0,0,SI
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",-0.0619293,0,-0.02459015,-0.0002202897,
+"Transport, Nuclear",0.0619293,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",3.728883,3.827292,2.153637,0.8737602,
+"Transport, Endoplasmic Reticular",0.171546,0.1506834,0.1513702,0.1511641,
+"Transport, Mitochondrial",3.104465,0.06215734,1.229508,-0.1669868,
+"Transport, Nuclear",-0.03096465,0,0,0,
+"Transport, Peroxisomal",0.005,3.127229,0.0407538,0.3576722,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,
+"Urea cycle/amino group metabolism",0,0,0,0,OTC
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Valine, Leucine, and Isoleucine Metabolism",-1.12373,-0.9167643,-1.397701,0.1074444,OXCT1,OXCT2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0.03748831,0.0374769,0.03741982,0.03743694,DBT,DLD,BCKDHA,BCKDHB
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,0.03634869,0.03628647,0.03630514,DBT,DLD,BCKDHA,BCKDHB
+"Valine, Leucine, and Isoleucine Metabolism",0.04581817,0.04581435,0.04579527,0.045801,DBT,DLD,BCKDHA,BCKDHB
+"Transport, Extracellular",0,0,0,0,
+"Pyrimidine Biosynthesis",0.02194298,0.02196209,0.02105764,0.02102897,UMPS
+"Transport, Extracellular",0,0,0,0,
+"Glutathione Metabolism",0,0,0.001,0.001,OPLAH
+"Vitamin A Metabolism",0,0,0,0,
+"Vitamin A Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Urea cycle/amino group metabolism",0,0,0.001,0.001,ODC1
+"Urea cycle/amino group metabolism",0.04895511,0.04895415,0.04794938,0.04795081,OAT
+"Transport, Mitochondrial",999.951,999.951,-1000,999.952,SLC25A15,SLC25A2
+"Transport, Mitochondrial",-1000,-1000,999.9521,-1000,SLC25A15,SLC25A2
+"Transport, Extracellular",0,0,0,0,SLC7A1,SLC7A2,SLC7A3
+"Pyrimidine Biosynthesis",-0.02194298,-0.02196209,-0.02105764,-0.02102897,UMPS
+"Transport, Extracellular",-50.04889,-100,0,-100,SLC26A1,SLC26A3,SLC26A2
+"Transport, Peroxisomal",0,0,0,0,
+"Steroid Metabolism",0,0,0,0,CYP11A1
+"Steroid Metabolism",0,0,0,0,CYP11B1
+"Steroid Metabolism",0,0,0,0,CYP11B1
+"Steroid Metabolism",0,0,0,0,CYP11B2
+"Steroid Metabolism",0,0,0,0,CYP17A1
+"Steroid Metabolism",0,0,0,0,CYP17A1
+"Steroid Metabolism",0,0,0,0,CYP17A1
+"Steroid Metabolism",0,0,0,0,CYP17A1
+"Steroid Metabolism",0,0,0,0,CYP19A1
+"Steroid Metabolism",0,0,0,0,CYP19A1
+"Steroid Metabolism",0,0,0,0,CYP1B1
+"Steroid Metabolism",0,0,0,0,CYP21A2
+"Steroid Metabolism",0,0,0,0,CYP21A2
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP27A1
+"Bile Acid Biosynthesis",0,0,0,0,CYP27A1
+"CYP Metabolism",0,0,0,0,CYP2A6,CYP2A13
+"CYP Metabolism",0,0,0,0,CYP2C18
+"CYP Metabolism",0,0,0,0,CYP2C19
+"CYP Metabolism",0,0,0,0,CYP2C8
+"CYP Metabolism",0,0,0,0,CYP2C9
+"Limonene and pinene degradation",0,0,0,0,CYP2C19,CYP2C9
+"Limonene and pinene degradation",0,0,0,0,CYP2C19,CYP2C9
+"Limonene and pinene degradation",0,0,0,0,CYP2C19,CYP2C9
+"CYP Metabolism",0,0,0,0,CYP2D6
+"CYP Metabolism",0,0,0,0,CYP2E1
+"CYP Metabolism",0,0,0,0,CYP2F1
+"Bile Acid Biosynthesis",0,0,0,0,CYP39A1
+"CYP Metabolism",0,0,0,0,CYP3A4
+"Steroid Metabolism",0,0,0,0,CYP3A43
+"CYP Metabolism",0,0,0,0,CYP3A5
+"Steroid Metabolism",0,0,0,0,CYP3A7
+"Bile Acid Biosynthesis",0,0,0,0,CYP46A1
+"Eicosanoid Metabolism",0,0,0,0,CYP2F1
+"Eicosanoid Metabolism",0,0,0,0,CYP4F12
+"Eicosanoid Metabolism",0,0,0,0,CYP4F3,CYP4F12,CYP4F2
+"CYP Metabolism",0,0,0,0,CYP4F12
+"Eicosanoid Metabolism",0,0,0,0,CYP4F8
+"Bile Acid Biosynthesis",0.002,0,0,0,CYP7A1
+"Bile Acid Biosynthesis",0,0,0,0,CYP7B1
+"Bile Acid Biosynthesis",0,0,0,0,CYP7B1
+"Bile Acid Biosynthesis",0,0,0,0,CYP8B1
+"Bile Acid Biosynthesis",0.001,0,0,0,CYP8B1
+"Eicosanoid Metabolism",0,0,0,0,
+"Cholesterol Metabolism",0,0,0,0,
+"Glutamate metabolism",0.02866589,0.02864642,0.02754909,0.02757829,ALDH4A1
+"Urea cycle/amino group metabolism",0,0,1000,0,PYCR2,PYCRL
+"Arginine and Proline Metabolism",0.01928922,0.01930773,1000,0,PYCR1
+"Urea cycle/amino group metabolism",0.01801083,0.01402362,0,1000,PYCR2,PYCRL
+"Arginine and Proline Metabolism",0.001,0.001,0.02040029,0.02037252,PYCR1
+"Phenylalanine metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,PAFAH1B1,PAFAH1B2,PAFAH1B3,PAFAH2
+"Glycerophospholipid Metabolism",0,0,0,0,PLA2G7
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"CoA Catabolism",0.001,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,SLC35B2
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Mitochondrial",0,0.01854569,0,0.01381289,ATP10A
+"Glycerophospholipid Metabolism",0,0,0,0,PLD2
+"Glycerophospholipid Metabolism",0,0,0,0,PLD1
+"Glycerophospholipid Metabolism",0,0,0.004814469,0.004807916,PLD1
+"Glycerophospholipid Metabolism",0,0,0,0,PLD1
+"Transport, Endoplasmic Reticular",-0.01852422,0,-0.01383854,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,ACMSD
+"Lysine Metabolism",0,0,0,0,PLOD1,PLOD2,PLOD3
+"Urea cycle/amino group metabolism",1000,1000,1000,1000,
+"Carnitine shuttle",0,0,0,0,
+"Carnitine shuttle",0.002,0,0,0,
+"Pyruvate Metabolism",0.3683278,0.3715161,0.7461055,2.96775,PC
+"Transport, Extracellular",0,0,0,0,ABCB4
+"Nucleotides",0,0,0,0,PDE10A,PDE7B,PDE11A,PDE1A,PDE1C,PDE2A,PDE3A,PDE3B,PDE4A,PDE4B,PDE4C,PDE4D,PDE7A,PDE8A,PDE1B,PDE8B
+"Nucleotides",0,0,0,0,PDE10A
+"Nucleotides",0,0,0,0,PDE10A,PDE11A,PDE1A,PDE1C,PDE2A,PDE3A,PDE3B,PDE6A,PDE6C,PDE6D,PDE6G,PDE6H,PDE9A,PDE1B,PDE6B,PDE5A
+"Nucleotides",0,0,0,0,PDE10A
+"Nucleotides",0.0619293,0,0,0,
+"Glycolysis/Gluconeogenesis",1.92263,1.697659,2.658202,1.916813,DLAT,DLD,PDHA1,PDHA2,PDHB,PDHX
+"Vitamin B6 Metabolism",0,0,0,0,PNPO
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXP
+"Phenylalanine metabolism",0,0,0,0,ABP1,AOC2,MAOA,MAOB
+"Alkaloid biosynthesis II",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,ATP8A1,ATP10A
+"Transport, Mitochondrial",0,0,0,0,ATP8A1,ATP10A
+"Glycolysis/Gluconeogenesis",0,0,0,0,PCK1
+"Glycolysis/Gluconeogenesis",0,0,0,0,PCK2
+"Transport, Nuclear",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Fatty acid oxidation, peroxisome",0,0,0,0,EHHADH,ACAA1,HSD17B4,ACOX3
+"Glycerophospholipid Metabolism",0,0,0.001,0.05784439,PCYT2
+"Glycerophospholipid Metabolism",0,0.01854569,0.004814469,0.01862081,PEMT
+"Glycerophospholipid Metabolism",0.01852422,0,0.01383854,0,PEMT
+"Transport, Endoplasmic Reticular",0.01852422,-3.629042e-15,0.01383854,-5.439399e-14,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Mitochondrial",-0.04118052,-0.02267697,-0.03661886,-0.02274932,
+"Glycolysis/Gluconeogenesis",0.9232509,0.7004944,1.653124,1.657344,PFKL,PFKM,PFKP
+"Fructose and Mannose Metabolism",0,0,0,0,PFKFB1,PFKFB2,PFKFB3,PFKFB4
+"Glycine, Serine, and Threonine Metabolism",0.2363103,0.2355605,0.220812,0.2284365,PHGDH
+"Eicosanoid Metabolism",0,0,0,0,HPGDS,PTGDS
+"Eicosanoid Metabolism",0,0,0,0,HPGDS,PTGDS
+"Eicosanoid Metabolism",0,0,0,0,PTGES2,PTGES
+"Glycolysis/Gluconeogenesis",-0.5433841,-1.210561,1.682819,1.686333,GPI
+"Eicosanoid Metabolism",0,0,0,0,PTGIS
+"Glycolysis/Gluconeogenesis",-2.466896,-2.24349,-3.177858,-3.186806,,PGK1,PGK2
+"Pentose Phosphate Pathway",2.243259,2.905426,0,0,PGLS
+"Glyoxylate and Dicarboxylate Metabolism",0,0,0,0,
+"Pentose Phosphate Pathway",0,0,0,0,H6PD
+"Glycolysis/Gluconeogenesis",-2.230586,-2.00793,-2.957046,-2.958369,PGAM1,PGAM2,BPGM
+"Glycolysis/Gluconeogenesis",-3.299125,-3.305135,-3.317181,-3.313667,PGM1,PGM2
+"Glycerophospholipid Metabolism",0.0006470007,0.000647591,0.0006505427,0.0006496572,PGS1
+"Glycerophospholipid Metabolism",0.0006470007,0.000647591,0.0006505427,0.0006496572,
+"Eicosanoid Metabolism",0,0,0,0,PTGS1,PTGS2
+"Eicosanoid Metabolism",0,0,0,0,PTGS1,PTGS2
+"Phenylalanine metabolism",0,0,0,0,
+"Arginine and Proline Metabolism",1000,1000,1000,1000,ALDH4A1
+"Arginine and Proline Metabolism",-1000,-1000,-1000,-1000,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",-0.002,-0.002,0,-0.001,SLC46A1
+"Transport, Mitochondrial",0.002,0.002,0,0.001,
+"Phenylalanine metabolism",0,0,0,0,GOT1
+"Phenylalanine metabolism",0,0,0,0,GOT2,TAT
+"Tyr, Phe, Trp Biosynthesis",0.04581817,0.04581435,0.04579527,0.045801,PAH
+"Transport, Extracellular",-99.95,100,-99.95,-99.95,SLC6A14,SLC38A2,SLC38A4,SLC7A1,SLC7A2,SLC38A1,SLC7A3
+"Transport, Extracellular",100,-99.95,100,100,SLC16A10,SLC43A2
+"Phenylalanine metabolism",0,0,0,0,DDC
+"Fatty acid oxidation, peroxisome",0,0,0,0,PHYH
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PTEN
+"Inositol Phosphate Metabolism",0,0,0,0,PTEN
+"Inositol Phosphate Metabolism",0,0,0,0,INPP5J,INPP5A,INPP5B,INPP5D,INPPL1,INPP5E,SYNJ1,SYNJ2
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PIP5K1C,PIP5K1A,PIP5K1B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,MTMR3
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PIP5K1C,PI4KA,PI4KB,PI4K2A,PIP5K1A,PIP5K1B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PIP5K1C,PIP5K1A,PIP5K1B
+"Inositol Phosphate Metabolism",0,0,0,0,MTMR3
+"Inositol Phosphate Metabolism",0,0,0,0,HCST,PIK3R5,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,INPP5B,OCRL,INPP5E,SYNJ1,SYNJ2
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PLCD3,PLCH1,PLCB1,PLCXD2,PLCE1,PLCB2,PLCB3,PLCB4,PLCD1,PLCL1,PLCG1,PLCG2,PLCD4,PLCZ1,PLCH2
+"Inositol Phosphate Metabolism",0,0,0,0,PLCB1
+"Inositol Phosphate Metabolism",0,0,0,0,HCST,PIK3R5,PIK3C2A,PIK3C2B,PIK3C2G,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3
+"Inositol Phosphate Metabolism",0,0,0,0,PIK3C2B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,PIKFYVE,PIP5K1C,PIP4K2A,PIP4K2C,PIP5K1A,PIP5K1B,PIP4K2B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PLCD3,PLCH1,PLCB1,PLCXD2,PLCE1,PLCB2,PLCB3,PLCB4,PLCD1,PLCL1,PLCG1,PLCG2,PLCD4,PLCZ1,PLCH2
+"Inositol Phosphate Metabolism",0,0,0,0,PLCB1
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,HCST,PIK3R5,PIK3C2A,PIK3C2B,PIK3C2G,PIK3C3,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3
+"Inositol Phosphate Metabolism",0,0,0,0,PIK3C2B
+"Inositol Phosphate Metabolism",0,0,0,0,PI4KA,PI4KB,PI4K2A
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",0,0,0,0,PIGP,PIGA,PIGC,PIGH,DPM2,PIGQ
+"Inositol Phosphate Metabolism",0,0,0,0,HCST,PIK3R5,PIK3C2A,PIK3C2B,PIK3C2G,PIK3C3,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3
+"Inositol Phosphate Metabolism",0,0,0,0,PIK3C2B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0,0,0,0,PI4KA,PI4KB,PI4K2A
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PIP5K1C,PIP5K1A,PIP5K1B
+"Inositol Phosphate Metabolism",0,0,0,0,
+"Inositol Phosphate Metabolism",0,0,0,0,PLCD3,PLCH1,PLCB1,PLCXD2,PLCE1,PLCB2,PLCB3,PLCB4,PLCD1,PLCL1,PLCG1,PLCG2,PLCD4,PLCZ1,PLCH2
+"Inositol Phosphate Metabolism",0,0,0,0,PLCB1
+"Transport, Mitochondrial",-237.3428,-999.997,-1000,-1000,SLC25A3
+"Transport, Extracellular",100,100,100,-99.88011,SLC34A2,SLC34A1
+"Transport, Extracellular",-99.8776,-99.87749,100,100,SLC17A4,SLC17A2,SLC17A3,SLC17A1
+"Transport, Extracellular",-100,100,-100,-100,SLC20A1,SLC20A2
+"Transport, Extracellular",100,-100,-99.87995,100,SLC34A3
+"Transport, Endoplasmic Reticular",0,0,0.001,0.001,G6PT2
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Nuclear",1000,0,9.407868,0,
+"Transport, Peroxisomal",-0.112364,-0.1004556,-0.1009134,-0.1007761,
+"Glycerophospholipid Metabolism",0,0,0,0,
+"Glycerophospholipid Metabolism",0.001420245,0,0,0.001426077,PLA2G2A,PLA2G6
+"Glycerophospholipid Metabolism",0,0,0,0,PLA2G2D,PLA2G2E,PLA2G1B,PLA2G2A,PLA2G5,PLA2G2F,PLA2G12A,PLA2G10
+"Lysine Metabolism",0,0,0,0,SEC11A,SPCS1,SPCS3,SEC11C,SPCS2
+"Fructose and Mannose Metabolism",0,0,0,0,PMM1,PMM2,PGM2
+"Cholesterol Metabolism",0.112364,0.1004556,0.1009134,0.1007761,PMVK
+"Inositol Phosphate Metabolism",0,0,0,0,IP6K3,IP6K1
+"Inositol Phosphate Metabolism",0,0,0,0,IP6K3,IP6K2,IP6K1
+"Inositol Phosphate Metabolism",0,0,0,0,IP6K3,IP6K1
+"Inositol Phosphate Metabolism",0,0,0,0,IP6K3,IP6K2,IP6K1
+"Transport, Peroxisomal",0.001,6.255056,0.001,0.3576722,
+"NAD Metabolism",0,0,-0.001,-0.001,NP
+"CoA Catabolism",0.001,0,0,0,VNN3,VNN2,VNN1
+"CoA Biosynthesis",0.001,0,0,0,PANK1,PANK4,PANK3,PANK2
+"CoA Biosynthesis",0,0,0,0,PANK2
+"Transport, Extracellular",0,0,0,0,SLC5A6
+"Oxidative Phosphorylation",0,4.862957,0,3.468429,PPA1
+"Others",0,0,0,0,
+"Others",0,0,0,0,
+"Triacylglycerol Synthesis",0,0,0,0,PPAP2A,PPAP2C,PPAP2B
+"Miscellaneous",0,0,0,0,G6PC,G6PC2,G6PC3
+"Oxidative Phosphorylation",0,0,0.004814469,0.004807916,PPA2
+"Miscellaneous",500,0,4.703934,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Heme Biosynthesis",0.008,0.008,0,0.004,ALAD
+"CoA Biosynthesis",0.001,0,0,0,PPCDC
+"Valine, Leucine, and Isoleucine Metabolism",0.04881817,0.08216304,0.04679527,0.045801,PCCA,PCCB
+"Propanoate Metabolism",0,0,0,0,ACAD8,ACAD9,ACADM,ACADS,ACADSB,ACAD10,ACAD11
+"Lysine Metabolism",0,0,0,0,
+"Pyruvate Metabolism",0,0,0,0,AKR7A2
+"Pyruvate Metabolism",1000,0,995.6339,0,AKR1A1,AKR1B1,AKR7A2
+"Transport, Endoplasmic Reticular",-0.03745467,-0.03348519,-0.03363782,-0.03359203,
+"Transport, Peroxisomal",-0.07690934,-0.06697039,-0.06727563,-0.06718406,
+"Pentose Phosphate Pathway",0,0,-0.002,0,PGM1
+"Transport, Nuclear",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"CoA Biosynthesis",0.001,0,0,0,PPCS
+"Phenylalanine metabolism",0,0,0,0,HPD
+"Heme Biosynthesis",0.002,0.002,0,0.001,
+"Heme Biosynthesis",0.001,0.001,0,0.0005,PPOX
+"Transport, Nuclear",0,0,0,0,
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,GART
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,GART
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,PAICS
+"Miscellaneous",0,0,0,0,EPX
+"Miscellaneous",0,0,0,0,MPO
+"IMP Biosynthesis",0.02236323,0.02238363,0.02248566,0.02245505,PFAS
+"Steroid Metabolism",0,0,0,0,SULT2B1,SULT2A1
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,999.9859,999.9859,PRODH2
+"Arginine and Proline Metabolism",0,0,1000,0,PRODH
+"Arginine and Proline Metabolism",0,0,0,0,P4HA1,P4HB,P4HA2
+"Arginine and Proline Metabolism",0.01801083,0.01402362,0.01408754,0.01406836,PRODH2
+"Arginine and Proline Metabolism",0,0,0,0,PRODH
+"Transport, Extracellular",0,0,0,0,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"Transport, Extracellular",0,0,0,0,SLCO2A1
+"Transport, Extracellular",-100,-100,-100,-100,SLCO2A1
+"Transport, Extracellular",-100,-100,-100,-100,ABCC4
+"Transport, Extracellular",-100,0,-100,-100,SLCO4A1,SLCO3A1,SLCO2A1,SLCO1A2
+"Transport, Extracellular",0,-100,0,0,SLC22A1,SLC22A2
+"Transport, Extracellular",-100,-100,-100,-100,ABCC4
+"Transport, Extracellular",0,0,0,0,SLC22A1,SLC22A2
+"Transport, Extracellular",-100,-100,0,88.98111,SLC36A1
+"Transport, Lysosomal",0,0,0,0,SLC36A1
+"Transport, Extracellular",0,0,-100,-100,SLC38A2,SLC38A4,SLC38A1
+"Transport, Extracellular",100,100,100,11.01889,SLC6A7
+"Transport, Mitochondrial",-0.02028922,-0.02030773,-0.02040029,-0.02037252,
+"beta-Alanine metabolism",0,0,0,0,ECHS1,HADHA,HADHB,AUH
+"beta-Alanine metabolism",0,0,0,0,EHHADH
+"Pentose Phosphate Pathway",0.04430621,0.04434573,0.04354329,0.04448402,PRPS1L1,PRPS1,PRPS2
+"Glycerophospholipid Metabolism",0.04118052,0.04122265,0.04143333,0.04137013,PISD
+"Glycine, Serine, and Threonine Metabolism",0.2363103,0.2355605,0.220812,0.2284365,PSAT1
+"Transport, Extracellular",0,0,0,0,ATP8A1,ATP10A
+"Transport, Mitochondrial",0.04118052,0.04122265,0.04143333,0.04137013,ATP8A1,ATP10A
+"Glycine, Serine, and Threonine Metabolism",0.2363103,0.2355605,0.220812,0.2284365,PSPH,PSPHL
+"Glycerophospholipid Metabolism",0.0478196,0.0478678,0.04710876,-0.009807916,PTDSS1
+"Glycerophospholipid Metabolism",0,0,0.001,0.05784439,PTDSS2
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Fatty Acid Metabolism",0,0,0,0,ACOT8,ACOT2
+"Fatty Acid Metabolism",0,0,0,0,ACOT2
+"Fatty Acid Metabolism",0,0,0,0,ACOT2
+"Fatty Acid Metabolism",0,0,0,0,ACOT2
+"Tetrahydrobiopterin",0,0,0,0,PTS
+"Tetrahydrobiopterin",0,0,0,0,PTS
+"CoA Biosynthesis",0,0,0,0,COASY
+"Arginine and Proline Metabolism",0,0,0,0,SAT2,SAT1
+"Arginine and Proline Metabolism",0,0,0,0.001,ABP1,AOC2,AOC3
+"Nucleotides",0,-0.005275906,-0.001,-0.001289548,NP
+"Purine Catabolism",0,0.005275906,0,0.002289548,NP
+"Purine Catabolism",0,0,0,0,NP
+"Purine Catabolism",0,0,0,0,NP
+"Purine Catabolism",0,0,0,0,NP
+"Purine Catabolism",0,0,0,0,NP
+"Nucleotides",0,0,0,0,NP
+"Vitamin D",0,0,0,0,
+"Vitamin B6 Metabolism",0,0,0,0,PNPO
+"Transport, Mitochondrial",0,0,0,0,
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXK
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Vitamin B6 Metabolism",0,0,0,0,AOX1
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXK
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXK
+"Transport, Extracellular",0,0,0,0,
+"Vitamin B6 Metabolism",0.001,0,0.001,0.001,PDXP
+"Transport, Extracellular",0,0,0,0,
+"Glycolysis/Gluconeogenesis",2.230586,2.00793,2.957046,2.958369,TMEM54,PKLR,PKM2
+"Limonene and pinene degradation",0,0,0,0,ALDH1A1,ALDH9A1,ALDH3A2,ALDH7A1,ALDH1A2
+"Limonene and pinene degradation",0,0,0,0,ALDH2,ALDH1B1,ALDH4A1
+"Pyrimidine Catabolism",0,0.005275906,0,0.002289548,UPP2,UPP1
+"Transport, Mitochondrial",-997.709,1000,2.921127,4.884563,SLC16A1
+"D-alanine metabolism",0,0,0,0,SLC16A1,SLC16A7
+"Transport, Extracellular",0,0,0,0,SLC16A1,SLC16A3,SLC16A7
+"Tryptophan metabolism",0,0,0,0,
+"Vitamin A Metabolism",-1000,1000,-1000,-1000,
+"Vitamin A Metabolism",1000,-1000,1000,999.999,
+"Vitamin A Metabolism",1000,-1000,-1000,-1.757904,
+"Vitamin A Metabolism",-1000,1000,1000,1.758904,
+"Vitamin A Metabolism",0,0,0,0,
+"Vitamin A Metabolism",0,0,0,1000,
+"Vitamin A Metabolism",0,0,0,1000,
+"Vitamin A Metabolism",0,0,0,-0.001,GSTM1
+"Vitamin A Metabolism",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Nuclear",0,0,0,0,
+"Riboflavin Metabolism",0,0,0,0,RFK
+"Pentose Phosphate Pathway",0,0,0,0,RBKS
+"Pentose and Glucuronate Interconversions",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Vitamin A Metabolism",-1000,-1000,-1000,999.999,RDH5,RDH16
+"Vitamin A Metabolism",1000,1000,1000,1000,RDH13,RDH12,RDH10,SDR16C5,RDH8,RDH11,RDH14
+"Vitamin A Metabolism",-1000,1000,-1000,0,RDH5
+"Vitamin A Metabolism",1000,-1000,1000,-1000,RDH13,RDH12,SDR16C5,RDH8,RDH11,RDH14
+"Vitamin A Metabolism",-1000,1000,-1000,0,RDH5
+"Vitamin A Metabolism",1000,-1000,1000,-1000,RDH13,RDH12,SDR16C5,RDH11,RDH14
+"Vitamin A Metabolism",0,0,0,0.001,RDH5
+"Vitamin A Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Vitamin A Metabolism",0,0,0,0,PNPLA4
+"Vitamin A Metabolism",0,0.0007107706,0.0007140102,0,
+"Vitamin A Metabolism",0,0,0,0,
+"Vitamin A Metabolism",0,0.0007107706,0.0007140102,0,
+"Vitamin A Metabolism",0,0,0,0,
+"Vitamin A Metabolism",0,0,0,0,
+"Vitamin A Metabolism",0,0,0,-1000,
+"Vitamin A Metabolism",0,0,0,-1000,
+"Vitamin A Metabolism",0,0,0,0.001,
+"Vitamin A Metabolism",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular ",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular ",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular ",0,0,0,0,
+"Transport, Endoplasmic Reticular ",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",100,100,100,100,
+"Transport, Extracellular",-100,-100,-100,-100,
+"Nucleotides",0.002558696,0.007836937,0.002572704,0.00485875,RRM1,RRM2
+"Nucleotides",0.001713312,0.001714875,0.001722691,0.001720347,RRM1,RRM2
+"Nucleotides",0,0,0.001722691,0.001,RRM1,RRM2
+"Nucleotides",0.005272008,0,0.002572704,0.001,RRM1,RRM2
+"NAD Metabolism",0,0,0.001,0.001,C9orf95
+"Pentose Phosphate Pathway",1.465635,1.905553,-0.02969553,-0.02898935,RPE
+"Pentose Phosphate Pathway",-0.7776237,-0.9998735,-0.02969553,-0.02898935,RPIA
+"R Group Synthesis",0,0,0.1031724,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0.009521441,0,0.1422238,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,6.254056,0,0.3566722,
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"R Group Synthesis",0,0,0,0,
+"R Group Synthesis",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Keratan sulfate biosynthesis",0,0,0,0,ST3GAL1,ST3GAL2,ST3GAL4
+"Keratan sulfate biosynthesis",0,0,0,0,ST3GAL3
+"Keratan sulfate biosynthesis",0,0,0,0,ST3GAL1,ST3GAL2,ST3GAL4
+"O-Glycan Biosynthesis",0,0,0,0,ST3GAL1
+"N-Glycan Biosynthesis",0,0,0,0,ST6GAL1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,UST
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,UST
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,UST
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,HS2ST1
+"Heparan sulfate degradation",0,0,0,0,IDS
+"Heparan sulfate degradation",0,0,0,0,IDS
+"Chondroitin sulfate degradation",0,0,0,0,IDS
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin sulfate degradation",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,HS3ST5,HS3ST4,HS3ST1
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,HS3ST5,HS3ST4,HS3ST2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,HS3ST6,HS3ST4,HS3ST3B2,HS3ST3B1,HS3ST3A2,HS3ST3A1
+"Heparan sulfate degradation",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Heparan sulfate degradation",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST14,CHST13,CHST11,CHST12
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST14,CHST13,CHST11,CHST12
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST14,CHST13,CHST11,CHST12
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST14,CHST13,CHST11,CHST12
+"Chondroitin sulfate degradation",0,0,0,0,ARSB
+"Chondroitin sulfate degradation",0,0,0,0,ARSB
+"Chondroitin sulfate degradation",0,0,0,0,ARSB
+"Chondroitin sulfate degradation",0,0,0,0,ARSB
+"Chondroitin sulfate degradation",0,0,0,0,ARSB
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST1,CHST3
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST1,CHST3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7,CHST3
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7,CHST3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7,CHST3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,CHST7,CHST3
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,HS6ST3,HS6ST2,HS6ST1
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST1,CHST3
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate biosynthesis",0,0,0,0,CHST4,CHST5,CHST6,CHST2
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Heparan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GNS
+"Heparan sulfate degradation",0,0,0,0,GNS
+"Heparan sulfate degradation",0,0,0,0,GNS
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Chondroitin sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Lysine Metabolism",0.03955105,0.03954152,0.03949385,0.03950815,AASS
+"Lysine Metabolism",0.03955105,0.03954152,0.03949385,0.03950815,AASS
+"Nucleotides",0,0,0,0.001,PAPSS2,PAPSS1
+"Tyrosine metabolism",0,0,0,0,COMTD1,COMT
+"Tyrosine metabolism",0,0,0,0,COMTD1
+"Histidine Metabolism",0,0,0,0,HNMT
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,PIPOX
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Urea cycle/amino group metabolism",0,0,0,0,SARDH
+"Sphingolipid Metabolism",0,0,0,0,SGPP1
+"Sphingolipid Metabolism",0,0,0,0,SGPP1
+"Fructose and Mannose Metabolism",0,0,0,0,SORD
+"Fructose and Mannose Metabolism",0,0,0,0,AKR1A1,AKR1B1,AKR7A2
+"Transport, Peroxisomal",0,0,0,0,SCP2
+"Transport, Peroxisomal",0,0,0,0,SCP2
+"Bile Acid Biosynthesis",0.001,0,0,0,SCP2
+"Bile Acid Biosynthesis",0,0,0,0,SCP2
+"Bile Acid Biosynthesis",0.001,0,0,0,SCP2
+"Selenoamino acid metabolism",0,0,0,0,AHCYL1,AHCY,AHCYL2
+"Selenoamino acid metabolism",0,0,0,0,
+"Selenoamino acid metabolism",0,0,0,0,
+"Selenoamino acid metabolism",0,0,0,0,PAPSS2,PAPSS1
+"Selenoamino acid metabolism",0,0,0,0,SCLY
+"Selenoamino acid metabolism",0,0,0,0,SCLY
+"Selenoamino acid metabolism",0,0,0,0,CTH
+"Selenoamino acid metabolism",0,0,0,0,CBS
+"Selenoamino acid metabolism",0,0,0,0,MAT2B,MAT1A,MAT2A
+"Selenoamino acid metabolism",0,0,0,0,SEPHS2,SEPHS1
+"Transport, Extracellular",0,0,0,0,SLC13A1
+"Transport, Extracellular",-99.85,-100,-100,100,SLC1A4,SLC1A5
+"Transport, Extracellular",-100,-100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,-100,-100,SLC1A4,SLC1A5
+"Transport, Extracellular",-100,-100,-100,-100,SLC7A10,SLC3A2
+"Transport, Extracellular",100,100,100,100,SLC7A10,SLC3A2
+"Transport, Extracellular",100,100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,-100,80.75473,SLC7A10,SLC3A2
+"Transport, Extracellular",-100,-100,100,-100,SLC7A10,SLC3A2
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,SDS
+"Transport, Extracellular",100,83.64985,99.95,100,SLC3A1,SLC7A7
+"Sphingolipid Metabolism",0.002716501,0.00271898,0.002731372,0.002727655,SPTLC1,SPTLC2
+"Transport, Extracellular",-100,-100,100,19.34327,SLC1A4,SLC1A5
+"Transport, Extracellular",-100,100,-100,-100,SLC6A14,SLC38A2,SLC38A4,SLC38A1
+"Transport, Extracellular",100,-100,-99.3,-100,SLC38A5
+"Transport, Peroxisomal",0,0,0.1193928,0,
+"Tyrosine metabolism",0,0,-0.03926985,-0.1656046,ESD
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,SGPL1
+"Sphingolipid Metabolism",0,0,0,0,SGPL1
+"N-Glycan Degradation",0,0,0,0,NEU4,NEU2
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Keratan sulfate degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"N-Glycan Degradation",0,0,0,0,GALNS,GLB1,NEU1,CTSA
+"Sphingolipid Metabolism",0,0,0,0,ST3GAL2
+"Sphingolipid Metabolism",0,0,0,0,ST3GAL5
+"Sphingolipid Metabolism",0,0,0,0,SPHK2
+"Cysteine Metabolism",0,0,0,0.09653667,
+"Cysteine Metabolism",0,0,0,-0.09653667,MDH1B,MDH1
+"Cysteine Metabolism",0,0,0,0,MDH2
+"Sphingolipid Metabolism",0,0,0,0,SMPD3
+"Sphingolipid Metabolism",0,0,0,0,SMPD3
+"Sphingolipid Metabolism",0,0,0,0,
+"Sphingolipid Metabolism",0.002716501,0.00271898,0.002731372,0.002727655,SGMS1
+"Transport, Extracellular",49.95222,-50.04827,100,100,SLC26A6
+"Transport, Extracellular",-100,100,-0.09653195,0,SLC26A1,SLC26A9,SLC26A7,SLC26A8,SLC26A3,SLC26A2,SLC26A11
+"Transport, Extracellular",-100,-100,-100,-100,SLC26A6
+"Transport, Extracellular",100,100,100,100,SLC13A4
+"Transport, Extracellular",100,100,-100,-100,SLC13A1
+"Cholesterol Metabolism",0.007405565,0.007412322,0.007446107,0.007435971,SOAT1
+"Cholesterol Metabolism",0,0,0,0,SOAT1
+"Cholesterol Metabolism",0,0,0,0,SOAT1
+"Cholesterol Metabolism",0,0,0,0,SOAT1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Sphingolipid Metabolism",0,0,0,0,SPHK2
+"Sphingolipid Metabolism",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"beta-Alanine metabolism",0,0,0.001,0,
+"Urea cycle/amino group metabolism",0,0,0.001,0,SRM
+"ROS Detoxification",0,0,0,0,SOD1
+"ROS Detoxification",0,0,0,0,SOD3
+"ROS Detoxification",0,0.0005975489,0,0,SOD2
+"ROS Detoxification",0.03096465,0,0,0,SOD1
+"ROS Detoxification",0,0,0,0,SOD1
+"Tetrahydrobiopterin",0,0,0,0,SPR
+"Urea cycle/amino group metabolism",0,0,0,0,SMS
+"Tetrahydrobiopterin",0,0,0,0,SPR
+"Glycine, Serine, and Threonine Metabolism",0,0,0.1193928,0,AGXT
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,SQLE
+"Cholesterol Metabolism",0.01872733,0.0167426,0.01681891,0.01679601,FDFT1
+"Steroid Metabolism",0,0,0,0,SRD5A1,SRD5A2
+"Steroid Metabolism",0,0,0,0,SRD5A1,SRD5A2
+"Tryptophan metabolism",0,0,0,0,IDO1
+"Tryptophan metabolism",0,0,0,0,AANAT
+"Tryptophan metabolism",0,0,0,0,INMT
+"Transport, Extracellular",-100,-100,-100,-100,SLC6A4
+"Transport, Extracellular",100,100,100,100,SLC22A1,SLC22A2
+"Glutamate metabolism",0,0,0.001,0.001,ALDH5A1
+"Sphingolipid Metabolism",0,0,0,0,ST3GAL2
+"Sphingolipid Metabolism",0,0,0,0,ST3GAL2
+"Sphingolipid Metabolism",0,0,0,0,ST3GAL2
+"Blood Group Biosynthesis",0,0,0,0,ST3GAL3
+"Blood Group Biosynthesis",0,0,0,0,ST3GAL6
+"Blood Group Biosynthesis",0,0,0,0,ST3GAL6
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC2
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC3,ST6GALNAC6,ST6GALNAC5
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC6
+"Sphingolipid Metabolism",0,0,0,0,ST6GALNAC6
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA1
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA1
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA5
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA5
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA5
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA5
+"Sphingolipid Metabolism",0,0,0,0,ST8SIA5
+"Blood Group Biosynthesis",0,0,0,0,ST8SIA5
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Steroid Metabolism",0,0,0,0.001,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Steroid Metabolism",0,0,0,0,STS
+"Transport, Mitochondrial",0,0,0,0,SLC25A10
+"Transport, Extracellular",100,100,100,100,SLC13A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC13A3
+"Transport, Peroxisomal",0,0,0,0,
+"Citric Acid Cycle",0.2598379,0.06616304,0.2712312,0.07510613,SDHA,SDHB,SDHC,SDHD
+"Citric Acid Cycle",998.6164,-1000,-1000,1000,SUCLG2,SUCLG1
+"Citric Acid Cycle",-1000,999.0171,998.3321,-999.9667,SUCLG1,SUCLA2
+"Galactose metabolism",0,0,0,0,SI,MGAM
+"Cysteine Metabolism",0.09555083,0.09654769,0.09653195,0,SUOX
+"Limonene and pinene degradation",0,0,0,0,HADHA,HADHB,AUH
+"Limonene and pinene degradation",0,0,0,0,ECH1,EHHADH
+"Ubiquinone Biosynthesis",0,0,0,0,
+"Stilbene, coumarine and lignin biosynthesis",0,0,0,0,TYR
+"Transport, Extracellular",0,0,0,0,
+"Pentose Phosphate Pathway",0.7333175,0.9555277,-0.01484776,-0.01449467,TALDO1
+"Transport, Extracellular",0,0,0,0,SLC6A6
+"Taurine and hypotaurine metabolism",0.001,0,0,0,SLC6A6
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",-100,-100,-100,-100,SLCO1B1,SLCO4A1,SLCO1B3,SLCO1A2
+"Transport, Extracellular",-75.1611,-100,100,100,SLC10A1,SLC10A2
+"Transport, Extracellular",-100,-100,-100,-100,ABCB11,ABCC3
+"Transport, Extracellular",75.1601,100,-100,-100,
+"Transport, Peroxisomal",0.001,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Thiamine Metabolism",0,0,0,0,
+"Nucleotide Sugar Metabolism",0,0,0,0,
+"Nucleotide Sugar Metabolism",0,0,0,0,
+"Nucleotide Sugar Metabolism",0,0,0,0,TGDS
+"Thiamine Metabolism",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Tetrahydrobiopterin",0.04581817,0.04581435,0.04579527,0.045801,PCBD1
+"Transport, Peroxisomal",0.001,0,0,0,
+"NAD Metabolism",0.4501526,0.4158313,1000,1000,NNT
+"Transport, Extracellular",-0.001,-0.001,-0.001,-0.001,SLC19A1
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Mitochondrial",999.8923,1000,1000,999.9001,
+"Transport, Extracellular",-100,-100,-100,100,SLC28A3,SLC28A1
+"Transport, Extracellular",0,0,100,-100,SLC28A3
+"Transport, Extracellular",0,0,0,0,SLC19A1
+"Transport, Mitochondrial",0,0,0,0,
+"Thiamine Metabolism",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Thiamine Metabolism",0,0,0,0,THTPA
+"Transport, Extracellular",0,0,0,0,SLC19A1
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC19A2,SLC19A3
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",-100,-100,100,-100,SLC1A4,SLC1A5
+"Transport, Extracellular",-100,100,0.001,0.001,SLC1A5
+"Transport, Extracellular",-100,-100,-100,-80.55673,SLC1A4,SLC1A5
+"Glycine, Serine, and Threonine Metabolism",0.02700555,0.02698457,0.02687967,0.02691114,SDS
+"Transport, Extracellular",-100,100,0.001,0.001,SLC1A5
+"Transport, Extracellular",100,-100,99.498,-100,SLC7A10,SLC3A2
+"Transport, Extracellular",-100,-100,-100,99.95,SLC7A10,SLC3A2
+"Glycine, Serine, and Threonine Metabolism",0,0,0,0,THNSL1
+"Transport, Extracellular",-100,-100,0.552,100,SLC1A4,SLC1A5
+"Transport, Extracellular",0.05,-100,100,-100,SLC6A14,SLC38A2,SLC38A1
+"Transport, Extracellular",100,100,0,0,SLC29A1,SLC29A2
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0,0,SLC29A1
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Transport, Extracellular",100,100,0.1930639,100,SLCO1B1,SLCO4A1,SLCO1C1,SLCO1A2
+"Transport, Extracellular",-100,-100,-0.1930639,-100,SLC16A2
+"Tyrosine metabolism",0,0,0,0,TPO
+"Pentose Phosphate Pathway",0.7333175,0.9555277,-0.01484776,-0.01449467,TKT,TKTL1,TKTL2
+"Pentose Phosphate Pathway",0.7333175,0.9555277,-0.01484776,-0.01449467,TKT,TKTL1,TKTL2
+"Lysine Metabolism",0,0,0,0,ALDH9A1
+"Nucleotides",0,0,0,0,TK1,TK2
+"Nucleotides",0,1.795617,0,243.7023,TK2
+"Thiamine Metabolism",0,0,0,0,TPK1
+"Pyrimidine Catabolism",0,0,0,0,TYMP
+"Thiamine Metabolism",0,0,0,0,
+"Nucleotides",0.003558696,0.003561031,0.002572704,0.002569202,TYMS
+"Lysine Metabolism",0,0,0,0,TMLHE
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Carnitine shuttle",0,0,0,0,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0,0,0,0,CPT2
+"Carnitine shuttle",0,0,0,0,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Glycolysis/Gluconeogenesis",0.8103278,0.5874683,1.539582,1.543957,tcag7.1015,TPI1
+"Nucleotides",0.009544016,0.009551812,0.00859079,0.008579096,TXNRD1
+"Miscellaneous",0,0,0,0,TXNRD1
+"Miscellaneous",0,0,0,0,TXNRD1
+"Nucleotides",0,0,0,0,TXNRD2,TXNRD3
+"Starch and Sucrose Metabolism",0,0,0,0,ATHL1
+"Starch and Sucrose Metabolism",0,0,0,0,TREH
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,SULT1A1
+"Transport, Extracellular",0.09577542,100,-100,100,SLCO1B1,SLCO4A1,SLCO1B3,SLCO1C1,SLCO1A2
+"Transport, Extracellular",-0.09577542,-100,100,-100,SLC16A2
+"Fructose and Mannose Metabolism",0,0,0,0,
+"Tryptophan metabolism",0,0,0,0,TPH2,TPH1
+"Tryptophan metabolism",0.04895511,0.04895415,0.04894938,0.04895081,TDO2
+"Transport, Extracellular",-99.95,100,100,100,SLC16A10
+"Transport, Extracellular",100,-99.95,-99.95,-99.95,SLC6A14
+"Tryptophan metabolism",0,0,0,0,ABP1,AOC2,MAOA,MAOB
+"Vitamin D",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,ABCC1
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Steroid Metabolism",0,0,0,0,SULT2A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC13A1
+"Transport, Extracellular",0,0,0,0,
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Eicosanoid Metabolism",0,0,0,0,TBXAS1
+"Transport, Extracellular",0,0,0,0,
+"Tyrosine metabolism",0,0,0,0,SULT1A1,SULT1A3
+"Tyrosine metabolism",0,0,0,0,TH
+"Tyrosine metabolism",0,0,0,0,TYRP1
+"Tyrosine metabolism",0,0,0,0,DDC
+"Tyrosine metabolism",0,0,0,0,TYR
+"Tyrosine metabolism",0,0,0,0,TYR
+"Tyrosine metabolism",0,0,0,0,MAOA,MAOB
+"Tyrosine metabolism",0.08955105,0.08954152,0.08949385,0.08950815,GOT1
+"Tyrosine metabolism",0,0,0,0,GOT2,TAT
+"Transport, Extracellular",100,-99.95,100,-99.95,SLC16A10
+"Transport, Extracellular",-99.95,100,-99.95,100,SLC6A14
+"Aminosugar Metabolism ",0,0,0,0,GNE
+"Aminosugar Metabolism ",0,0,0,0,GALE
+"Aminosugar Metabolism ",0,0,0,0,
+"Aminosugar Metabolism ",0.001,0.004,0,0.001,UAP1,UAP1L1
+"Transport, Lysosomal",0,0,0,0,
+"N-Glycan Biosynthesis",0,0,0,0,ALG5
+"N-Glycan Biosynthesis",0,0,0,0,ALG5
+"Pentose and Glucuronate Interconversions",0,0,0,0,
+"Galactose metabolism",0,0,0,0,GALE
+"Transport, Golgi Apparatus",0,0,0,0,SLC35A2
+"Starch and Sucrose Metabolism",0.001,0.004,0,0.001,UGDH
+"Transport, Endoplasmic Reticular",0,0,0,0,SLC35D1
+"Transport, Golgi Apparatus",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0.001,0.001,
+"Transport, Golgi Apparatus",0,0,0,0,SLC35D2,SLC35A3,SLC35B4
+"Nucleotide Sugar Metabolism",0,0,0,0,UXS1
+"Pentose and Glucuronate Interconversions",0,0,0,0,
+"Starch and Sucrose Metabolism",0,0,0,0,ENPP1,ENPP2,ENPP3
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,SLC35B4
+"Transport, Lysosomal",0,0,0,0,
+"Galactose metabolism",0,0,0,0,B4GALT1,LALBA,B4GALT2
+"Transport, Endoplasmic Reticular",0,0,0,0,SLC35D1
+"Transport, Golgi Apparatus",0,0,0,0,SLC35A2
+"Sphingolipid Metabolism",0,0,0.001,0.001,UGCG
+"Transport, Golgi Apparatus",0,0,0,0,SLC35D2
+"Galactose metabolism",996.7009,996.6949,996.6828,996.6863,GALT
+"Steroid Metabolism",0,0,0,0,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT2B28,UGT1A10,UGT1A8,UGT2B7,UGT2B17
+"Steroid Metabolism",0,0,0,0,UGT2B28,UGT1A10,UGT1A8
+"Vitamin A Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Vitamin A Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT1A10,UGT1A8
+"Steroid Metabolism",0,0,0,0,UGT2B28,UGT1A10,UGT1A8,UGT2B4
+"Steroid Metabolism",0,0,0,0,UGT2B28
+"Nucleotides",1000,1000,1000,1000,CMPK1
+"Nucleotides",999.9528,-3.406194,-1000,999.9536,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",1000,1000,996.6655,0.06283637,CMPK1
+"Nucleotides",500,500,500,500,CMPK1
+"Nucleotides",0.06287987,-1.412366,3.355434,-0.00885073,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",-1000,-1000,1000,0.00585875,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",-1000,4.828984,-1000,-1000,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",-1000,-1000,-1000,-1000,CMPK1
+"Nucleotides",375,-125,375,375,CMPK1
+"Nucleotides",0,0,0,0,
+"Nucleotides",-1000,1000,-1000,-1000,CMPK1
+"Arginine and Proline Metabolism",0,0,0,0,
+"Arginine and Proline Metabolism",0,0,0.001,0,
+"Heme Biosynthesis",0.002,0.002,0,0.001,UROS
+"Heme Biosynthesis",0.002,0.002,0,0.001,UROD
+"Pyrimidine Catabolism",0,0,0,0,UPB1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Peroxisomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,SLC29A2
+"Histidine Metabolism",0.01764997,0.01762045,0.01747287,0.01751714,UROC1
+"Transport, Extracellular",99.95104,-91.6675,99.95105,-94.51162,SLC5A1,SLC5A5,SLC14A1,SLC14A2
+"Transport, Extracellular",-100,91.61854,-100,94.46267,SLC5A1
+"Urea cycle/amino group metabolism",0,0,0,0,AQP9
+"Nucleotides",0,0,0,0,
+"Pyrimidine Biosynthesis",0,999.9947,741.8367,999.9977,UCK2,UCK1
+"Transport, Extracellular",0,100,0,0,SLC29A1,SLC29A2
+"Transport, Extracellular",-100,-100,-100,-100,SLC28A3,SLC28A2,SLC28A1
+"Transport, Extracellular",100,0,100,100,SLC28A3
+"Ascorbate and Aldarate Metabolism",1000,1000,1000,1000,
+"Transport, Nuclear",0,0,0,0,
+"Transport, Lysosomal",0,0,0,0,SLC29A3
+"Transport, Mitochondrial",0,0,0,0,SLC29A1
+"Transport, Nuclear",0,0,-0.005145407,0,
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT1C,CPT1A,CPT1B
+"Carnitine shuttle",0.001,0.001,0.001,0.001,CPT2
+"Carnitine shuttle",0.001,0.001,0.001,0.001,SLC25A20
+"Transport, Extracellular",0,0,0,0,
+"Valine, Leucine, and Isoleucine Metabolism",0,0.2159342,0,0,BCAT1
+"Valine, Leucine, and Isoleucine Metabolism",0.03636114,-0.1795855,0.03628647,0.03630514,BCAT2
+"Transport, Extracellular",-99.95,-99.95,-12.67618,-99.95,SLC6A14
+"Transport, Mitochondrial",0.03636114,-0.1795855,0.03628647,0.03630514,
+"Transport, Extracellular",100,100,12.72618,100,SLC43A2,SLC43A1
+"Vitamin D",0,0,0,0,
+"Vitamin D",0,0,0,0,CYP27A1
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0,0,0,0,
+"Vitamin D",0,0,0,0,CYP27A1
+"Transport, Extracellular",100,-100,100,100,
+"Transport, Extracellular",100,-100,100,100,
+"Transport, Mitochondrial",1000,0,1000,1000,
+"Transport, Mitochondrial",1000,0,1000,1000,
+"Bile Acid Biosynthesis",0.001,0,0,0,SLC27A2
+"Bile Acid Biosynthesis",0,0,0,0,SLC27A2
+"Bile Acid Biosynthesis",0.001,0,0,0,SLC27A2
+"Bile Acid Biosynthesis",0,0,0,0,SLC27A2
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Purine Catabolism",0,0,0,0,XDH
+"Transport, Peroxisomal",0,0,0,0,
+"Purine Catabolism",0,0,0,0,XDH
+"Purine Catabolism",0,0,0,0,XDH
+"Transport, Mitochondrial",0,0,0,0,
+"Transport, Mitochondrial",0.001,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Endoplasmic Reticular",-0.001,0,0,0,
+"Transport, Endoplasmic Reticular",-0.001,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"Transport, Mitochondrial",0.001,0,0,0,
+"Transport, Endoplasmic Reticular",0,0,0,0,
+"Transport, Golgi Apparatus",0,0,0,0,
+"Pentose and Glucuronate Interconversions",0.001,0.005502557,0,0,XYLB
+"Pentose and Glucuronate Interconversions",0.001,0.005502557,0,0,
+"Chondroitin / heparan sulfate biosynthesis",0,0,0,0,XYLT1,XYLT2
+"Transport, Extracellular",0,0,0,0,
+"Pentose and Glucuronate Interconversions",0.001,0.005502557,0,0,DCXR
+"Transport, Extracellular",0,0,0,0,SLC2A3
+"Transport, Lysosomal",0,0,0,0,
+"Transport, Extracellular",0,0,0,0,
+"",1.127179,1.128207,1.13335,1.131807,
+"Demand",-0.2998296,-0.3001032,-0.301471,-0.3010606,GYG1,GYG2
