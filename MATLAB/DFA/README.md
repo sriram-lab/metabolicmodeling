@@ -9,7 +9,7 @@ Metabolism is highly dynamic, and is tied to essential cellular processes such a
   * **Ease of parameter tuning:** DFA models are easily tuned by a single parameter **kappa**, which is a weight proportional to the optimization strength of the objective function.
 
 ## Installation
-DFA was implemented in [MATLAB](https://www.mathworks.com/products/matlab.html) (recommended version: 2018+), and requires the [Gurobi Mathematical Programming Solver](https://www.gurobi.com/) (recommended version: 2018+). The file `dfa.m` or the livescript `dfa.mlx` can be used to run DFA,
+DFA was implemented in [MATLAB](https://www.mathworks.com/products/matlab.html) (recommended version: 2018+), and requires the [Gurobi Mathematical Programming Solver](https://www.gurobi.com/) (recommended version: 2018+). The file `dfa.m` or the livescript `dfa.mlx` in this repository are used to run DFA. 
 
 ## Usage
 The function `dfa` has the following syntax:
