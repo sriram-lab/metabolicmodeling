@@ -37,7 +37,9 @@ The function `dfa` has the following syntax:
 ## Contributing
 Contributions are welcome! Please read the contributions guide to get started. Also feel free to submit bugs, feature requests, and pull requests.
 
-Additionally, you can support development for DFA by citing the original manuscript: Chandrasekaran, Sriram, Jin Zhang, Zhen Sun, Li Zhang, Christian A. Ross, Yu-Chung Huang, John M. Asara, Hu Li, George Q. Daley, and James J. Collins. ["Comprehensive mapping of pluripotent stem cell metabolism using dynamic genome-scale network modeling."](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31027-6) Cell reports 21, no. 10 (2017): 2965-2977.
+Additionally, you can support development for DFA by citing the original manuscript: 
+
+Chandrasekaran, Sriram, Jin Zhang, Zhen Sun, Li Zhang, Christian A. Ross, Yu-Chung Huang, John M. Asara, Hu Li, George Q. Daley, and James J. Collins. ["Comprehensive mapping of pluripotent stem cell metabolism using dynamic genome-scale network modeling."](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31027-6) Cell reports 21, no. 10 (2017): 2965-2977.
 
 ## Publications using Dynamic Flux Analysis
 **Stem cell metabolism**
