@@ -39,7 +39,7 @@ Contributions are welcome! Please read the contributions guide to get started. A
 
 Additionally, you can support development for DFA by citing the original manuscript: Chandrasekaran, Sriram, Jin Zhang, Zhen Sun, Li Zhang, Christian A. Ross, Yu-Chung Huang, John M. Asara, Hu Li, George Q. Daley, and James J. Collins. ["Comprehensive mapping of pluripotent stem cell metabolism using dynamic genome-scale network modeling."](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31027-6) Cell reports 21, no. 10 (2017): 2965-2977.
 
-### Publications using Dynamic Flux Analysis
+## Publications using Dynamic Flux Analysis
 **Stem cell metabolism**
 1. Chandrasekaran, Sriram, Jin Zhang, Zhen Sun, Li Zhang, Christian A. Ross, Yu-Chung Huang, John M. Asara, Hu Li, George Q. Daley, and James J. Collins. ["Comprehensive mapping of pluripotent stem cell metabolism using dynamic genome-scale network modeling."](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31027-6) Cell reports 21, no. 10 (2017): 2965-2977.
 2. Shen, Fangzhou, Camden Cheek, and Sriram Chandrasekaran. ["Dynamic network modeling of stem cell metabolism."](https://link.springer.com/protocol/10.1007%2F978-1-4939-9224-9_14) In Computational stem cell biology, pp. 305-320. Humana, New York, NY, 2019.
