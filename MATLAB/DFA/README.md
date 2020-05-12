@@ -29,6 +29,7 @@ The function `dfa` has the following syntax:
       * `None`:          No normalization for the flux activity coefficients
       * `MAV`:           Normalizing the flux activity coefficients from the maximum absolute value
       * `Quantile`:      Quantile normalization of the flux activity coefficients
+    * `pfba`:            A Boolean that determines whether to run pFBA on or off.
 
 **OUTPUTS:**
   * `dfaModel`:          A `structure` of the genome-scale metabolic model in COBRA format fitted with the flux activity coefficients computed from the time-course metabolomics.
