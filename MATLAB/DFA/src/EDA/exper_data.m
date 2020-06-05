@@ -96,18 +96,34 @@ end
 figure (2);
 scatter(mean_metabolomic_array_TU8902(:,1), std_metabolomic_array_TU8902(:,1));
 
+
 figure (3);
+subplot(2,2,1);
 metabolomics = table2array(metabolomics);
 parallelcoords(mean_metabolomic_array_TU8902, 'group', metabolomics(:,2));
-title('Mean of the metabolomics');
+title('Mean of the metabolomics: TU8902');
 
+subplot(2,2,2);
+parallelcoords(mean_metabolomic_array_HCT116, 'group', metabolomics(:,2));
+title('Mean metabolomics Data: HCT116');
+
+subplot(2,2,3);
+parallelcoords(std_metabolomic_array_TU8902, 'group', metabolomics(:,2));
+title('Standard Deviations of the metabolomics: TU8902');
+
+subplot(2,2,4);
+parallelcoords(std_metabolomic_array_HCT116, 'group', metabolomics(:,2));
+title('Standard Deviations of the metabolomics: HCT116');
+
+% plots of the coefficient of variation 
 figure (4);
-parallelcoords(CV_TU8902((1:10),:), 'group', metabolite_array(1:10));
-title('Coefficient of variation - first 10 metabolites');
+subplot(2,1,1);
+parallelcoords(CV_TU8902, 'group', metabolomics(:,2));
+title('Coefficient of variation: TU8902');
 
-figure (5);
-parallelcoords(std_metabolomic_array_TU8902((1:10),:), 'group', metabolite_array(1:10));
-title('std - first 10 metabolites');
+subplot(2,1,2);
+parallelcoords(CV_HCT116, 'group', metabolomics(:,2))
+title('Coefficient of Variation: HCT116');
 
 
 %% Hisograms of the mean and standard deviations
