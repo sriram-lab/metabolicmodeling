@@ -1,4 +1,5 @@
 %{
+Experimental Data
 Author: Surabhi Joshi
 
 Table of Contents
@@ -12,6 +13,7 @@ Scatterplots of the mean and standard deviations
 Hisograms of the mean and standard deviations
 DFA Filter 1: CV thresholds
 DFA Filter 2: NaN metabolomics
+Use Filter 2 to create new data sheet
 %}
 
 %% Summary
@@ -142,7 +144,7 @@ title('Coefficient of Variation: HCT116');
 %% DFA Filter 1: CV thresholds
 
 %% DFA Filter 2: NaN metabolomics
-This filter will find all of the metabolites that have no corresponding averages: no data for any of the 12 conditions. This filter will parse through the averages array and if every single column for that specific row equals 0, then the metabolite name will be added to the a new array. 
+%This filter will find all of the metabolites that have no corresponding averages: no data for any of the 12 conditions. This filter will parse through the averages array and if every single column for that specific row equals 0, then the metabolite name will be added to the a new array. 
 % array for TU8902 and HCT116
 no_data_TU9802 = [];
 no_data_HCT116 = [];
@@ -155,3 +157,20 @@ for i = 1:226
         no_data_HCT116 = [no_data_HCT116; metabolomics(i)];
     end
 end
+
+%% Use Filter 2 to create new data sheet
+%Now, we will use the Filter 2 to create an excel sheet for DFA. 
+%This for loop will delete the metabolomics that are mentioned in filter 2
+for i = 1:size(no_data_HCT116)
+    for j = 1:size(Tabl_average_HCT116)
+       if strcmpi(no_data_HCT116{i},Tabl_average_HCT116{j,"metabolite"})
+       %if cellfun(@isequal, no_data_HCT116(i), Tabl_average_HCT116(j,"metabolite")) 
+       Tabl_average_HCT116(j,:) = [];
+       end 
+    end
+end
+%Now, export the final table out as an excel sheet. 
+%{
+filename = 'Filter 2: HCT116 Cancer.xlsx';
+writetable(Tabl_std_HCT116,filename);
+%}
