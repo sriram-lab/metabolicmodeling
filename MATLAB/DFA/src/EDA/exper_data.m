@@ -8,9 +8,9 @@ Summary
 Create tables for averages and standard deviations. 
 Create a corelation matrix and a following heatmap
 Create the correlation matrix, CV 
-Create heatmaps to visually understand the standard deviations and averages. 
+Create heatmaps to visualize the averages
 Scatterplots of the mean and standard deviations
-Hisograms of the mean and standard deviations
+Coefficient of Variation Plots
 DFA Filter 1: CV thresholds
 DFA Filter 2: NaN metabolomics
 Use Filter 2 to create new data sheet
@@ -63,13 +63,14 @@ mean_metabolomic_array_HCT116(isnan(mean_metabolomic_array_HCT116)) = 0;
 %r matrix and its heatmap - for the 12 conditions
 averageCorrMat_TU8902 = corrcoef(mean_metabolomic_array_TU8902);
 figure (1);
-heatmap(averageCorrMat_TU8902);
+heatmap(conditions, conditions, averageCorrMat_TU8902);
 title 'Correlation Matrix of TU8902 Averages across 12 Conditions';
 
 averageCorrMat_HCT116 = corrcoef(mean_metabolomic_array_HCT116);
 figure (2);
-heatmap(averageCorrMat_HCT116);
+heatmap(conditions, conditions, averageCorrMat_HCT116);
 title 'Correlation Matrix of HCT116 mean values over 12 conditions';
+
 % create r matrix and heatmaps for the metabolomics
 corrmat = zeros(12);
 for i = 1:size(mean_metabolomic_array_TU8902, 1)
@@ -84,93 +85,168 @@ end
 CV_TU8902 = std_metabolomic_array_TU8902 ./ mean_metabolomic_array_TU8902;
 CV_HCT116 = std_metabolomic_array_HCT116 ./ mean_metabolomic_array_HCT116;
 
-%% Create heatmaps to visually understand the standard deviations and averages. 
+%% Create heatmaps to visualize the averages
 figure (3);
-heatmap(mean_metabolomic_array_TU8902, 'ColorScaling', 'log');
+heatmap(conditions, metabolomics(:,1),mean_metabolomic_array_TU8902, 'ColorScaling', 'log');
 xlabel('Conditions');
 ylabel('Metabolite');
-title('Heatmap - Averages');
+title('Heatmap - Averages - TU8902');
 colormap 'cool';
-
+figure (4);
+heatmap(conditions, metabolomics(:,1),mean_metabolomic_array_HCT116, 'ColorScaling', 'log');
+xlabel('Conditions');
+ylabel('Metabolite');
+title('Heatmap - Averages - HCT116');
+colormap 'cool';
 
 %% Scatterplots of the mean and standard deviations
 %scatterplots of mean and std
-figure (4);
-scatter(mean_metabolomic_array_TU8902(:,1), std_metabolomic_array_TU8902(:,1));
-
 figure (5);
-%This for loop finds all the amino acid metabolites. 
+scatter(mean_metabolomic_array_TU8902(:,1), std_metabolomic_array_TU8902(:,1));
+figure (6);
 
-aminoAcidIndex = []; 
-for i = 1:226
-    if strcmpi(metabolomics(i,2),'amino acid')
-        aminoAcidIndex = [aminoAcidIndex; i];
-    end
-end
+aminoAcidIndex = findClusterType(metabolomics,'amino acid');
 
 parallelcoords(mean_metabolomic_array_TU8902(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', conditions);
 title('Mean Values - TU9802 Amino Acids')
+legend('location', 'bestoutside');
 
-figure (5);
-subplot(2,2,1);
-parallelcoords(mean_metabolomic_array_TU8902, 'group', metabolomics(:,2));
+figure (7);
+hold on
+subplot(2,1,1);
+parallelcoords(mean_metabolomic_array_TU8902, 'group', metabolomics(:,2), 'labels', conditions);
 title('Mean of the metabolomics: TU8902');
+legend('location', 'bestoutside');
 
-subplot(2,2,2);
-parallelcoords(mean_metabolomic_array_HCT116, 'group', metabolomics(:,2));
+subplot(2,1,2);
+parallelcoords(mean_metabolomic_array_HCT116, 'group', metabolomics(:,2), 'Labels', conditions);
 title('Mean metabolomics Data: HCT116');
+legend('location', 'bestoutside');
+hold off
 
-subplot(2,2,3);
-parallelcoords(std_metabolomic_array_TU8902, 'group', metabolomics(:,2));
+figure (8);
+hold on
+subplot(2,1,1);
+parallelcoords(std_metabolomic_array_TU8902, 'group', metabolomics(:,2), "Labels", conditions);
 title('Standard Deviations of the metabolomics: TU8902');
+legend('location', 'bestoutside');
 
-subplot(2,2,4);
-parallelcoords(std_metabolomic_array_HCT116, 'group', metabolomics(:,2));
+subplot(2,1,2);
+parallelcoords(std_metabolomic_array_HCT116, 'group', metabolomics(:,2), 'Labels', conditions);
 title('Standard Deviations of the metabolomics: HCT116');
-% plots of the coefficient of variation 
-figure (6);
+legend('location', 'bestoutside');
+hold off
+
+%% Coefficient of Variation Plots
+%This is a high level plot of the CV. 
+figure (9);
 subplot(2,1,1);
 parallelcoords(CV_TU8902, 'group', metabolomics(:,2));
 title('Coefficient of variation: TU8902');
+legend('location', 'bestoutside');
 
 subplot(2,1,2);
 parallelcoords(CV_HCT116, 'group', metabolomics(:,2))
 title('Coefficient of Variation: HCT116');
+legend('location', 'bestoutside');
+%Now we will look specifically at the amino acids.
+figure (10);
+hold on
+subplot(2,1,1);
+parallelcoords(CV_TU8902(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - TU9802 Amino Acids')
+legend('location', 'bestoutside');
+subplot(2,1,2);
+parallelcoords(CV_HCT116(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - HCT116 Amino Acids')
+legend('location', 'bestoutside');
+hold off
+%Now we will look at nucleosides
+nucleosideIndex = findClusterType(metabolomics, 'nucleoside');
 
+figure (11);
+hold on
+subplot(2,1,1);
+parallelcoords(CV_TU8902(nucleosideIndex,:), 'group', metabolomics(nucleosideIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - TU9802 nucleoside')
+legend('location', 'bestoutside');
+subplot(2,1,2);
+parallelcoords(CV_HCT116(nucleosideIndex,:), 'group', metabolomics(nucleosideIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - HCT116 nucleoside')
+legend('location', 'bestoutside');
+hold off
+%Now we will look at nucleotides
+nucleotideIndex = findClusterType(metabolomics, 'nucleotide');
 
-%% Hisograms of the mean and standard deviations
-%histograms of mean and std
+figure (12);
+hold on
+subplot(2,1,1);
+parallelcoords(CV_TU8902(nucleotideIndex,:), 'group', metabolomics(nucleotideIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - TU9802 nucleotide')
+legend('location', 'bestoutside');
+subplot(2,1,2);
+parallelcoords(CV_HCT116(nucleotideIndex,:), 'group', metabolomics(nucleotideIndex,1), 'Labels', conditions);
+title('Coefficient of Variation Values - HCT116 nucleotide')
+legend('location', 'bestoutside');
+hold off
 
 %% DFA Filter 1: CV thresholds
+%{
+ This filter will be broken down into two sections: Any and All. Each section will have different threshold cut offs as well. Threshold Values are as follows:
+    (1) Below 1
+    (2) Between 0.5 and 1
+    (3) Between 0.1 and 1
+ALL:
+%} 
+%1
+[all_CV1_keep_TU9802, all_CV1_delete_TU9802] = all_CV_Filter(CV_TU8902,metabolomics,1);
+[all_CV1_keep_HCT116, all_CV1_delete_HCT116] = all_CV_Filter(CV_HCT116,metabolomics,1);
+
+%2
+[all_CV2_keep_TU9802, all_CV2_delete_TU9802] = all_CV_Filter(CV_TU8902,metabolomics,2);
+[all_CV2_keep_HCT116, all_CV2_delete_HCT116] = all_CV_Filter(CV_HCT116,metabolomics,2);
+
+%3
+[all_CV2_keep_TU9802, all_CV2_delete_TU9802] = all_CV_Filter(CV_TU8902,metabolomics,3);
+[all_CV2_keep_HCT116, all_CV2_delete_HCT116] = all_CV_Filter(CV_HCT116,metabolomics,3);
+
 
 %% DFA Filter 2: NaN metabolomics
 %This filter will find all of the metabolites that have no corresponding averages: no data for any of the 12 conditions. This filter will parse through the averages array and if every single column for that specific row equals 0, then the metabolite name will be added to the a new array. 
 % array for TU8902 and HCT116
-no_data_TU9802 = [];
-no_data_HCT116 = [];
+no_data_NAN_TU9802 = [];
+no_data_NAN_HCT116 = [];
 for i = 1:226
     if mean_metabolomic_array_TU8902(i,:) == 0
-        no_data_TU9802 = [no_data_TU9802; metabolomics(i)];
+        no_data_NAN_TU9802 = [no_data_NAN_TU9802; metabolomics(i)];
     end
     
     if mean_metabolomic_array_HCT116(i,:) == 0
-        no_data_HCT116 = [no_data_HCT116; metabolomics(i)];
+        no_data_NAN_HCT116 = [no_data_NAN_HCT116; metabolomics(i)];
     end
 end
 
 %% Use Filter 2 to create new data sheet
-%Now, we will use the Filter 2 to create an excel sheet for DFA. 
-%This for loop will delete the metabolomics that are mentioned in filter 2
-for i = 1:size(no_data_HCT116)
-    for j = 1:size(Tabl_average_HCT116)
-       if strcmpi(no_data_HCT116{i},Tabl_average_HCT116{j,"metabolite"})
-       %if cellfun(@isequal, no_data_HCT116(i), Tabl_average_HCT116(j,"metabolite")) 
-       Tabl_average_HCT116(j,:) = [];
-       end 
-    end
-end
-%Now, export the final table out as an excel sheet. 
+% Now, we will use the Filter 2 to create an excel sheet for DFA. 
+% We will first locate all the locations that have only NaN's in tables and then delete the NaN rows. The HCT116 cell line should delete 7 rows while the TU8902 cell line should delete 6 rows. 
+for i = 1:219
+    bool = all(isnan(table2array(Tabl_average_HCT116(i,2:end))),'all');
+    if bool == true
+        Tabl_average_HCT116(i, : ) = [];
+    end 
+end 
+% Repeat for the TU9802 Cell line
+for i = 1:220
+    bool = all(isnan(table2array(Tabl_average_TU8902(i,2:end))),'all');
+    if bool == true
+        Tabl_average_TU8902(i, : ) = [];
+    end 
+end 
+% Now, export the final table out as an excel sheet. 
 %{
 filename = 'Filter 2: HCT116 Cancer.xlsx';
-writetable(Tabl_std_HCT116,filename);
+writetable(Tabl_average_HCT116,filename,"FileType","spreadsheet");
+
+filename2 = 'Filter 2: TU8902 Cancer.xlsx';
+writetable(Tabl_average_TU8902,filename,"FileType","spreadsheet");
 %}
