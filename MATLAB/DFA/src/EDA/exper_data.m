@@ -8,14 +8,12 @@ Summary
 Create tables for averages and standard deviations.  
 Normalize the Data
 Separate the Data: GOT1 vs NT Data
-Create a corelation matrix and a following heatmap
-Create the correlation matrix, CV 
-Create heatmaps to visualize the averages
-Scatterplots of the mean and standard deviations
-Coefficient of Variation Plots
-DFA Filter 1: CV thresholds
-DFA Filter 2: NaN metabolomics
-Use Filter 2 to create new data sheet
+Create Numeric Arrays of all Tables
+Create the coefficient of variation, CV 
+DFA Filter 1: CV thresholds + NaN: 0.1
+DFA Filter 1: CV thresholds + NaN: 0.3
+DFA Filter 1: CV thresholds: 0.6
+DFA Filter 2: NaN Filter
 %}
 
 %% Summary
@@ -30,11 +28,33 @@ experimental_data_HCT116 = readtable('Barb Nelson Pos Table-20180410 - HL.xlsx',
 experimental_data_TU8902.transition = [];
 experimental_data_HCT116.transition = [];
 
+%delete the second histidine row
+experimental_data_HCT116(108,:) = [];
+experimental_data_TU8902(108, :) = [];
+experimental_data_HCT116(192,:) = [];
+experimental_data_TU8902(192, :) = [];
+
+%clear away all the extra clutter in the metabolites column of the above
+%tables
+experimental_data_TU8902.metabolite = strrep(experimental_data_TU8902.metabolite, 'RP_Pos_', '');
+experimental_data_TU8902.metabolite = strrep(experimental_data_TU8902.metabolite, '_', '');
+
+experimental_data_HCT116.metabolite = strrep(experimental_data_HCT116.metabolite, 'RP_Pos_', '');
+experimental_data_HCT116.metabolite = strrep(experimental_data_HCT116.metabolite, '_', '');
+
 %download metabolomics and clusterring data
-metabolomics = readtable('Barb Nelson Pos Table-20180410 - HL.xlsx', ... 
+metabolomics_TU8902 = readtable('Barb Nelson Pos Table-20180410 - HL.xlsx', ... 
     'Sheet', 'Clustering');
-metabolomics(1,:) = [];
-metabolomics = table2array(metabolomics);
+metabolomics_TU8902(1,:) = [];
+metabolomics_TU8902(108,:) = [];
+metabolomics_TU8902(192,:) = [];
+metabolomics_TU8902 = table2array(metabolomics_TU8902);
+metabolomics_TU8902 = string(metabolomics_TU8902);
+metabolomics_TU8902(:, 1) = strrep(metabolomics_TU8902(:, 1), 'RP_Pos_', '');
+metabolomics_TU8902(:, 1) = strrep(metabolomics_TU8902(:, 1), '_', '');
+
+metabolomics_HCT116 = metabolomics_TU8902;
+
 
 %have a categorical array of all the conditions present
 all_conditions = ["shNT no dox"; "shNT 2d dox"; "shNT 4d dox"; "shGOT1 no dox"; "shGOT1 2d dox"; "shGOT1 4d dox"; "shNT no dox media"; "shNT 2d dox media"; "shNT 4d dox media"; "shGOT1 no dox media"; "shGOT1 2d dox media"; "shGOT1 4d dox media"];
@@ -44,9 +64,9 @@ nt_conditions = ["shNT no dox"; "shNT 2d dox"; "shNT 4d dox"; "shNT no dox media
 %% Create tables for averages and standard deviations.  
 %This here is going to take the averages and standard deviations from the original experimental data and fill two new tables with their values. Any NaN will be turned to 0 prior to finding the mean and standard deviations. 
 Tabl_average_TU8902 = computeReplicateMetrics(experimental_data_TU8902, 'mean');
-Tabl_average_TU8902(227,:) = [];
+Tabl_average_TU8902(225,:) = [];
 Tabl_std_TU8902 = computeReplicateMetrics(experimental_data_TU8902, 'stddev');
-Tabl_std_TU8902(227,:) = [];
+Tabl_std_TU8902(225,:) = [];
 Tabl_average_HCT116 = computeReplicateMetrics(experimental_data_HCT116, 'mean');
 Tabl_std_HCT116 = computeReplicateMetrics(experimental_data_HCT116, 'stddev');
 
@@ -61,68 +81,47 @@ Tabl_std_TU8902(:, 2:end) = normalize(Tabl_std_TU8902(:, 2:end), 'range');
 
 %% Separate the Data: GOT1 vs NT Data
 % CELL LINE: HCT116
-T_avg_HCT116_GOT1 = Tabl_average_HCT116(:, {'metabolite', 'HCT116_shGOT1_no_dox_1','HCT116_shGOT1_2d_dox_1', 'HCT116_shGOT1_4d_dox_1', 'HCT116_shGOT1_no_dox_media_1', 'HCT116_shGOT1_2d_dox_media_1', 'HCT116_shGOT1_4d_dox_media_1'});
-T_avg_HCT116_NT = Tabl_average_HCT116(:, {'metabolite', 'HCT116_shNT_no_dox_1','HCT116_shNT_2d_dox_1', 'HCT116_shNT_4d_dox_1', 'HCT116_shNT_no_dox_media_1', 'HCT116_shNT_2d_dox_media_1', 'HCT116_shNT_4d_dox_media_1'});
+Tabl_avg_HCT116_GOT1 = Tabl_average_HCT116(:, {'metabolite', 'HCT116_shGOT1_no_dox_1','HCT116_shGOT1_2d_dox_1', 'HCT116_shGOT1_4d_dox_1', 'HCT116_shGOT1_no_dox_media_1', 'HCT116_shGOT1_2d_dox_media_1', 'HCT116_shGOT1_4d_dox_media_1'});
+Tabl_avg_HCT116_NT = Tabl_average_HCT116(:, {'metabolite', 'HCT116_shNT_no_dox_1','HCT116_shNT_2d_dox_1', 'HCT116_shNT_4d_dox_1', 'HCT116_shNT_no_dox_media_1', 'HCT116_shNT_2d_dox_media_1', 'HCT116_shNT_4d_dox_media_1'});
 
-T_std_HCT116_GOT1 = Tabl_std_HCT116(:, {'metabolite', 'HCT116_shGOT1_no_dox_1','HCT116_shGOT1_2d_dox_1', 'HCT116_shGOT1_4d_dox_1', 'HCT116_shGOT1_no_dox_media_1', 'HCT116_shGOT1_2d_dox_media_1', 'HCT116_shGOT1_4d_dox_media_1'});
-T_std_HCT116_NT = Tabl_std_HCT116(:, {'metabolite', 'HCT116_shNT_no_dox_1','HCT116_shNT_2d_dox_1', 'HCT116_shNT_4d_dox_1', 'HCT116_shNT_no_dox_media_1', 'HCT116_shNT_2d_dox_media_1', 'HCT116_shNT_4d_dox_media_1'});
-
-%create numeric arrays
-avg_HCT116_GOT1 = table2array(T_avg_HCT116_GOT1(:, 2:end));
-avg_HCT116_NT = table2array(T_avg_HCT116_NT(:, 2:end));
-
-std_HCT116_GOT1 = table2array(T_std_HCT116_GOT1(:, 2:end));
-std_HCT116_NT = table2array(T_std_HCT116_NT(:, 2:end));
+Tabl_std_HCT116_GOT1 = Tabl_std_HCT116(:, {'metabolite', 'HCT116_shGOT1_no_dox_1','HCT116_shGOT1_2d_dox_1', 'HCT116_shGOT1_4d_dox_1', 'HCT116_shGOT1_no_dox_media_1', 'HCT116_shGOT1_2d_dox_media_1', 'HCT116_shGOT1_4d_dox_media_1'});
+Tabl_std_HCT116_NT = Tabl_std_HCT116(:, {'metabolite', 'HCT116_shNT_no_dox_1','HCT116_shNT_2d_dox_1', 'HCT116_shNT_4d_dox_1', 'HCT116_shNT_no_dox_media_1', 'HCT116_shNT_2d_dox_media_1', 'HCT116_shNT_4d_dox_media_1'});
 
 % CELL LINE: TU9802
-T_avg_TU8902_GOT1 = Tabl_average_TU8902(:, {'metabolite', 'TU8902_shGOT1_no_dox_1','TU8902_shGOT1_2d_dox_1', 'TU8902_shGOT1_4d_dox_1', 'TU8902_shGOT1_no_dox_media_1', 'TU8902_shGOT1_2d_dox_media_1', 'TU8902_shGOT1_4d_dox_media_1'});
-T_avg_TU8902_NT = Tabl_average_TU8902(:, {'metabolite', 'TU8902_shNT_no_dox_1','TU8902_shNT_2d_dox_1', 'TU8902_shNT_4d_dox_1', 'TU8902_shNT_no_dox_media_1', 'TU8902_shNT_2d_dox_media_1', 'TU8902_shNT_4d_dox_media_1'});
+Tabl_avg_TU8902_GOT1 = Tabl_average_TU8902(:, {'metabolite', 'TU8902_shGOT1_no_dox_1','TU8902_shGOT1_2d_dox_1', 'TU8902_shGOT1_4d_dox_1', 'TU8902_shGOT1_no_dox_media_1', 'TU8902_shGOT1_2d_dox_media_1', 'TU8902_shGOT1_4d_dox_media_1'});
+Tabl_avg_TU8902_NT = Tabl_average_TU8902(:, {'metabolite', 'TU8902_shNT_no_dox_1','TU8902_shNT_2d_dox_1', 'TU8902_shNT_4d_dox_1', 'TU8902_shNT_no_dox_media_1', 'TU8902_shNT_2d_dox_media_1', 'TU8902_shNT_4d_dox_media_1'});
 
-T_std_TU8902_GOT1 = Tabl_std_TU8902(:, {'metabolite', 'TU8902_shGOT1_no_dox_1','TU8902_shGOT1_2d_dox_1', 'TU8902_shGOT1_4d_dox_1', 'TU8902_shGOT1_no_dox_media_1', 'TU8902_shGOT1_2d_dox_media_1', 'TU8902_shGOT1_4d_dox_media_1'});
-T_std_TU8902_NT = Tabl_std_TU8902(:, {'metabolite', 'TU8902_shNT_no_dox_1','TU8902_shNT_2d_dox_1', 'TU8902_shNT_4d_dox_1', 'TU8902_shNT_no_dox_media_1', 'TU8902_shNT_2d_dox_media_1', 'TU8902_shNT_4d_dox_media_1'});
+Tabl_std_TU8902_GOT1 = Tabl_std_TU8902(:, {'metabolite', 'TU8902_shGOT1_no_dox_1','TU8902_shGOT1_2d_dox_1', 'TU8902_shGOT1_4d_dox_1', 'TU8902_shGOT1_no_dox_media_1', 'TU8902_shGOT1_2d_dox_media_1', 'TU8902_shGOT1_4d_dox_media_1'});
+Tabl_std_TU8902_NT = Tabl_std_TU8902(:, {'metabolite', 'TU8902_shNT_no_dox_1','TU8902_shNT_2d_dox_1', 'TU8902_shNT_4d_dox_1', 'TU8902_shNT_no_dox_media_1', 'TU8902_shNT_2d_dox_media_1', 'TU8902_shNT_4d_dox_media_1'});
 
-%create numeric arrays
-avg_TU8902_GOT1 = table2array(T_avg_TU8902_GOT1(:, 2:end));
-avg_TU8902_NT = table2array(T_avg_TU8902_NT(:, 2:end));
-
-std_TU8902_GOT1 = table2array(T_std_TU8902_GOT1(:, 2:end));
-std_TU8902_NT = table2array(T_std_TU8902_NT(:, 2:end));
-
-%% Create a corelation matrix and a following heatmap
-%Do this by first converting all the NaN values into 0 and then create a corelation matrix of the metabolites using an array of averages.  
-% create arrays from the tables above. 
+%% Create Numeric Arrays of all Tables
+% Cell Line: TU8902
+%all conditions
 mean_metabolomic_array_TU8902 = table2array(Tabl_average_TU8902(:,2:end));
 std_metabolomic_array_TU8902 = table2array(Tabl_std_TU8902(:,2:end));
 
+%GOT1 and NT
+avg_TU8902_GOT1 = table2array(Tabl_avg_TU8902_GOT1(:, 2:end));
+avg_TU8902_NT = table2array(Tabl_avg_TU8902_NT(:, 2:end));
+
+std_TU8902_GOT1 = table2array(Tabl_std_TU8902_GOT1(:, 2:end));
+std_TU8902_NT = table2array(Tabl_std_TU8902_NT(:, 2:end));
+
+% Cell Line: HCT116
+%all conditions
 mean_metabolomic_array_HCT116 = table2array(Tabl_average_HCT116(:,2:end));
 std_metabolomic_array_HCT116 = table2array(Tabl_std_HCT116(:,2:end));
 
-%Convert all the NaN values to 0
-mean_metabolomic_array_TU8902(isnan(mean_metabolomic_array_TU8902)) = 0;
-mean_metabolomic_array_HCT116(isnan(mean_metabolomic_array_HCT116)) = 0;
+%GOT1 and NT
+avg_HCT116_GOT1 = table2array(Tabl_avg_HCT116_GOT1(:, 2:end));
+avg_HCT116_NT = table2array(Tabl_avg_HCT116_NT(:, 2:end));
 
-%r matrix and its heatmap - for the 12 conditions
-averageCorrMat_TU8902 = corrcoef(mean_metabolomic_array_TU8902);
-figure (1);
-heatmap(all_conditions, all_conditions, averageCorrMat_TU8902);
-title 'Correlation Matrix of TU8902 Averages across 12 Conditions';
+std_HCT116_GOT1 = table2array(Tabl_std_HCT116_GOT1(:, 2:end));
+std_HCT116_NT = table2array(Tabl_std_HCT116_NT(:, 2:end));
 
-averageCorrMat_HCT116 = corrcoef(mean_metabolomic_array_HCT116);
-figure (2);
-heatmap(all_conditions, all_conditions, averageCorrMat_HCT116);
-title 'Correlation Matrix of HCT116 mean values over 12 conditions';
+%% Create the coefficient of variation, CV 
+%CV matrix for all combinations
 
-% create r matrix and heatmaps for the metabolomics
-corrmat = zeros(12);
-for i = 1:size(mean_metabolomic_array_TU8902, 1)
-    metabolite = mean_metabolomic_array_TU8902(i, :);
-    tmp = corr(metabolite);
-    corrmat(:, i) = diag(tmp);
-end 
-% NOTE: Running this gives a matrix of NaNs.
-
-%% Create the correlation matrix, CV 
-%CV matrix
 CV_TU8902 = std_metabolomic_array_TU8902 ./ mean_metabolomic_array_TU8902;
 CV_TU8902_GOT1 = std_TU8902_GOT1 ./ avg_TU8902_GOT1;
 CV_TU8902_NT = std_TU8902_NT ./ avg_TU8902_NT;
@@ -131,230 +130,99 @@ CV_HCT116 = std_metabolomic_array_HCT116 ./ mean_metabolomic_array_HCT116;
 CV_HCT116_GOT1 = std_HCT116_GOT1 ./ avg_HCT116_GOT1;
 CV_HCT116_NT = std_HCT116_NT ./ avg_HCT116_NT;
 
-%% Create heatmaps to visualize the averages
-figure (3);
-heatmap(all_conditions, metabolomics(:,1),mean_metabolomic_array_TU8902, 'ColorScaling', 'log');
-xlabel('Conditions');
-ylabel('Metabolite');
-title('Heatmap - Averages - TU8902');
-colormap 'cool';
-figure (4);
-heatmap(all_conditions, metabolomics(:,1),mean_metabolomic_array_HCT116, 'ColorScaling', 'log');
-xlabel('Conditions');
-ylabel('Metabolite');
-title('Heatmap - Averages - HCT116');
-colormap 'cool';
+%% DFA Filter 1: CV thresholds + NaN: 0.1
+[filtered_table_TU8902_01, metabolite_delete_TU8902_01,metabolomics_TU8902_01] = all_CV_Filter(CV_TU8902,metabolomics_TU8902,Tabl_average_TU8902,0.1, all_conditions);
+[filtered_table_HCT116_01, metabolite_delete_HCT116_01,metabolomics_HCT116_01] = all_CV_Filter(CV_HCT116,metabolomics_HCT116,Tabl_average_HCT116,0.1, all_conditions);
 
-%% Scatterplots of the mean and standard deviations
-%scatterplots of mean and std
-figure (5);
-scatter(mean_metabolomic_array_TU8902(:,1), std_metabolomic_array_TU8902(:,1));
-figure (6);
 
-aminoAcidIndex = findClusterType(metabolomics,'amino acid');
-subplot(3,1,1);
-parallelcoords(mean_metabolomic_array_TU8902(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Mean Values - TU9802 Amino Acids')
-legend('location', 'bestoutside');
-subplot(3,1,2);
-parallelcoords(avg_TU8902_GOT1(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', got1_conditions);
-xtickangle(45);
-title('Mean Values - TU9802 Amino Acids GOT1')
-legend('location', 'bestoutside');
+bool = isnan(table2array(filtered_table_HCT116_01(:, 2:end)));
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_HCT116_01(sum(double(bool),2) > 5);
+filtered_table_HCT116_01(sum(double(bool), 2) > 5, :) = [];
+metabolomics_HCT116_01(sum(double(bool), 2) > 5, :) = [];
 
-subplot(3,1,3);
-parallelcoords(avg_TU8902_NT(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', nt_conditions);
-xtickangle(45);
-title('Mean Values - TU9802 Amino Acids NT')
-legend('location', 'bestoutside');
+%filename = 'CVnanFilter0.6CancerHCT116.xlsx';
+%writetable(filtered_table_HCT116,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-figure (7);
-hold on
-subplot(3,1,1);
-parallelcoords(mean_metabolomic_array_TU8902, 'group', metabolomics(:,2), 'labels', all_conditions);
-xtickangle(45);
-title('Mean of the metabolomics: TU8902');
-legend('location', 'bestoutside');
+bool = isnan(table2array(filtered_table_TU8902_01(:, 2:end)));
 
-subplot(3,1,2);
-parallelcoords(avg_TU8902_GOT1, 'group', metabolomics(:,2), 'labels', got1_conditions);
-xtickangle(45);
-title('Mean of the metabolomics: TU8902 GOT1');
-legend('location', 'bestoutside');
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_TU8902_01(sum(double(bool),2) > 5);
+filtered_table_TU8902_01(sum(double(bool), 2) > 5, :) = [];
+metabolomics_TU8902_01(sum(double(bool),2) > 5,:) = [];
+%filename = 'CVnanFilter0.6CancerTU8902.xlsx';
+%writetable(filtered_table_TU8902,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-subplot(3,1,3);
-parallelcoords(avg_TU8902_NT, 'group', metabolomics(:,2), 'labels', nt_conditions);
-xtickangle(45);
-title('Mean of the metabolomics: TU8902 NT');
-legend('location', 'bestoutside');
-hold off
+%% DFA Filter 1: CV thresholds + NaN: 0.3
+[filtered_table_TU8902_03, metabolite_delete_TU8902_03,metabolomics_TU8902_03] = all_CV_Filter(CV_TU8902,metabolomics_TU8902,Tabl_average_TU8902,0.3, all_conditions);
+[filtered_table_HCT116_03, metabolite_delete_HCT116_03,metabolomics_HCT116_03] = all_CV_Filter(CV_HCT116,metabolomics_HCT116,Tabl_average_HCT116,0.3, all_conditions); 
 
-figure (8)
+bool = isnan(table2array(filtered_table_HCT116_03(:, 2:end)));
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_HCT116_03(sum(double(bool),2) > 5);
+filtered_table_HCT116_03(sum(double(bool), 2) > 5, :) = [];
+metabolomics_HCT116_03(sum(double(bool), 2) > 5, :) = [];
 
-subplot(3,1,1);
-parallelcoords(mean_metabolomic_array_HCT116, 'group', metabolomics(:,2), 'Labels', all_conditions);
-xtickangle(45);
-title('Mean metabolomics Data: HCT116');
-legend('location', 'bestoutside');
+%filename = 'CVnanFilter0.6CancerHCT116.xlsx';
+%writetable(filtered_table_HCT116,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-subplot(3,1,2);
-parallelcoords(avg_HCT116_GOT1, 'group', metabolomics(:,2), 'Labels', got1_conditions);
-xtickangle(45);
-title('Mean metabolomics Data: HCT116 GOT1');
-legend('location', 'bestoutside');
+bool = isnan(table2array(filtered_table_TU8902_03(:, 2:end)));
 
-subplot(3,1,3);
-parallelcoords(avg_HCT116_NT, 'group', metabolomics(:,2), 'Labels', nt_conditions);
-xtickangle(45);
-title('Mean metabolomics Data: HCT116 NT');
-legend('location', 'bestoutside');
-hold off
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_TU8902_03(sum(double(bool),2) > 5);
+filtered_table_TU8902_03(sum(double(bool), 2) > 5, :) = [];
+metabolomics_TU8902_03(sum(double(bool),2) > 5,:) = [];
+%filename = 'CVnanFilter0.6CancerTU8902.xlsx';
+%writetable(filtered_table_TU8902,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-figure (9);
-hold on
-subplot(2,1,1);
-parallelcoords(std_metabolomic_array_TU8902, 'group', metabolomics(:,2), "Labels", all_conditions);
-xtickangle(45);
-title('Standard Deviations of the metabolomics: TU8902');
-legend('location', 'bestoutside');
+%% DFA Filter 1: CV thresholds: 0.6
+[filtered_table_TU8902_06, metabolite_delete_TU8902_06,metabolomics_TU8902_06] = all_CV_Filter(CV_TU8902,metabolomics_TU8902,Tabl_average_TU8902,0.6, all_conditions);
+[filtered_table_HCT116_06, metabolite_delete_HCT116_06,metabolomics_HCT116_06] = all_CV_Filter(CV_HCT116,metabolomics_HCT116,Tabl_average_HCT116,0.6, all_conditions);
 
-subplot(2,1,2);
-parallelcoords(std_metabolomic_array_HCT116, 'group', metabolomics(:,2), 'Labels', all_conditions);
-xtickangle(45);
-title('Standard Deviations of the metabolomics: HCT116');
-legend('location', 'bestoutside');
-hold off
 
-%% Coefficient of Variation Plots
-%This is a high level plot of the CV. 
-figure (10);
-subplot(2,1,1);
-parallelcoords(CV_TU8902, 'group', metabolomics(:,2), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of variation: TU8902');
-legend('location', 'bestoutside');
+bool = isnan(table2array(filtered_table_HCT116_06(:, 2:end)));
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_HCT116_06(sum(double(bool),2) > 5);
+filtered_table_HCT116_06(sum(double(bool), 2) > 5, :) = [];
+metabolomics_HCT116_06(sum(double(bool), 2) > 5, :) = [];
 
-subplot(2,1,2);
-parallelcoords(CV_HCT116, 'group', metabolomics(:,2), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation: HCT116');
-legend('location', 'bestoutside');
+%filename = 'CVnanFilter0.6CancerHCT116.xlsx';
+%writetable(filtered_table_HCT116,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-figure (11);
-subplot(2,2,1);
-parallelcoords(CV_TU8902_GOT1, 'group', metabolomics(:,2), 'Labels', got1_conditions);
-xtickangle(45);
-title('Coefficient of variation: TU8902 GOT1');
-legend('location', 'bestoutside');
+bool = isnan(table2array(filtered_table_TU8902_06(:, 2:end)));
 
-subplot(2,2,2);
-parallelcoords(CV_TU8902_NT, 'group', metabolomics(:,2), 'Labels', nt_conditions);
-xtickangle(45);
-title('Coefficient of variation: TU8902 NT');
-legend('location', 'bestoutside');
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_TU8902_06(sum(double(bool),2) > 5);
+filtered_table_TU8902_06(sum(double(bool), 2) > 5, :) = [];
+metabolomics_TU8902_06(sum(double(bool),2) > 5,:) = [];
+%filename = 'CVnanFilter0.6CancerTU8902.xlsx';
+%writetable(filtered_table_TU8902,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-subplot(2,2,3);
-parallelcoords(CV_HCT116_GOT1, 'group', metabolomics(:,2), 'Labels', got1_conditions);
-xtickangle(45);
-title('Coefficient of Variation: HCT116 GOT1');
-legend('location', 'bestoutside');
+%filename = 'cvFilter0.1CancerHCT116.xlsx';
+%writetable(filtered_table_HCT116,filename,'WriteRowNames', true, "FileType","spreadsheet");
 
-subplot(2,2,4);
-parallelcoords(CV_HCT116_NT, 'group', metabolomics(:,2), 'Labels', nt_conditions);
-xtickangle(45);
-title('Coefficient of Variation: HCT116 NT');
-legend('location', 'bestoutside');
-%Now we will look specifically at the amino acids.
-figure (12);
-hold on
-subplot(2,1,1);
-parallelcoords(CV_TU8902(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - TU9802 Amino Acids')
-legend('location', 'bestoutside');
+%filename = 'cvFilter0.1CancerTU8902.xlsx';
+%writetable(filtered_table_TU8902,filename2, 'WriteRowNames', true ,"FileType","spreadsheet");
 
-subplot(2,1,2);
-parallelcoords(CV_HCT116(aminoAcidIndex,:), 'group', metabolomics(aminoAcidIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - HCT116 Amino Acids')
-legend('location', 'bestoutside');
-hold off
-%Now we will look at nucleosides
-nucleosideIndex = findClusterType(metabolomics, 'nucleoside');
+%% DFA Filter 2: NaN Filter
+Now, we will use the Filter 2 to create an excel sheet for DFA. 
+We will first locate all the locations that have only NaN's in tables and then delete the NaN rows. The HCT116 cell line should delete 7 rows while the TU8902 cell line should delete 6 rows. 
+NaN_Filtered_table_HCT116 = Tabl_average_HCT116;
+% Construct an N x M boolean matrix that finds NaNs for each element
+bool = isnan(table2array(Tabl_average_HCT116(:, 2:end)));
 
-figure (13);
-hold on
-subplot(2,1,1);
-parallelcoords(CV_TU8902(nucleosideIndex,:), 'group', metabolomics(nucleosideIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - TU9802 nucleoside')
-legend('location', 'bestoutside');
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteH = metabolomics_HCT116(sum(double(bool),2) >= 6);
+NaN_Filtered_table_HCT116(sum(double(bool), 2) >= 6, :) = [];
+%filename = 'nanFilterCancerHCT116.xlsx';
+%writetable(Tabl_average_HCT116,filename,'WriteRowNames', true, "FileType","spreadsheet");
+Repeat for the TU9802 Cell line
+NaN_Filtered_table_TU8902 = Tabl_average_TU8902;
+% Construct an N x M boolean matrix that finds NaNs for each element
+bool = isnan(table2array(Tabl_average_TU8902(:, 2:end)));
 
-subplot(2,1,2);
-parallelcoords(CV_HCT116(nucleosideIndex,:), 'group', metabolomics(nucleosideIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - HCT116 nucleoside')
-legend('location', 'bestoutside');
-hold off
-%Now we will look at nucleotides
-nucleotideIndex = findClusterType(metabolomics, 'nucleotide');
-
-figure (14);
-hold on
-subplot(2,1,1);
-parallelcoords(CV_TU8902(nucleotideIndex,:), 'group', metabolomics(nucleotideIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - TU9802 nucleotide')
-legend('location', 'bestoutside');
-
-subplot(2,1,2);
-parallelcoords(CV_HCT116(nucleotideIndex,:), 'group', metabolomics(nucleotideIndex,1), 'Labels', all_conditions);
-xtickangle(45);
-title('Coefficient of Variation Values - HCT116 nucleotide')
-legend('location', 'bestoutside');
-hold off
-
-%% DFA Filter 1: CV thresholds
-[metabolite_keep_TU8902, metabolite_delete_TU8902] = all_CV_Filter(CV_TU8902,metabolomics,Tabl_average_TU8902,0.9);
-[metabolite_keep_HCT116, metabolite_delete_HCT116] = all_CV_Filter(CV_HCT116,metabolomics,Tabl_average_HCT116,0.9); 
-
-%% DFA Filter 2: NaN metabolomics
-%This filter will find all of the metabolites that have no corresponding averages: no data for any of the 12 conditions. This filter will parse through the averages array and if every single column for that specific row equals 0, then the metabolite name will be added to the a new array. 
-% array for TU8902 and HCT116
-no_data_NAN_TU9802 = [];
-no_data_NAN_HCT116 = [];
-for i = 1:226
-    if mean_metabolomic_array_TU8902(i,:) == 0
-        no_data_NAN_TU9802 = [no_data_NAN_TU9802; metabolomics(i)];
-    end
-    
-    if mean_metabolomic_array_HCT116(i,:) == 0
-        no_data_NAN_HCT116 = [no_data_NAN_HCT116; metabolomics(i)];
-    end
-end
-
-%% Use Filter 2 to create new data sheet
-%Now, we will use the Filter 2 to create an excel sheet for DFA. 
-%We will first locate all the locations that have only NaN's in tables and then delete the NaN rows. The HCT116 cell line should delete 7 rows while the TU8902 cell line should delete 6 rows. 
-for i = 1:219
-    bool = all(isnan(table2array(Tabl_average_HCT116(i,2:end))),'all');
-    if bool == true
-        Tabl_average_HCT116(i, : ) = [];
-    end 
-end 
-%Repeat for the TU9802 Cell line
-for i = 1:220
-    bool = all(isnan(table2array(Tabl_average_TU8902(i,2:end))),'all');
-    if bool == true
-        Tabl_average_TU8902(i, : ) = [];
-    end 
-end 
-% Now, export the final table out as an excel sheet. 
-%{
-filename = 'Filter 2: HCT116 Cancer.xlsx';
-writetable(Tabl_average_HCT116,filename,"FileType","spreadsheet");
-
-filename2 = 'Filter 2: TU8902 Cancer.xlsx';
-writetable(Tabl_average_TU8902,filename,"FileType","spreadsheet");
-%}
+% If there are more than 6 empty values row-wise, then we'll remove the metabolite. Of course, if you find that there are still a lot NaNs, you can make this filter more stringent.
+metabolite_deleteT = metabolomics_TU8902(sum(double(bool),2) >= 6);
+NaN_Filtered_table_TU8902(sum(double(bool), 2) >= 6, :) = [];
+%filename = 'nanFilterCancerTU8902.xlsx';
+%writetable(Tabl_average_TU8902,filename,'WriteRowNames', true, "FileType","spreadsheet");
