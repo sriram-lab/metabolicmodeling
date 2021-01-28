@@ -1,6 +1,6 @@
 function [fluxstate_gurobi,grate, solverobj]...
     =  constrain_flux_regulation(model1,onreactions,offreactions,kappa,...
-    rho,epsilon,mode,epsilon2,minfluxflag)
+    rho,epsilon,mode,minfluxflag)
 
 if (~exist('mode','var')) || (isempty(mode))
     mode = 1;
@@ -36,9 +36,9 @@ if numel(kappa) == 1
 end
 
 
-if (~exist('epsilon2','var')) || (isempty(epsilon2))
-    epsilon2 = zeros(size(offreactions));
-end
+%if (~exist('epsilon2','var')) || (isempty(epsilon2))
+%    epsilon2 = zeros(size(offreactions));
+%end
 
 if (~exist('minfluxflag','var')) || (isempty(minfluxflag))
     minfluxflag = true; % by default sum of flux through all ractions is minimized
@@ -48,7 +48,7 @@ params.outputflag = 0;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if minfluxflag
     kappa = [kappa(:); ones(size(setdiff(model1.rxns, offreactions)))*1E-6]; % minimize flux through all the reactions. PFBA
-    epsilon2 = [epsilon2; zeros(size(setdiff(model1.rxns, offreactions)))];
+    %epsilon2 = [epsilon2; zeros(size(setdiff(model1.rxns, offreactions)))];
     offreactions = [offreactions(:); setdiff(model1.rxns, offreactions)];
 end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -127,7 +127,7 @@ for jj = 1:length(offreactions)
     colpos = size(model.A,2) + 1;
     model.A(rowpos,rxnpos) = 1;
     model.A(rowpos,colpos) = 1;
-    model.rhs(rowpos) = -epsilon2(jj);
+    model.rhs(rowpos) = 0;
     model.sense(rowpos) = '>';
     model.vtype(colpos) = 'C';
     
@@ -144,7 +144,7 @@ for jj = 1:length(offreactions)
     colpos = size(model.A,2) + 1;
     model.A(rowpos,rxnpos) = 1;
     model.A(rowpos,colpos) = -1;
-    model.rhs(rowpos) = epsilon2(jj);
+    model.rhs(rowpos) = 0;
     model.sense(rowpos) = '<';
     model.vtype(colpos) = 'C';
     
